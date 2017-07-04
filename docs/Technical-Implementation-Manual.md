@@ -100,7 +100,7 @@ In general, any client posting VA events (such as the openVA pipeline) needs to 
 - ICD-10 codes used in DHIS2 (static)
 - The Verbal Autopsy Program UID (static)
 
-It's possible to send multiple events at once, just wrap all events into a container and use the same endpoint:
+It's possible to send multiple events at once, just wrap all events into a list and use the same endpoint:
 
 ```
 {
