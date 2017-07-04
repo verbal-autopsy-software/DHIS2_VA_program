@@ -1,10 +1,15 @@
 # openVA-dhis2
 
-> DHIS2 module for openVA (Open Verbal Autopsy) used in the WHO VA 2016 questionnaire.
+> DHIS2 & openVA (Open Verbal Autopsy)
 
-## About
+DHIS2 metadata repository of the openVA-compatible module including a guide to install DHIS2 metadata in production environment as well as on a demo server and a Technical Implementation Manual for interfacing with the module in the `docs` folder.
+A module is a term used to describe a set of metadata objects (like programs, data elements, ...) scripts to maintain/install it and its documentation.
 
-This is the repository for DHIS2 metadata to include the openVA-compatible program for the most probable Cause Of Death (COD) of a verbally autopsied patient. It includes an Installation guide and a Technical Implementation Manual (in the `docs` folder).
+Currently supported DHIS2 versions:
+
+- 2.25
+- (2.26)
+- (2.27)
 
 ## Contribute
 
