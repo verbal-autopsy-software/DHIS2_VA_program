@@ -53,8 +53,6 @@ The server's endpoint to receive file does not change if a S3 bucket was chosen.
 
 When the SQLite database was successfully posted, its generated `id` (as described above) should flow into an event.
 
-```
-
 Example request (payload below):
 `curl -X POST "https://play.dhis2.org/demo/api/events" -H "Content-Type: application/json" -u admin:district -d @event.json`
 
