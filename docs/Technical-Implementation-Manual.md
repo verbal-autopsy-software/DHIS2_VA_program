@@ -51,7 +51,7 @@ The server's endpoint to receive file does not change if a S3 bucket was chosen.
 
 #### 2. Posting events
 
-When the SQLite database was successfully posted, its generated `id` (as described above) should flow into an event.
+When the file (SQLite database) was successfully posted, its generated `id` (as described above) should flow into an event.
 
 Example request (payload below):
 `curl -X POST "https://play.dhis2.org/demo/api/events" -H "Content-Type: application/json" -u admin:district -d @event.json`
@@ -76,7 +76,7 @@ Payload:
 }
 ```
 
-Let's look at these values:
+Let's look at these properties of the event:
 
 |property        |description  |
 |---             |---           |
@@ -84,13 +84,31 @@ Let's look at these values:
 |orgUnit         |The UID of the Organisation Unit where the event should be registered   |
 |eventDate       |Date of Death   |
 |storedBy        |the name of the user doing the import   |
-|dataElement 1   |VA ID   |
+|dataElement 1   |VA ID as text  |
 |dataElement 2   |Gender - must fit to an option in the "Sex" optionSet (male/female/unknown)  |
 |dataElement 3   |Date of Birth in YYYY-MM-DD format   |
 |dataElement 4   |Age as an Integer   |
 |dataElement 5   |ICD-10 coded Cause of Death - must fit to an option in the "ICD-10" optionSet    |
-|dataElement 6   |The ID received of the raw metadata file   |
-|   |   |
+|dataElement 6   |The ID received from posting the raw metadata file   |
+
+
+In general, any client posting VA events (such as the openVA pipeline) needs to know...
+
+- the Org Unit UID (can be fetched via API as well if an identifier is known)
+- ICD-10 codes used in DHIS2 (static)
+- The Verbal Autopsy Program UID (static)
+
+It's possible to send multiple events at once, just wrap all events into a container:
+
+```
+{
+  "events": [
+    { <event 1>},
+    { <event 2>},
+    ...
+  ]
+}
+```
 
 ### Querying data
 
