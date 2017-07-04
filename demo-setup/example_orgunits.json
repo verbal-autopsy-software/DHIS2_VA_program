@@ -1,0 +1,46 @@
+{
+  "organisationUnits": [
+    {
+      "name": "Country",
+      "id": "wEVB21sQaHu",
+      "shortName": "Country",
+      "openingDate": "2017-07-03"
+    },
+    {
+      "name": "DistrictA1",
+      "id": "SCVeBskgiK6",
+      "shortName": "DistrictA1",
+      "openingDate": "2017-07-03",
+      "parent": {
+        "id": "Sd8e3Yi0vZA"
+      }
+    },
+    {
+      "name": "FacilityA11",
+      "id": "CXmC6GyG6GI",
+      "shortName": "FacilityA11",
+      "openingDate": "2017-07-03",
+      "parent": {
+        "id": "SCVeBskgiK6"
+      }
+    },
+    {
+      "name": "FacilityA12",
+      "id": "RoEPvkwiu7U",
+      "shortName": "FacilityA12",
+      "openingDate": "2017-07-03",
+      "parent": {
+        "id": "SCVeBskgiK6"
+      }
+    },
+    {
+      "name": "RegionA",
+      "id": "Sd8e3Yi0vZA",
+      "shortName": "RegionA",
+      "openingDate": "2017-07-03",
+      "parent": {
+        "id": "wEVB21sQaHu"
+      }
+    }
+  ]
+}
