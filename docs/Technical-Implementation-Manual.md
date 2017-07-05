@@ -2,6 +2,7 @@
 
 ## Key information
 DHIS2 version: 2.25
+
 Verbal Autopsy program implemented as "Single Event Without Registration"
 
 ### Creating a VA event in DHIS2
