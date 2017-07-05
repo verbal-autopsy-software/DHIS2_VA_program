@@ -87,6 +87,7 @@ Let's look at these properties of the event:
 |program         |The UID of the VA program
 |orgUnit         |The UID of the Organisation Unit where the event should be registered
 |eventDate       |Date of Death in YYYY-MM-DD format
+|status          |TBD
 |storedBy        |the name of the 'user' doing the import
 |dataElement 1   |VA ID as text
 |dataElement 2   |Sex - must fit to an option in the "Sex" optionSet (male/female/unknown)
