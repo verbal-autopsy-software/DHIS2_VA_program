@@ -10,6 +10,8 @@ Currently supported DHIS2 versions:
 - (2.26)
 - (2.27)
 
+Current status: in development
+
 ## Contribute
 
 ## Licence
