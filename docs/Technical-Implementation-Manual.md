@@ -8,7 +8,7 @@
 
 #### 1. Posting VA raw survey data as a file to DHIS2
 
-To send a complete Verbal Autopsy event to a Single Event Without Registration program, there are two steps needed: First send the file to a certain API endpoint, receive a unique identifier for that file and use that as the data value for the data element that stores the meta data of the VA survey.
+To send a complete Verbal Autopsy event (that includes a BLOB file) to a Single Event Without Registration program, there are two steps needed: First send the file to a certain API endpoint, receive a unique identifier for that file and use that as the data value for the data element that stores the meta data of the VA survey.
 
 DHIS2 can store arbitrary-sized files as data values via the `/api/fileResources` endpoint - see [**DHIS2 docs on sending file resources**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#webapi_file_resources) and [**DHIS2 docs on working with file data values**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#datavalue_file)
 
