@@ -82,23 +82,23 @@ With a payload:
 
 Let's look at these properties of the event:
 
-|property        |description  |
-|---             |---           |
-|program         |The UID of the VA program  |
-|orgUnit         |The UID of the Organisation Unit where the event should be registered   |
-|eventDate       |Date of Death   |
-|storedBy        |the name of the 'user' doing the import   |
-|dataElement 1   |VA ID as text  |
-|dataElement 2   |Gender - must fit to an option in the "Sex" optionSet (male/female/unknown)  |
-|dataElement 3   |Date of Birth in YYYY-MM-DD format   |
-|dataElement 4   |Age as an Integer   |
-|dataElement 5   |ICD-10 coded Cause of Death - must fit to an option in the "ICD-10" optionSet    |
-|dataElement 6   |The ID received from posting the raw metadata file   |
+|property        |description
+|---             |---
+|program         |The UID of the VA program
+|orgUnit         |The UID of the Organisation Unit where the event should be registered
+|eventDate       |Date of Death in YYYY-MM-DD format
+|storedBy        |the name of the 'user' doing the import
+|dataElement 1   |VA ID as text
+|dataElement 2   |Sex - must fit to an option in the "Sex" optionSet (male/female/unknown)
+|dataElement 3   |Date of Birth in YYYY-MM-DD format
+|dataElement 4   |Age in years (Integer)
+|dataElement 5   |ICD-10 coded Cause of Death - must fit to an option in the "ICD-10" optionSet
+|dataElement 6   |The ID received from posting the blob file
 
 
 In general, any client posting VA events (such as the openVA pipeline) needs to know...
 
-- the Org Unit UID (can be fetched via API as well if an identifier is known)
+- the Organisation Unit UID (can be fetched via API as well if an identifier is known)
 - ICD-10 codes used in DHIS2 (static)
 - The Verbal Autopsy Program UID (static)
 
