@@ -10,7 +10,7 @@
 
 To send a complete Verbal Autopsy event (that includes a BLOB file) to a Single Event Without Registration program, there are two steps needed: First send the file to a certain API endpoint, receive a unique identifier for that file and use that as the data value for the data element that stores the meta data of the VA survey.
 
-DHIS2 can store arbitrary-sized files as data values via the `/api/fileResources` endpoint - see [**DHIS2 docs on sending file resources**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#webapi_file_resources) and [**DHIS2 docs on working with file data values**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#datavalue_file)
+DHIS2 can store arbitrary-sized files as data values via the `/api/fileResources` endpoint - see [**DHIS2 docs on sending file resources**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#webapi_file_resources) and [**DHIS2 docs on working with file data values**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#datavalue_file).
 
 Example request:
 `curl -X POST -v -F "file=@/path/to/verbalautopsy-raw-someid.db;filename=someid.db" https://va.swisstph-mis.ch/api/fileResources -u username:password`
@@ -88,11 +88,11 @@ Let's look at these properties of the event:
 |orgUnit         |The UID of the Organisation Unit where the event should be registered
 |eventDate       |Date of Death in YYYY-MM-DD format
 |status          |The status of the event - in the case of a Single Event w/o Registration it is `COMPLETED`
-|storedBy        |the name of the 'user' doing the import
+|storedBy        |the name of the user doing the import
 |dataElement 1   |VA ID as text
-|dataElement 2   |Sex - must fit to an option in the "Sex" optionSet (male/female/unknown)
+|dataElement 2   |Sex - must fit to an option in the "Sex" optionSet
 |dataElement 3   |Date of Birth in YYYY-MM-DD format
-|dataElement 4   |Age in years (Integer)
+|dataElement 4   |Age in years
 |dataElement 5   |ICD-10 coded Cause of Death - must fit to an option in the "ICD-10" optionSet
 |dataElement 6   |The ID received from posting the blob file
 
