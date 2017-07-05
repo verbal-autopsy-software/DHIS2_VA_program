@@ -1,0 +1,54 @@
+{
+  "system": {
+    "id": "c3e74eeb-dbd3-471f-a693-1708ad57f793",
+    "rev": "9b2e099",
+    "version": "2.25",
+    "date": "2017-07-05T14:21:11.263"
+  },
+  "optionSets": [
+    {
+      "name": "Sex",
+      "id": "JFWEdW5OBJp",
+      "publicAccess": "rw------",
+      "version": 0,
+      "valueType": "TEXT",
+      "options": [
+        {
+          "id": "xL2Ie1WLGLf"
+        },
+        {
+          "id": "PQZm3JB8rlX"
+        },
+        {
+          "id": "BVVazQh8xEV"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "code": "female",
+      "name": "Female",
+      "id": "PQZm3JB8rlX",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      }
+    },
+    {
+      "code": "male",
+      "name": "Male",
+      "id": "xL2Ie1WLGLf",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      }
+    },
+    {
+      "code": "unknown",
+      "name": "Unknown",
+      "id": "BVVazQh8xEV",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      }
+    }
+  ]
+}
