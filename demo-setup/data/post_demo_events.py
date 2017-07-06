@@ -203,7 +203,10 @@ if __name__ == '__main__':
 
     print("{}+++ Warning: This script does load {} random Verbal Autopsy events to {} "
           "and posts SQlite files to /api/fileResources. OK? Abort with CTRL+C {}".format(WARNING, args.events, args.server, ENDC))
-    time.sleep(1)
+    try:
+        time.sleep(10)
+    except KeyboardInterrupt:
+        print("Creating events and blobs aborted. Nothing was created or imported.")
 
     system_uids = api.get('system/id', params={'limit': args.events}).get('codes')
     va_programs = api.get('programs', params={'filter': 'name:like:Verbal Autopsy'}).get('programs')
@@ -245,7 +248,10 @@ if __name__ == '__main__':
         json.dump(export, json_file, indent=4)
 
     print("Import file stored at events.json - {} Proceeding to POST that import file NOW...{} Abort with CTRL+C.".format(WARNING, ENDC))
-    time.sleep(5)
+    try:
+        time.sleep(5)
+    except KeyboardInterrupt:
+        print("POSTing events aborted. Nothing was imported to {}".format(args.server))
 
     log = api.post('events', data=export)
     print("\n\n")
