@@ -1,1 +1,5 @@
 tools/
+.idea/
+log.json
+events.json
+demo-setup/blobs/
