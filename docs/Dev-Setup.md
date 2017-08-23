@@ -4,7 +4,7 @@
 
 To install DHIS2, follow the official Installation manual: https://docs.dhis2.org/2.25/en/implementer/html/dhis2_implementation_guide_full.html#installation
 
-Or download a complete DHIS2 VirtualBox Image here: https://drive.switch.ch/index.php/s/T1zwEXlyB1WlayM
+Or download a complete DHIS2 VirtualBox Image here (File > Import appliance...): https://drive.switch.ch/index.php/s/T1zwEXlyB1WlayM
 
 - Ubuntu user: `dhis` / Password: `dhis`
 - Start Tomcat: `/home/dhis/tomcat-dhis/bin/startup.sh`
