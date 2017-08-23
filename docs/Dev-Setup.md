@@ -17,4 +17,5 @@ Or download a VirtualBox Image here: https://drive.switch.ch/index.php/s/YBh3sBc
 - `dropdb dhis2`
 - `createdb -O dhis dhis2`
 - `psql dhis2 < va-dhis2-full-db.sql`
+- `exit` back to `dhis` user
 - Start Tomcat (see above) and inspect DHIS2 logs with `dhis_logs`
