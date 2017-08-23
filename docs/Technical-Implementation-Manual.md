@@ -72,7 +72,6 @@ With a payload:
   "dataValues": [
     { "dataElement": "htm6PixLJNy", "value": "someVerbalAutopsyId" },
     { "dataElement": "hi7qRC4SMMk", "value": "male" },
-    { "dataElement": "mwSaVq64k7j", "value": "1997-05-18" },
     { "dataElement": "oPAg4MA0880", "value": "22" },
     { "dataElement": "F4XGdOBvWww", "value": "E881" },
     { "dataElement": "XLHIBoLtjGt", "value": "xm4JwRwke0i" }
