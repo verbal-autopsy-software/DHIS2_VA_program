@@ -15,4 +15,4 @@ Current status: in development
 ## Contribute
 
 ## Licence
-tbd
+GNU General Public License v3.0
