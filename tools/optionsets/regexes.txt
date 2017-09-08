@@ -1,0 +1,5 @@
+Regex to remove Lines with Roman numerals:
+[XVI]+\|.*
+
+Regex to remove sub-chapter ranges
+[A-Z][0-9]{1,2}-[A-Z][0-9]{1,2}\|.*

@@ -141,7 +141,7 @@ class VerbalAutopsyEvent(object):
         """
 
         # should add up to 100 for better comparison
-        choices = {"male": 40, "female": 40, "intermediate": 3, "unknown": 8, "missing": 9}
+        choices = {"male": 45, "female": 45, "intermediate": 1, "unknown": 5, "missing": 4}
         return random.choice([k for k in choices for x in range(choices[k])])
 
     def format_to_dhis2(self, username):
@@ -208,7 +208,6 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         print("Creating events and blobs aborted. Nothing was created or imported.")
 
-    system_uids = api.get('system/id', params={'limit': args.events}).get('codes')
     va_programs = api.get('programs', params={'filter': 'name:like:Verbal Autopsy'}).get('programs')
     orgunit_valid = len(
         api.get('organisationUnits', params={'filter': 'id:eq:{}'.format(args.orgunit)})['organisationUnits']) == 1
