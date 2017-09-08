@@ -1,0 +1,95 @@
+{
+    "dataElements": [
+        {
+            "code": "VA-01", 
+            "description": "The ID from the Verbal Autopsy conducted", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "NONE", 
+            "shortName": "VA ID", 
+            "formName": "Verbal Autopsy ID", 
+            "id": "htm6PixLJNy", 
+            "name": "VA-01-Verbal Autopsy ID"
+        }, 
+        {
+            "code": "VA-02", 
+            "description": "Sex of the patient (male or female)", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "NONE", 
+            "shortName": "Sex", 
+            "formName": "Sex", 
+            "optionSet": {
+                "id": "JFWEdW5OBJp"
+            }, 
+            "id": "hi7qRC4SMMk", 
+            "name": "VA-02-Sex"
+        }, 
+        {
+            "code": "VA-03", 
+            "description": "Date of birth (if known)", 
+            "domainType": "TRACKER", 
+            "valueType": "DATE", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "AVERAGE", 
+            "shortName": "DoB", 
+            "formName": "Date of Birth", 
+            "id": "mwSaVq64k7j", 
+            "name": "VA-03-Date of Birth"
+        }, 
+        {
+            "code": "VA-04", 
+            "description": "Age of person in years", 
+            "domainType": "TRACKER", 
+            "valueType": "NUMBER", 
+            "zeroIsSignificant": true, 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "AVERAGE", 
+            "shortName": "Age", 
+            "formName": "Age (in Years)", 
+            "id": "oPAg4MA0880", 
+            "name": "VA-04-Age (in Years)"
+        }, 
+        {
+            "code": "VA-05", 
+            "description": "Most probable Cause of Death determined by Verbal Autopsy", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "NONE", 
+            "shortName": "Cause of Death", 
+            "formName": "Most probable Cause of Death", 
+            "optionSet": {
+                "id": "LAWwdYur1ds"
+            }, 
+            "id": "F4XGdOBvWww", 
+            "name": "VA-05-Most probable Cause of Death"
+        }, 
+        {
+            "code": "VA-06", 
+            "description": "SQLite file holding VA raw data", 
+            "domainType": "TRACKER", 
+            "valueType": "FILE_RESOURCE", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "NONE", 
+            "shortName": "VA metadata", 
+            "formName": "Verbal Autopsy metadata", 
+            "id": "XLHIBoLtjGt", 
+            "name": "VA-06-Verbal Autopsy metadata"
+        }
+    ]
+}
