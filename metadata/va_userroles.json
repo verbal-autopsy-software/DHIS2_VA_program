@@ -1,0 +1,21 @@
+{
+  "userRoles": [{
+    "authorities": [
+      "F_EXPORT_EVENTS",
+      "F_OPTIONSET_PUBLIC_ADD",
+      "F_OPTIONSET_DELETE",
+      "F_TRACKED_ENTITY_DATAVALUE_ADD",
+      "F_IMPORT_EVENTS",
+      "F_OPTIONSET_PRIVATE_ADD",
+      "M_dhis-web-event-capture",
+      "F_TRACKED_ENTITY_DATAVALUE_DELETE"
+    ],
+    "dataSets": [],
+    "id": "b4Wpw1VDIPl",
+    "name": "openVA Pipeline",
+    "programs": [{
+      "id": "sv91bCroFFx"
+    }],
+    "translations": []
+  }]
+}
