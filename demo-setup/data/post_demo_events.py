@@ -110,7 +110,7 @@ class VerbalAutopsyEvent(object):
         self.datavalues = [
             {"dataElement": "htm6PixLJNy", "value": self.va_id},
             {"dataElement": "hi7qRC4SMMk", "value": self.random_sex()},
-            {"dataElement": "F4XGdOBvWww", "value": random.choice(icd10)},
+            {"dataElement": "F4XGdOBvWww", "value": self.choose_icd10(icd10)},
             {"dataElement": "XLHIBoLtjGt", "value": file_id}
         ]
 
@@ -143,6 +143,44 @@ class VerbalAutopsyEvent(object):
         # should add up to 100 for better comparison
         choices = {"male": 45, "female": 45, "intermediate": 1, "unknown": 5, "missing": 4}
         return random.choice([k for k in choices for x in range(choices[k])])
+
+    @staticmethod
+    def choose_icd10(icd10):
+        """ Returns a weighted chose of ICD-10 for better demo purposes
+        :rtype: str
+        """
+        weighted = {
+            "A00": 10, "A01": 10, "A02": 10, "A03": 10, "A04": 10, "A05": 10, "A06": 10,
+            "A07": 10, "A08": 10, "A09": 10, "A15": 10, "A16": 8, "A17": 5, "A18": 5,
+            "A19": 4, "A20": 5, "A21": 5, "A22": 5, "A23": 5, "A24": 5, "A25": 5,
+            "A26": 5, "A27": 5, "A28": 5, "A30": 5, "A31": 5, "A32": 5, "A33": 5,
+            "A34": 5, "A35": 5, "A36": 5, "A37": 4, "A38": 5, "A39": 5, "A40": 5,
+            "A41": 5, "A42": 5, "A43": 5, "A44": 5, "A46": 5, "A48": 5, "A49": 5,
+            "A50": 5, "A51": 5, "A52": 3, "A53": 5, "A54": 5, "A55": 4, "A56": 9,
+            "A57": 5, "A58": 5, "A59": 5, "A60": 5, "A63": 5, "A64": 5, "A65": 5,
+            "A66": 5, "A67": 5, "A68": 5, "A69": 2, "A70": 5, "A71": 3, "A74": 5,
+            "A75": 5, "A77": 5, "A78": 5, "A79": 5, "A80": 5, "A81": 5, "A82": 5,
+            "A83": 5, "A84": 5, "A85": 9, "A86": 5, "A87": 6, "A88": 5, "A89": 5,
+            "A92": 5, "A93": 5, "A94": 5, "A95": 5, "A96": 5, "A97": 5, "A98": 5,
+            "A99": 5, "B00": 5, "B01": 5, "B02": 5, "B03": 5, "B04": 5, "B05": 5,
+            "B06": 5, "B07": 8, "B08": 5, "B09": 5, "B15": 5, "B16": 5, "B17": 5,
+            "B18": 5, "B19": 5, "B20": 5, "B21": 5, "B22": 5, "B23": 5, "B24": 8,
+            "B25": 3, "B26": 5, "B27": 5, "B30": 5, "B33": 5, "B34": 5, "B35": 5,
+            "B36": 2, "B37": 5, "B38": 6, "B39": 5, "B40": 5, "B41": 5, "B42": 5,
+            "B43": 5, "B44": 5, "B45": 5, "B46": 5, "B47": 5, "B48": 5, "B49": 5,
+            "B50": 5, "B51": 5, "B52": 5, "B53": 2, "B54": 5, "B55": 5, "B56": 5,
+            "B57": 2, "B58": 5, "B59": 5, "B60": 5, "B64": 5, "B65": 5, "B66": 5,
+            "B67": 5, "B68": 5, "B69": 5, "B70": 5, "B71": 5, "B72": 4, "B73": 5,
+            "B74": 5, "B75": 5, "B76": 5, "B77": 5, "B78": 5, "B79": 5, "B80": 5,
+            "B81": 5, "B82": 5, "B83": 5, "B85": 3, "B86": 5, "B87": 5, "B88": 5,
+            "B89": 5, "B90": 5
+            }
+        unweighted = {k: 1 for k in icd10}
+        # merge dict and override unweigted
+        choices = dict(unweighted.items() + weighted.items())
+        return random.choice([k for k in choices for x in range(choices[k])])
+
+
 
     def format_to_dhis2(self, username):
         """
@@ -204,7 +242,7 @@ if __name__ == '__main__':
     print("{}+++ Warning: This script does load {} random Verbal Autopsy events to {} "
           "and posts SQlite files to /api/fileResources. OK? Abort with CTRL+C {}".format(WARNING, args.events, args.server, ENDC))
     try:
-        time.sleep(10)
+        time.sleep(3)
     except KeyboardInterrupt:
         print("Creating events and blobs aborted. Nothing was created or imported.")
 
@@ -261,4 +299,3 @@ if __name__ == '__main__':
     print("Import summary: {} errors".format(len(errors)))
     print("Log file of import stored at log.json")
     print("\n".join(errors))
-
