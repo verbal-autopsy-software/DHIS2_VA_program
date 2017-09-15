@@ -2,3 +2,5 @@
 log.json
 events.json
 demo-setup/blobs/
+tools/dataelements/dataelements.json
+tools/optionsets/icd10-optionset.json
