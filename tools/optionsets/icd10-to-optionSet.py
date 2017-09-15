@@ -1,9 +1,12 @@
-import csv
+#!/usr/bin/env python
+
+import unicodecsv as csv
 import json
+import codecs
 
 OPTIONSET = 'LAWwdYur1ds'
 CSV_INPUT = 'icd10_codes_options.csv'
-METADATA_OUTPUT = 'icd10-optionset.json'
+METADATA_OUTPUT = 'va_icd10_optionset.json'
 
 # reading CSV file into dictionary
 with open(CSV_INPUT, 'r') as csv_file:
@@ -34,6 +37,6 @@ metadata['optionSets'] = [option_set]
 metadata['options'] = option_list
 
 with open(METADATA_OUTPUT, 'w') as json_file:
-	json.dump(metadata, json_file, indent=2, sort_keys=True)
+	json.dump(metadata, codecs.getwriter('utf-8')(json_file), ensure_ascii=False, indent=4, sort_keys=True)
 
 print("Exported DHIS2 option set to {}".format(METADATA_OUTPUT))
