@@ -1,16 +1,7 @@
 {
-
-    "system": {
-        "id": "c3e74eeb-dbd3-471f-a693-1708ad57f793",
-        "rev": "9b2e099",
-        "version": "2.25",
-        "date": "2017-07-04T18:13:40.425"
-    },
     "programStages": [
         {
-            "lastUpdated": "2017-07-04T16:49:01.141",
             "id": "FwAlkJf16OE",
-            "created": "2017-07-04T16:37:09.543",
             "name": "Verbal Autopsy",
             "executionDateLabel": "Date of death",
             "allowGenerateNextVisit": false,
@@ -57,9 +48,7 @@
     ],
     "programs": [
         {
-            "lastUpdated": "2017-07-04T16:37:21.911",
             "id": "sv91bCroFFx",
-            "created": "2017-07-04T16:37:09.522",
             "name": "Verbal Autopsy",
             "shortName": "VA",
             "completeEventsExpiryDays": 0,
@@ -103,8 +92,6 @@
     ],
     "programStageDataElements": [
         {
-            "created": "2017-07-04T16:49:01.137",
-            "lastUpdated": "2017-07-04T16:49:01.137",
             "id": "r90EyxX4dM1",
             "displayInReports": false,
             "compulsory": false,
@@ -119,8 +106,6 @@
             }
         },
         {
-            "created": "2017-07-04T16:49:01.130",
-            "lastUpdated": "2017-07-04T16:49:01.130",
             "id": "rjwy9pvOEhp",
             "displayInReports": false,
             "compulsory": true,
@@ -135,8 +120,6 @@
             }
         },
         {
-            "created": "2017-07-04T16:49:01.124",
-            "lastUpdated": "2017-07-04T16:49:01.124",
             "id": "T81RzF8vMoC",
             "displayInReports": false,
             "compulsory": false,
@@ -151,8 +134,6 @@
             }
         },
         {
-            "created": "2017-07-04T16:49:01.118",
-            "lastUpdated": "2017-07-04T16:49:01.119",
             "id": "iLfIBBH7yUt",
             "displayInReports": false,
             "compulsory": false,
@@ -167,8 +148,6 @@
             }
         },
         {
-            "created": "2017-07-04T16:49:01.111",
-            "lastUpdated": "2017-07-04T16:49:01.111",
             "id": "onMR39vIfCI",
             "displayInReports": false,
             "compulsory": true,
@@ -183,8 +162,6 @@
             }
         },
         {
-            "created": "2017-07-04T16:49:01.100",
-            "lastUpdated": "2017-07-04T16:49:01.100",
             "id": "tMSRhr0fhFG",
             "displayInReports": true,
             "compulsory": true,
