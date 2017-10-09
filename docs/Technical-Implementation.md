@@ -114,11 +114,8 @@ It's possible to send multiple events at once, just wrap all events into a list 
 }
 ```
 
-### Querying data
-//TODO
+# Querying data
+`TODO`
 
-#### API queries
-//TODO
-
-#### Analyzing VA raw survey data
-tbd
+# Updating Option Sets
+`TODO`
