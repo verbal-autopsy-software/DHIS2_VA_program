@@ -1,11 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 """Script to create VA data to load into DHIS2 (for demo purposes)."""
 
 try:
     import requests
 except ImportError:
-    print("Please install 'requests' library, see http://docs.python-requests.org/en/master/user/install")
+    print("Please install 'requests' library, see `docs/Dev-Setup.md`")
 
 import argparse
 import datetime

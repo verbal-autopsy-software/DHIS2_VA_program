@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 
-import unicodecsv as csv
+"""Script to create a ICD-10 Option Set JSON metadata file based on a CSV file."""
+
+try:
+    import import unicodecsv as csv
+except ImportError:
+    print("Please install 'unicodecsv' library, see `docs/Dev-Setup.md`")
 import json
 import codecs
 

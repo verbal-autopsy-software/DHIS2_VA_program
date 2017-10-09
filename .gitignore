@@ -1,6 +1,6 @@
 .idea/
 log.json
 events.json
-demo-setup/blobs/
-tools/dataelements/*.json
-tools/optionsets/*.json
+demo_setup/blobs/
+resources/dataelements/*.json
+resources/icd10/*.json

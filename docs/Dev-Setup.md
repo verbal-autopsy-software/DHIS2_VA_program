@@ -16,3 +16,9 @@ Or download a complete DHIS2 VirtualBox Image here (File > Import appliance...):
 - `bash /home/dhis/update-db.sh` to fetch a fully configured DHIS2 database where VA is installed. *Warning*: This deletes the existing database!
 - Log in with `admin` / `district` or `va-demo` as indicated in Login screen.
 - Inspect logs with `dhis_logs` or `tail -f /home/dhis/tomcat-dhis/logs/catalina.out`
+
+## Modifying DHIS2 Metadata
+
+- Install Python 2
+- Install `pip` [docs](https://pip.pypa.io/en/stable/installing/)
+- In the working directory, install dev libraries by calling `pip install -r python_requirements.txt`
