@@ -16,7 +16,8 @@ The folder `docs` contains the following guides:
 Currently supported DHIS2 versions:
 
 - 2.25
-- 2.25-2.28 (not tested)
+- 2.26-2.27 (not tested but will probably work)
+- 2.28 (needs adjustments)
 
 Current status: in development
 
