@@ -39,6 +39,9 @@
                 },
                 {
                     "id": "r90EyxX4dM1"
+                },
+                {
+                    "id": "jKAT5dSN6T8"
                 }
             ],
             "translations": [ ],
@@ -91,6 +94,20 @@
         }
     ],
     "programStageDataElements": [
+      {
+          "id": "jKAT5dSN6T8",
+          "displayInReports": false,
+          "compulsory": false,
+          "allowProvidedElsewhere": false,
+          "sortOrder": 6,
+          "allowFutureDate": false,
+          "programStage": {
+              "id": "FwAlkJf16OE"
+          },
+          "dataElement": {
+              "id": "wiJviUqN1io"
+          }
+        },
         {
             "id": "r90EyxX4dM1",
             "displayInReports": false,
@@ -176,5 +193,4 @@
             }
         }
     ]
-
 }
