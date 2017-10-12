@@ -97,7 +97,8 @@ class Dhis(object):
 
 class VerbalAutopsyEvent(object):
     """ DHIS2 event + a BLOB file resource"""
-    def __init__(self, va_id, program, orgunit, icd10, file_id):
+
+    def __init__(self, va_id, program, orgunit, icd10, algorithm_metadata, file_id):
         self.va_id = va_id
         self.program = program
         self.orgunit = orgunit
@@ -111,6 +112,7 @@ class VerbalAutopsyEvent(object):
             {"dataElement": "htm6PixLJNy", "value": self.va_id},
             {"dataElement": "hi7qRC4SMMk", "value": self.random_sex()},
             {"dataElement": "F4XGdOBvWww", "value": self.choose_icd10(icd10)},
+            {"dataElement": "wiJviUqN1io", "value": self.choose_algorithm(algorithm_metadata)},
             {"dataElement": "XLHIBoLtjGt", "value": file_id}
         ]
 
@@ -126,6 +128,10 @@ class VerbalAutopsyEvent(object):
         elif age_choice == 'both':
             self.datavalues.append({"dataElement": "mwSaVq64k7j", "value": birth_date_formatted})
             self.datavalues.append({"dataElement": "oPAg4MA0880", "value": age})
+
+    @staticmethod
+    def choose_algorithm(algorithm_metadata):
+        return random.choice([option for option in algorithm_metadata])
 
     @staticmethod
     def random_date(start, end):
@@ -174,13 +180,11 @@ class VerbalAutopsyEvent(object):
             "B74": 70, "B75": 50, "B76": 50, "B77": 50, "B78": 50, "B79": 50, "B80": 50,
             "B81": 70, "B82": 50, "B83": 50, "B85": 30, "B86": 50, "B87": 50, "B88": 50,
             "B89": 50, "B90": 50
-            }
+        }
         unweighted = {k: 1 for k in icd10}
         # merge dict and override unweigted
         choices = dict(unweighted.items() + weighted.items())
         return random.choice([k for k in choices for x in range(choices[k])])
-
-
 
     def format_to_dhis2(self, username):
         """
@@ -237,7 +241,8 @@ def create_db(f):
 if __name__ == '__main__':
 
     args = parse_args()
-    api = Dhis(server=args.server, username=args.username, password=args.password)
+    api = Dhis(server=args.server, username=args.username,
+               password=args.password)
 
     print("{}+++ Warning: This script does load {} random Verbal Autopsy events to {} "
           "and posts SQlite files to /api/fileResources. OK? Abort with CTRL+C {}".format(WARNING, args.events, args.server, ENDC))
@@ -260,9 +265,8 @@ if __name__ == '__main__':
         sys.exit()
 
     va_program_uid = va_programs[0]['id']
-    icd10_options = [o['code'] for o in
-                     api.get('options', params={'filter': 'optionSet.id:eq:LAWwdYur1ds', 'fields': 'code'}).get(
-                         'options')]
+    icd10_options = [o['code'] for o in api.get('options', params={'filter': 'optionSet.id:eq:LAWwdYur1ds', 'fields': 'code'}).get('options')]
+    algorithm_metadata_options = [o['code'] for o in api.get('options', params={'filter': 'optionSet.id:eq:Joti2JHU4i6', 'fields': 'code'}).get('options')]
 
     db_path = os.path.join(root, 'blobs')
     if not os.path.isdir(db_path):
@@ -275,9 +279,9 @@ if __name__ == '__main__':
         blob_file = "{}.db".format(os.path.join(root, 'blobs', va_id))
         create_db(blob_file)
         file_id = api.post_blob(blob_file)
-        e = VerbalAutopsyEvent(va_id, va_program_uid, args.orgunit, icd10_options, file_id)
+        e = VerbalAutopsyEvent(va_id, va_program_uid, args.orgunit, icd10_options, algorithm_metadata_options, file_id)
         events.append(e.format_to_dhis2(args.username))
-        print("{} out of {} events processed".format(i+1, args.events))
+        print("{} out of {} events processed".format(i + 1, args.events))
 
     export['events'] = events
 
@@ -292,8 +296,7 @@ if __name__ == '__main__':
 
     log = api.post('events', data=export)
     print("\n\n")
-    errors = [x.get('description') for x in log['response']['importSummaries'] if
-              x.get('status', None) in {'ERROR', 'WARNING'}]
+    errors = [x.get('description') for x in log['response']['importSummaries'] if x.get('status', None) in {'ERROR', 'WARNING'}]
     with open('log.json',  'w') as json_file:
         json.dump(log, json_file, indent=4)
     print("Import summary: {} errors".format(len(errors)))
