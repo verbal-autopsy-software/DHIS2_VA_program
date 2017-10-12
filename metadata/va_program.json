@@ -76,14 +76,7 @@
             "programTrackedEntityAttributes": [ ],
             "notificationTemplates": [ ],
             "translations": [ ],
-            "organisationUnits": [
-                {
-                    "id": "RoEPvkwiu7U"
-                },
-                {
-                    "id": "CXmC6GyG6GI"
-                }
-            ],
+            "organisationUnits": [],
             "attributeValues": [ ],
             "validationCriterias": [ ],
             "programStages": [
