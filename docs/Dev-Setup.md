@@ -25,8 +25,8 @@ Or download a complete DHIS2 VirtualBox Image here (File > Import appliance...):
 
 - Install Python 2
 - Install `pip` [docs](https://pip.pypa.io/en/stable/installing/)
-- In the working directory, install dev libraries by calling `pip install -r python_requirements.txt`
-- In the `resources` folder, each subfolder is holding source material and scripts to process those source materials into DHIS2 metadata import files.
+- In the working directory, install dev libraries: `pip install -r python_requirements.txt`
+- In the `resources` folder, run `python create_metadata.py` to process CSV files in `resources` and put them into `metadata` folder
 
 ## Deleting Verbal Autopsy data
 
@@ -37,5 +37,4 @@ To delete all events (not its related metadata configuration), run the SQL scrip
 ```
 pg_dump --no-owner --no-privileges --exclude-table=analytics* --exclude-table=_* --exclude-table=aggregated*  --exclude-table=completeness* --schema=public dhis2 > db-dump.sql
 ```
-
-replace `dhis2` with the database name
+replace `dhis2` with the database name. This removes Analytic tables (Dashboard content), if you want to keep them do not `--exclude...` anything.
