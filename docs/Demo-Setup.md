@@ -8,8 +8,9 @@ Import the following metadata files via **DHIS2's Import-Export** app in the fol
 1. Import `demo_setup/metadata/example_organisationUnits_hierarchy.json` .
 2. Import `metadata/va_sex_optionset.json`  to import the standard Sex optionSet.
 3. Import `metadata/va_icd10_optionset.json` for the ICD-10 optionSet
-4. Import `metadata/va_dataelements.json` for the program's dataElements
-5. Import `metadata/va_program.json` for the program
+4. Import `metadata/va_algorithm_metadata_optionset.json` for the Algorithm Metadata
+5. Import `metadata/va_dataelements.json` for the program's dataElements
+6. Import `metadata/va_program.json` for the program
 
 Create **Verbal Autopsy dummy data**:
 

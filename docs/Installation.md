@@ -27,10 +27,11 @@ On every file, a _Dry run_ should be done to validate the import first.
 
 1. `va_icd10_optionset.json`
 2. `va_sex_optionset.json`
-3. `va_algorithm_metadata.json`
-3. `va_dataelements.json`
-4. `va_program.json`
-5. `va_userrole.json`
+3. `va_algorithm_metadata_optionset.json`
+4. `va_dataelements.json`
+5. `va_program.json`
+6. `va_userrole.json`
+7. `va_usergroups.json` (optional)
 
 ## User Access control & Sharing
 

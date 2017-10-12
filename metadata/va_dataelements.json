@@ -56,9 +56,9 @@
             }, 
             "aggregationType": "AVERAGE", 
             "shortName": "Age", 
-            "formName": "Age (in Years)", 
+            "formName": "Age (in years)", 
             "id": "oPAg4MA0880", 
-            "name": "VA-04-Age (in Years)"
+            "name": "VA-04-Age (in years)"
         }, 
         {
             "code": "VA-05", 
@@ -86,10 +86,27 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "VA metadata", 
-            "formName": "Verbal Autopsy metadata", 
+            "shortName": "VA metadata file", 
+            "formName": "Verbal Autopsy metadata file", 
             "id": "XLHIBoLtjGt", 
-            "name": "VA-06-Verbal Autopsy metadata"
+            "name": "VA-06-Verbal Autopsy metadata file"
+        }, 
+        {
+            "code": "VA-07", 
+            "description": "Algorithm metadata on how CoD was obtained, including Algorithm, SCI and VA Instrument", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "NONE", 
+            "shortName": "Algorithm metadata", 
+            "formName": "Algorithm metadata on how CoD was obtained", 
+            "optionSet": {
+                "id": "Joti2JHU4i6"
+            }, 
+            "id": "wiJviUqN1io", 
+            "name": "VA-07-Algorithm metadata on how CoD was obtained"
         }
     ]
 }

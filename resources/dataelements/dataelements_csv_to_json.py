@@ -5,7 +5,7 @@ import codecs
 dataelements = []
 final = {}
 with open('dataelements.csv', 'rb') as f:
-	reader = csv.DictReader(f, delimiter=';')
+	reader = csv.DictReader(f, delimiter=',')
 	for row in reader:
 		if row.get('zeroIsSignificant', None):
 			row['zeroIsSignificant'] = True
