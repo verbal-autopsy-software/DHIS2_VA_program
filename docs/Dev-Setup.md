@@ -17,10 +17,6 @@ Or download a complete DHIS2 VirtualBox Image here (File > Import appliance...):
 - Log in with `admin` / `district` or `va-demo` as indicated in Login screen.
 - Inspect logs with `dhis_logs` or `tail -f /home/dhis/tomcat-dhis/logs/catalina.out`
 
-### Restore a complete database elsewhere
-
-- Import `db/va-dhis2-full-db.sql` into your database
-
 ## Modifying DHIS2 Metadata
 
 - Install Python 2
