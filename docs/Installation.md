@@ -39,7 +39,7 @@ The Organisation Units (e.g. districts) to which verbal autopsies are associated
 1. access "Programs/Attributes" app
 2. access "Program"
 3. click on "Verbal Autopsy" program
-4. choos option "Assign program to organisation units"
+4. choose option "Assign program to organisation units"
 ![Link Program "Verbal Autopsy" to Organisational Unit](../resources/images/LinkProgToOrgUnit.png)
 5. select the relevant organisational units
 
