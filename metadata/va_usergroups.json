@@ -6,6 +6,7 @@
 
     ],
     "name": "openVA Admin",
+	"publicAccess": "--------",
     "translations": [],
     "users": []
   }]

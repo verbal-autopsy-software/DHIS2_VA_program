@@ -31,7 +31,7 @@ On every file, a _Dry run_ should be done to validate the import first.
 4. `va_dataelements.json`
 5. `va_program.json`
 6. `va_userrole.json`
-7. `va_usergroups.json` (optional)
+7. `va_usergroups.json` 
 
 ## Link Program to Organisation Units
 
@@ -67,6 +67,16 @@ Create a User for the openVA Pipeline Interface:
 
 ### Sharing
 
+#### _openVA Pipeline_ User Role
+  - Public Access: _None_
+  - User Group with Read/Write Access: _None_
+  - User Group with Read-Only Access: _None_
+  
+#### _openVA Admin_ User Group
+  - Public Access: _None_
+  - User Group with Read/Write Access: _None_
+  - User Group with Read-Only Access: _None_
+
 #### _Verbal Autopsy ICD-10_ Option Set
  - Public Access: **View**
  - User Group with Read/Write Access: **openVA Admin**
@@ -79,21 +89,6 @@ Create a User for the openVA Pipeline Interface:
 
 #### _Verbal Autopsy Metadata_ Option Set
   - Public Access: **View**
-  - User Group with Read/Write Access: **openVA Admin**
-  - User Group with Read-Only Access: _None_
-
-#### _Verbal Autopsy_ Data Elements
-  - Public Access: **View**
-  - User Group with Read/Write Access: **openVA Admin**
-  - User Group with Read-Only Access: _None_
-
-#### _Verbal Autopsy_ Program
-  - Public Access: **View**
-  - User Group with Read/Write Access: **openVA Admin**
-  - User Group with Read-Only Access: _None_
-
-#### _openVA Pipeline_ User Role
-  - Public Access: _None_
   - User Group with Read/Write Access: **openVA Admin**
   - User Group with Read-Only Access: _None_
 

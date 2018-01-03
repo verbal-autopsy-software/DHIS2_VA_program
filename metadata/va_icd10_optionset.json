@@ -33404,9 +33404,15 @@
                     "id": "pCL1hn0uytY"
                 }
             ], 
-            "publicAccess": "rw------", 
+            "publicAccess": "r-------", 
             "valueType": "TEXT", 
-            "version": 0
+            "version": 0,
+			"userGroupAccesses": [
+				{
+					"access": "rw------",
+					"id": "gzRTEAchNHi"
+				}
+			]
         }
     ], 
     "options": [

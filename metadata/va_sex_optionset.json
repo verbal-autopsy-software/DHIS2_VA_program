@@ -3,10 +3,15 @@
     {
       "name": "Sex (VA)",
       "id": "JFWEdW5OBJp",
-      "publicAccess": "rw------",
+      "publicAccess": "r-------",
       "version": 0,
       "valueType": "TEXT",
-      "userGroupAccesses": [],
+	  "userGroupAccesses": [
+		{
+			"access": "rw------",
+			"id": "gzRTEAchNHi"
+		}
+	  ],
       "attributeValues": [],
       "translations": [],
       "options": [

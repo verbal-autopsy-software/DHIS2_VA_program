@@ -13,6 +13,7 @@
     "dataSets": [],
     "id": "b4Wpw1VDIPl",
     "name": "openVA Pipeline",
+	"publicAccess": "--------",
     "programs": [{
       "id": "sv91bCroFFx"
     }],
