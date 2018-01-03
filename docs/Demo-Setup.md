@@ -1,4 +1,4 @@
-# DHIS2 Demo Setup
+# Demo Setup
 
 It is possible to create a demo version with fake data on an empty DHIS2 instance including BLOBs which holds fake data about cars (for the data element "VA-06-Verbal Autopsy metadata file").
 
