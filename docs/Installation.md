@@ -25,8 +25,8 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 Import the prepared files in the following sequence now with DHIS2's _Import-Export_ app.
 On every file, a _Dry run_ should be done to validate the import first.
 
-1. `va_icd10_optionset.json`
-2. `va_sex_optionset.json`
+1. `va_icd10_optionset.json` (to be verified if this option set is not yet existent in DHIS 2 instance in which module is being installed)
+2. `va_sex_optionset.json` (to be verified if this option set is not yet existent in DHIS 2 instance in which module is being installed)
 3. `va_algorithm_metadata_optionset.json`
 4. `va_dataelements.json`
 5. `va_program.json`
