@@ -86,10 +86,10 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "VA metadata file", 
-            "formName": "Verbal Autopsy metadata file", 
+            "shortName": "VA raw data file", 
+            "formName": "Verbal Autopsy raw data file", 
             "id": "XLHIBoLtjGt", 
-            "name": "VA-06-Verbal Autopsy metadata file"
+            "name": "VA-06-Verbal Autopsy raw data file"
         }, 
         {
             "code": "VA-07", 
