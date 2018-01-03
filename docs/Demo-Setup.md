@@ -1,21 +1,11 @@
 # DHIS2 Demo Setup
 
-It's possible to create a demo version with fake data on an empty DHIS2 instance including the BLOBs which holds fake data about cars.
-To do this, follow these steps:
-
-Import the following metadata files via **DHIS2's Import-Export** app in the following order:
-
-1. Import `demo_setup/metadata/example_organisationUnits_hierarchy.json` .
-2. Import `metadata/va_sex_optionset.json`  to import the standard Sex optionSet.
-3. Import `metadata/va_icd10_optionset.json` for the ICD-10 optionSet
-4. Import `metadata/va_algorithm_metadata_optionset.json` for the Algorithm Metadata
-5. Import `metadata/va_dataelements.json` for the program's dataElements
-6. Import `metadata/va_program.json` for the program
+It's possible to create a demo version with fake data on an empty DHIS2 instance including BLOBs which holds fake data about cars (for the data element "VA-06-Verbal Autopsy metadata file").
+To do this, follow the installation steps described in the [Installation Guide](Installation.md), but before linking the Program to Organisation Units, these can be created by importing an example hierarchy: `demo_setup/metadata/example_organisationUnits_hierarchy.json` .
 
 Create **Verbal Autopsy dummy data**:
 
-6. Change directories with `cd demo_setup/data`
-7. Use the script `post_demo_events.py` as follows:
+The actual dummy data can be generated and pushed into DHIS2 by using the script `demo_setup/data/post_demo_events.py` as follows:
 
 ```
 usage: python post_demo_events.py --server --username --password --orgunit [--events]
@@ -29,7 +19,6 @@ optional arguments:
   --password PASSWORD  DHIS2 password
   --events [EVENTS]    Amount of events to generate (default: 1000)
   --orgunit ORGUNIT    OrgUnit UID to register events
-
 ```
 
 Example to create 500 events:

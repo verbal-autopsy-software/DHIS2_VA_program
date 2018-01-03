@@ -1,4 +1,4 @@
-# Installation guide
+# Installation Guide
 
 This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 instance - JSON files are in `metadata` folder.
 
