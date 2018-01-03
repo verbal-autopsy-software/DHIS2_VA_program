@@ -9,7 +9,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "VA ID", 
             "formName": "Verbal Autopsy ID", 
             "id": "htm6PixLJNy", 
             "name": "VA-01-Verbal Autopsy ID"
@@ -23,7 +22,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "Sex", 
             "formName": "Sex", 
             "optionSet": {
                 "id": "JFWEdW5OBJp"
@@ -40,7 +38,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "AVERAGE", 
-            "shortName": "DoB", 
             "formName": "Date of Birth", 
             "id": "mwSaVq64k7j", 
             "name": "VA-03-Date of Birth"
@@ -55,7 +52,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "AVERAGE", 
-            "shortName": "Age", 
             "formName": "Age (in years)", 
             "id": "oPAg4MA0880", 
             "name": "VA-04-Age (in years)"
@@ -69,7 +65,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "Cause of Death", 
             "formName": "Most probable Cause of Death", 
             "optionSet": {
                 "id": "LAWwdYur1ds"
@@ -86,7 +81,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "VA raw data file", 
             "formName": "Verbal Autopsy raw data file", 
             "id": "XLHIBoLtjGt", 
             "name": "VA-06-Verbal Autopsy raw data file"
@@ -100,7 +94,6 @@
                 "id": "bjDvmb4bfuf"
             }, 
             "aggregationType": "NONE", 
-            "shortName": "Algorithm metadata", 
             "formName": "Algorithm metadata on how CoD was obtained", 
             "optionSet": {
                 "id": "Joti2JHU4i6"
