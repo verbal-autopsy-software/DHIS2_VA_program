@@ -33,6 +33,16 @@ On every file, a _Dry run_ should be done to validate the import first.
 6. `va_userrole.json`
 7. `va_usergroups.json` (optional)
 
+## Link Program to Organisation Units
+
+The Organisation Units (e.g. districts) to which verbal autopsies are associated need to be associated to the Program "Verbal Autopsy", by: 
+1. accessing "Programs/Attributes" app
+2. accessing "Program"
+3. clicking on "Verbal Autopsy" program
+4. choosing option "Assign program to organisation units"
+![Link Program "Verbal Autopsy" to Organisational Unit](/dhis2_va_draft/resources/images/LinkProgToOrgUnit.png)
+5. Selecting the relevant organisational units
+
 ## User Access control & Sharing
 
 ### User Groups
