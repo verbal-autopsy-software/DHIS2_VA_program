@@ -35,13 +35,13 @@ On every file, a _Dry run_ should be done to validate the import first.
 
 ## Link Program to Organisation Units
 
-The Organisation Units (e.g. districts) to which verbal autopsies are associated need to be associated to the Program "Verbal Autopsy", by: 
-1. accessing "Programs/Attributes" app
-2. accessing "Program"
-3. clicking on "Verbal Autopsy" program
-4. choosing option "Assign program to organisation units"
+The Organisation Units (e.g. districts) to which verbal autopsies are associated need to be associated to the Program "Verbal Autopsy", by performing the following steps: 
+1. access "Programs/Attributes" app
+2. access "Program"
+3. click on "Verbal Autopsy" program
+4. choos option "Assign program to organisation units"
 ![Link Program "Verbal Autopsy" to Organisational Unit](../resources/images/LinkProgToOrgUnit.png)
-5. Selecting the relevant organisational units
+5. select the relevant organisational units
 
 ## User Access control & Sharing
 
