@@ -67,7 +67,7 @@ Create a User for the openVA Pipeline Interface:
 
 ### Sharing
 
-The metadata imported has sharing settings (that concern availability of the objects for reading or modification) as follows:
+The imported metadata has sharing settings (that concern availability of the objects for reading or modification) defined as follows:
 
 #### _openVA Pipeline_ User Role
   - Public Access: _None_
