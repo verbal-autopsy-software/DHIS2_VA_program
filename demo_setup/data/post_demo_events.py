@@ -37,7 +37,7 @@ class Dhis(object):
         elif not server.startswith('https://'):
             server = 'https://{}'.format(server)
         self.auth = (username, password)
-        self.url = '{}/api'.format(server)
+        self.url = '{}/api/25'.format(server)
 
     def get(self, endpoint, params=None):
         """
@@ -245,7 +245,7 @@ if __name__ == '__main__':
                password=args.password)
 
     print("{}+++ Warning: This script does load {} random Verbal Autopsy events to {} "
-          "and posts SQlite files to /api/fileResources. OK? Abort with CTRL+C {}".format(WARNING, args.events, args.server, ENDC))
+          "and posts SQlite files to /api/25/fileResources. OK? Abort with CTRL+C {}".format(WARNING, args.events, args.server, ENDC))
     try:
         time.sleep(3)
     except KeyboardInterrupt:

@@ -13,7 +13,7 @@ To send a complete Verbal Autopsy event (that includes a BLOB file) to a Single 
 DHIS2 can store arbitrary-sized files as data values via the `/api/fileResources` endpoint - see [**DHIS2 docs on sending file resources**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#webapi_file_resources) and [**DHIS2 docs on working with file data values**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#datavalue_file).
 
 Example request:
-`curl -X POST -v -F "file=@/path/to/verbalautopsy-raw-someid.db;filename=someid.db" https://va.swisstph-mis.ch/api/fileResources -u username:password`
+`curl -X POST -v -F "file=@/path/to/verbalautopsy-raw-someid.db;filename=someid.db" https://va.swisstph-mis.ch/api/25/fileResources -u username:password`
 
 Example response:
 ```
@@ -58,7 +58,7 @@ When the file (SQLite database) was successfully posted, its generated `id` (as 
 
 Example request (payload below):
 
-`curl -X POST "https://va.swisstph-mis.ch/api/events" -H "Content-Type: application/json" -u username:password -d @event.json`
+`curl -X POST "https://va.swisstph-mis.ch/api/25/events" -H "Content-Type: application/json" -u username:password -d @event.json`
 
 With a payload:
 
