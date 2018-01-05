@@ -77,17 +77,17 @@ Create a User for the openVA Pipeline Interface:
   - User Group with Read/Write Access: _None_
   - User Group with Read-Only Access: _None_
 
-#### _Verbal Autopsy ICD-10_ Option Set
+#### _Verbal Autopsy ICD-10_ Option Set (for "VA-05-Most probable Cause of Death" data element)
  - Public Access: **View**
  - User Group with Read/Write Access: **openVA Admin**
  - User Group with Read-Only Access: _None_
 
-#### _Verbal Autopsy Sex_ Option Set
+#### _Verbal Autopsy Sex_ Option Set (for "VA-02-Sex" data element)
   - Public Access: **View**
   - User Group with Read/Write Access: **openVA Admin**
   - User Group with Read-Only Access: _None_
 
-#### _Verbal Autopsy Metadata_ Option Set
+#### _Verbal Autopsy Algorithm Metadata_ Option Set (for "VA-07-Algorithm metadata on how CoD was obtained" data element)
   - Public Access: **View**
   - User Group with Read/Write Access: **openVA Admin**
   - User Group with Read-Only Access: _None_
