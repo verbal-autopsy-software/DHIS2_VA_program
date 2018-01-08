@@ -2,7 +2,7 @@
 
 It is possible to create a demo version with fake data on an empty DHIS2 instance including BLOBs which holds fake data about cars (for the data element "VA-06-Verbal Autopsy metadata file").
 
-To do this, follow the installation steps described in the [Installation Guide](Installation.md), but before linking the Program to Organisation Units, these can be created by importing an example hierarchy: `demo_setup/metadata/example_organisationUnits_hierarchy.json` .
+To do this, follow the installation steps described in the [Installation Guide](Installation.md) but, before starting, create an example hierarchy (in case none exists) by importing: `demo_setup/metadata/example_organisationUnits_hierarchy.json`.
 
 Create **Verbal Autopsy dummy data**:
 

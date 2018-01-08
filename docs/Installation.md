@@ -11,13 +11,20 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 - 6 **Program Stage Data Elements**
 - 1 **User Role**
 - 1 **User Group**
+- 2 **Event Reports**: 
+	- "Top causes of death this year" (aggregate report) 
+	- "Verbal Autopsies conducted in the last 12 months" (individual events overview)
+- 1 **Dashboard** displaying the 2 mentioned Event Reports
 
 ## Preparation
 
 1. Find out the `default` Category Combo UID on the target server by using the following API Query: `/api/categoryCombos?query=default`.
-2. Open `va_dataelements.json` with a Text Editor.
+2. Open `va_dataelements.json` with a text editor.
 3. "Find and Replace..." the Category Combo UID `bjDvmb4bfuf` with the UID found in step 1 and resave the file.
 4. Do the same in `va_program.json` and find and replace the program's `categoryCombo` by replacing `bjDvmb4bfuf` with the UID found in step 1 and resave the file.
+5. Find out the root (`level 1`) Organisation Unit UID on the target server by using the following API Query: `/api/organisationUnits?level=1`.
+6. Open `va_dashboard.json` with a text editor.
+7. "Find and Replace..." the Organisation Unit UID `wEVB21sQaHu` of the 2 Event Reports with the UID found in step 5 and resave the file.
 
 
 ## Import
@@ -32,6 +39,7 @@ On every file, a _Dry run_ should be done to validate the import first.
 5. `va_program.json`
 6. `va_userrole.json`
 7. `va_usergroups.json` 
+8. `va_dashboard.json`
 
 ## Link Program to Organisation Units
 
@@ -67,7 +75,7 @@ Create a User for the openVA Pipeline Interface:
 
 ### Sharing
 
-The imported metadata has sharing settings (that concern availability of the objects for reading or modification) defined as follows:
+Certain imported metadata has explicitly defined sharing settings (that concern availability of the objects for reading or modification), more concretely:
 
 #### _openVA Pipeline_ User Role
   - Public Access: _None_

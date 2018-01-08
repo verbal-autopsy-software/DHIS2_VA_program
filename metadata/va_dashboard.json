@@ -1,0 +1,223 @@
+{
+    "dashboards": [{
+            "name": "Verbal Autopsy",
+            "userGroupAccesses": [],
+            "dashboardItems": [{
+                    "id": "lkt0lBwwf4p"
+                }, {
+                    "id": "Rh1OUyUfRnS"
+                }
+            ],
+            "translations": []
+        }
+    ],
+    "dashboardItems": [{
+            "id": "lkt0lBwwf4p",
+            "shape": "DOUBLE_WIDTH",
+            "eventReport": {
+                "id": "XIKVi77Vze4"
+            },
+            "reports": [],
+            "resources": [],
+            "users": [],
+            "translations": []
+        }, {
+            "id": "Rh1OUyUfRnS",
+            "shape": "NORMAL",
+            "eventReport": {
+                "id": "YHXH7HE205E"
+            },
+            "reports": [],
+            "resources": [],
+            "users": [],
+            "translations": []
+        }
+    ],
+    "eventReports": [{
+            "id": "YHXH7HE205E",
+            "name": "Top causes of death this year",
+            "userOrganisationUnitChildren": false,
+            "hideEmptyRows": false,
+            "userOrganisationUnit": false,
+            "rowSubTotals": false,
+            "hideNaData": false,
+            "displayDensity": "NORMAL",
+            "dataType": "AGGREGATED_VALUES",
+            "completedOnly": false,
+            "colTotals": true,
+            "showDimensionLabels": true,
+            "sortOrder": 1,
+            "fontSize": "NORMAL",
+            "topLimit": 25,
+            "collapseDataDimensions": false,
+            "userOrganisationUnitGrandChildren": false,
+            "outputType": "EVENT",
+            "colSubTotals": false,
+            "showHierarchy": false,
+            "rowTotals": false,
+            "digitGroupSeparator": "SPACE",
+            "program": {
+                "id": "sv91bCroFFx"
+            },
+            "relativePeriods": {
+                "thisYear": true,
+                "quartersLastYear": false,
+                "last52Weeks": false,
+                "thisWeek": false,
+                "lastMonth": false,
+                "monthsThisYear": false,
+                "last2SixMonths": false,
+                "thisQuarter": false,
+                "last12Months": false,
+                "last5FinancialYears": false,
+                "thisSixMonth": false,
+                "lastQuarter": false,
+                "thisFinancialYear": false,
+                "last4Weeks": false,
+                "last3Months": false,
+                "thisMonth": false,
+                "last5Years": false,
+                "last6BiMonths": false,
+                "lastFinancialYear": false,
+                "last6Months": false,
+                "quartersThisYear": false,
+                "monthsLastYear": false,
+                "lastWeek": false,
+                "thisBimonth": false,
+                "lastBimonth": false,
+                "lastSixMonth": false,
+                "lastYear": false,
+                "last12Weeks": false,
+                "last4Quarters": false
+            },
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "attributeDimensions": [],
+            "translations": [],
+            "filterDimensions": ["ou"],
+            "organisationUnitGroups": [],
+            "itemOrganisationUnitGroups": [],
+            "userGroupAccesses": [],
+            "programIndicatorDimensions": [],
+            "columnDimensions": ["pe"],
+            "organisationUnitLevels": [],
+            "dataElementDimensions": [{
+                    "dataElement": {
+                        "id": "F4XGdOBvWww"
+                    }
+                }
+            ],
+            "periods": [],
+            "organisationUnits": [{
+                    "id": "wEVB21sQaHu"
+                }
+            ],
+            "rowDimensions": ["dy", "F4XGdOBvWww"]
+        }, {
+            "id": "XIKVi77Vze4",
+            "name": "Verbal Autopsies conducted in the last 12 months",
+            "userOrganisationUnitChildren": false,
+            "hideEmptyRows": false,
+            "userOrganisationUnit": false,
+            "rowSubTotals": false,
+            "hideNaData": false,
+            "displayDensity": "NORMAL",
+            "dataType": "EVENTS",
+            "completedOnly": false,
+            "colTotals": true,
+            "showDimensionLabels": true,
+            "sortOrder": 0,
+            "fontSize": "NORMAL",
+            "topLimit": 0,
+            "collapseDataDimensions": false,
+            "userOrganisationUnitGrandChildren": false,
+            "colSubTotals": true,
+            "showHierarchy": false,
+            "rowTotals": false,
+            "digitGroupSeparator": "SPACE",
+            "program": {
+                "id": "sv91bCroFFx"
+            },
+            "relativePeriods": {
+                "thisYear": false,
+                "quartersLastYear": false,
+                "last52Weeks": false,
+                "thisWeek": false,
+                "lastMonth": false,
+                "monthsThisYear": false,
+                "last2SixMonths": false,
+                "thisQuarter": false,
+                "last12Months": true,
+                "last5FinancialYears": false,
+                "thisSixMonth": false,
+                "lastQuarter": false,
+                "thisFinancialYear": false,
+                "last4Weeks": false,
+                "last3Months": false,
+                "thisMonth": false,
+                "last5Years": false,
+                "last6BiMonths": false,
+                "lastFinancialYear": false,
+                "last6Months": false,
+                "quartersThisYear": false,
+                "monthsLastYear": false,
+                "lastWeek": false,
+                "thisBimonth": false,
+                "lastBimonth": false,
+                "lastSixMonth": false,
+                "lastYear": false,
+                "last12Weeks": false,
+                "last4Quarters": false
+            },
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "attributeDimensions": [],
+            "translations": [],
+            "filterDimensions": [],
+            "organisationUnitGroups": [],
+            "itemOrganisationUnitGroups": [],
+            "userGroupAccesses": [],
+            "programIndicatorDimensions": [],
+            "columnDimensions": ["pe", "ou", "htm6PixLJNy", "hi7qRC4SMMk", "mwSaVq64k7j", "oPAg4MA0880", "F4XGdOBvWww", "XLHIBoLtjGt", "wiJviUqN1io"],
+            "organisationUnitLevels": [],
+            "dataElementDimensions": [{
+                    "dataElement": {
+                        "id": "htm6PixLJNy"
+                    }
+                }, {
+                    "dataElement": {
+                        "id": "hi7qRC4SMMk"
+                    }
+                }, {
+                    "dataElement": {
+                        "id": "mwSaVq64k7j"
+                    }
+                }, {
+                    "dataElement": {
+                        "id": "oPAg4MA0880"
+                    }
+                }, {
+                    "dataElement": {
+                        "id": "F4XGdOBvWww"
+                    }
+                }, {
+                    "dataElement": {
+                        "id": "XLHIBoLtjGt"
+                    }
+                }, {
+                    "dataElement": {
+                        "id": "wiJviUqN1io"
+                    }
+                }
+            ],
+            "periods": [],
+            "organisationUnits": [{
+                    "id": "wEVB21sQaHu"
+                }
+            ],
+            "rowDimensions": []
+        }
+    ]
+}
