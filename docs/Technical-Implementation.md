@@ -73,7 +73,7 @@ With a payload:
     { "dataElement": "htm6PixLJNy", "value": "someVerbalAutopsyId" },
     { "dataElement": "hi7qRC4SMMk", "value": "male" },
     { "dataElement": "oPAg4MA0880", "value": "22" },
-    { "dataElement": "F4XGdOBvWww", "value": "E881" },
+    { "dataElement": "F4XGdOBvWww", "value": "E88.1" },
     { "dataElement": "XLHIBoLtjGt", "value": "xm4JwRwke0i" },
     { "dataElement": "wiJviUqN1io", "value": "InsilicoVA|1.1.4|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2"}
   ]
@@ -93,7 +93,7 @@ Let's look at these properties of the event:
 |dataElement 2   |Sex - must fit to an option in the "Sex" optionSet
 |dataElement 3   |Date of Birth in YYYY-MM-DD format
 |dataElement 4   |Age in years
-|dataElement 5   |ICD-10 coded Cause of Death - must fit to an option in the "ICD-10" optionSet
+|dataElement 5   |Coded Cause of Death - must fit to an option in the "CoD codes" optionSet
 |dataElement 6   |The ID received from posting the blob file
 |dataElement 7   |How the CoD was obtained - must fit to an option inthe "Algorithm Metadata" optionSet
 
@@ -101,7 +101,7 @@ Let's look at these properties of the event:
 In general, any client posting VA events (such as the openVA pipeline) needs to know...
 
 - the Organisation Unit UID (can be fetched via API as well if an identifier is known)
-- ICD-10 codes used in DHIS2 (static) - see `resources/icd10/icd10_codes_options` for valid codes to send
+- CoD codes used in DHIS2 (static) - see `\resources\cod_codes\cod_codes_options.csv` for valid codes to send
 - The Verbal Autopsy Program UID (static) - probably it's `sv91bCroFFx`
 - Algorithm metadata codes - - see `resources/algorithm_metadata/algorithm_metadata_options.csv` for valid codes to send
 

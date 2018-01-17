@@ -2,7 +2,7 @@
 
 This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 instance - JSON files are in `metadata` folder.
 
-- _ICD-10_ **Option Set** (including all options for Cause of Death)
+- _CoD codes_ **Option Set** (including all options for Cause of Death)
 - _Sex_ **Option set** (including 5 options)
 - _Algorithm metadata_ **Option set** (containing a reference on how the Cause of Death was obtained)
 - 6 **Data Elements**
@@ -32,7 +32,7 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 Import the prepared files in the following sequence now with DHIS2's _Import-Export_ app.
 On every file, a _Dry run_ should be done to validate the import first.
 
-1. `va_icd10_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which module is being installed)
+1. `va_cod_codes_optionset.json` 
 2. `va_sex_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which module is being installed)
 3. `va_algorithm_metadata_optionset.json`
 4. `va_dataelements.json`
@@ -62,7 +62,7 @@ This User Group should only contain one user (see below). It is to enforce Edit 
 ### User Roles
 
 #### User Role 1 - _openVA Pipeline_
-The User Role **openVA Pipeline** is crucial, because the Interface sending Verbal Autopsy events needs to be able to do so, as well as _Edit and View_ rights for Public Option Sets related to Verbal Autopsy - i.e. it **must** be able to edit ICD-10 codes and the Algorithm metadata on how the Cause of Death was obtained.
+The User Role **openVA Pipeline** is crucial, because the Interface sending Verbal Autopsy events needs to be able to do so, as well as _Edit and View_ rights for Public Option Sets related to Verbal Autopsy - i.e. it **must** be able to edit CoD codes and the Algorithm metadata on how the Cause of Death was obtained.
 
 ### User Creation
 
@@ -87,7 +87,7 @@ Certain imported metadata has explicitly defined sharing settings (that concern 
   - User Group with Read/Write Access: _None_
   - User Group with Read-Only Access: _None_
 
-#### _Verbal Autopsy ICD-10_ Option Set (for "VA-05-Most probable Cause of Death" data element)
+#### _Verbal Autopsy CoD codes_ Option Set (for "VA-05-Most probable Cause of Death" data element)
  - Public Access: **View**
  - User Group with Read/Write Access: **openVA Admin**
  - User Group with Read-Only Access: _None_

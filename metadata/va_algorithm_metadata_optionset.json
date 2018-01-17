@@ -816,14 +816,14 @@
                 }
             ], 
             "publicAccess": "r-------", 
+            "userGroupAccesses": [
+                {
+                    "access": "rw------", 
+                    "id": "gzRTEAchNHi"
+                }
+            ], 
             "valueType": "TEXT", 
-            "version": 0,
-			"userGroupAccesses": [
-				{
-					"access": "rw------",
-					"id": "gzRTEAchNHi"
-				}
-			]
+            "version": 0
         }
     ], 
     "options": [

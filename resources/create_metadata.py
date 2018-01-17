@@ -47,11 +47,11 @@ def process_dataelements():
 
 def process_optionset(optionset):
 
-    if optionset == 'icd10':
-        csv_input = os.path.join(INPUTFOLDER, 'icd10',
-                                 'icd10_codes_options.csv')
-        json_output = os.path.join(OUTPUTFOLDER, 'va_icd10_optionset.json')
-        optionset_name = 'ICD-10'
+    if optionset == 'cod_codes':
+        csv_input = os.path.join(INPUTFOLDER, 'cod_codes',
+                                 'cod_codes_options.csv')
+        json_output = os.path.join(OUTPUTFOLDER, 'va_cod_codes_optionset.json')
+        optionset_name = 'CoD codes'
         optionset_uid = 'LAWwdYur1ds'
     elif optionset == 'algorithm_metadata':
         csv_input = os.path.join(INPUTFOLDER, 'algorithm_metadata', 'algorithm_metadata_options.csv')
@@ -60,7 +60,7 @@ def process_optionset(optionset):
         optionset_uid = 'Joti2JHU4i6'
     else:
         raise ValueError(
-            'Unrecognized type: {}, must be icd10 or algorithm_metadata'.format(optionset))
+            'Unrecognized type: {}, must be cod_codes or algorithm_metadata'.format(optionset))
 
     with open(csv_input, 'rb') as csv_file:
     	reader=csv.DictReader(csv_file, delimiter=',')
@@ -74,12 +74,15 @@ def process_optionset(optionset):
 
     # adding option UIDs to optionSet
     option_uids=[{'id': uid} for uid in [option['id'] for option in data]]
+
+    user_group_accesses=[{"access": "rw------","id": "gzRTEAchNHi"}]
     option_set={
-    	  "name": optionset_name,
+          "name": optionset_name,
           "id": optionset_uid,
-          "publicAccess": "rw------",
+          "publicAccess": "r-------",
           "version": 0,
           "valueType": "TEXT",
+          "userGroupAccesses": user_group_accesses,
           "options": option_uids
     }
 
@@ -97,6 +100,6 @@ if __name__ == '__main__':
     print(u"Reading source files: data elements from {}".format(INPUTFOLDER))
     process_dataelements()
     print(u"Reading source files: option sets from {}".format(INPUTFOLDER))
-    process_optionset('icd10')
+    process_optionset('cod_codes')
     process_optionset('algorithm_metadata')
     print(u"\nExported DHIS2 metadata files to {}".format(OUTPUTFOLDER))
