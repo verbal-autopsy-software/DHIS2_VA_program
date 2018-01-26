@@ -11,7 +11,8 @@
             "aggregationType": "NONE", 
             "formName": "Verbal Autopsy ID", 
             "id": "htm6PixLJNy", 
-            "name": "VA-01-Verbal Autopsy ID"
+            "name": "VA-01-Verbal Autopsy ID",
+			"shortName": "VA-01-Verbal Autopsy ID"
         }, 
         {
             "code": "VA-02", 
@@ -27,7 +28,8 @@
                 "id": "JFWEdW5OBJp"
             }, 
             "id": "hi7qRC4SMMk", 
-            "name": "VA-02-Sex"
+            "name": "VA-02-Sex",
+			"shortName": "VA-02-Sex"
         }, 
         {
             "code": "VA-03", 
@@ -40,7 +42,8 @@
             "aggregationType": "AVERAGE", 
             "formName": "Date of Birth", 
             "id": "mwSaVq64k7j", 
-            "name": "VA-03-Date of Birth"
+            "name": "VA-03-Date of Birth",
+			"shortName": "VA-03-Date of Birth"
         }, 
         {
             "code": "VA-04", 
@@ -54,7 +57,8 @@
             "aggregationType": "AVERAGE", 
             "formName": "Age (in years)", 
             "id": "oPAg4MA0880", 
-            "name": "VA-04-Age (in years)"
+            "name": "VA-04-Age (in years)",
+			"shortName": "VA-04-Age (in years)"
         }, 
         {
             "code": "VA-05", 
@@ -70,7 +74,8 @@
                 "id": "LAWwdYur1ds"
             }, 
             "id": "F4XGdOBvWww", 
-            "name": "VA-05-Most probable Cause of Death"
+            "name": "VA-05-Most probable Cause of Death",
+			"shortName": "VA-05-Most probable Cause of Death"
         }, 
         {
             "code": "VA-06", 
@@ -83,7 +88,8 @@
             "aggregationType": "NONE", 
             "formName": "Verbal Autopsy raw data file", 
             "id": "XLHIBoLtjGt", 
-            "name": "VA-06-Verbal Autopsy raw data file"
+            "name": "VA-06-Verbal Autopsy raw data file",
+			"shortName": "VA-06-Verbal Autopsy raw data file"
         }, 
         {
             "code": "VA-07", 
@@ -99,7 +105,8 @@
                 "id": "Joti2JHU4i6"
             }, 
             "id": "wiJviUqN1io", 
-            "name": "VA-07-Algorithm metadata on how CoD was obtained"
+            "name": "VA-07-Algorithm metadata on how CoD was obtained",
+			"shortName": "VA-07-Algorithm metadata on how CoD was obtained"
         }
     ]
 }
