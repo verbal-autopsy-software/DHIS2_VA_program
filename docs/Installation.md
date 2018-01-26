@@ -20,7 +20,7 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 
 1. Find out the `default` Category Combo UID on the target server by using the following API Query: `/api/categoryCombos?query=default`.
 2. Open `va_dataelements.json` with a text editor.
-3. "Find and Replace..." the Category Combo UID `bjDvmb4bfuf` with the UID found in step 1 and resave the file.
+3. "Find and Replace..." the Category Combo UID `bjDvmb4bfuf` for all 7 data elements with the UID found in step 1 and resave the file.
 4. Do the same in `va_program.json` and find and replace the program's `categoryCombo` by replacing `bjDvmb4bfuf` with the UID found in step 1 and resave the file.
 5. Find out the root (`level 1`) Organisation Unit UID on the target server by using the following API Query: `/api/organisationUnits?level=1`.
 6. Open `va_dashboard.json` with a text editor.
@@ -32,13 +32,13 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 Import the prepared files in the following sequence now with DHIS2's _Import-Export_ app.
 On every file, a _Dry run_ should be done to validate the import first.
 
-1. `va_cod_codes_optionset.json` 
-2. `va_sex_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which module is being installed)
-3. `va_algorithm_metadata_optionset.json`
-4. `va_dataelements.json`
-5. `va_program.json`
-6. `va_userrole.json`
-7. `va_usergroups.json` 
+1. `va_usergroups.json` 
+2. `va_cod_codes_optionset.json` 
+3. `va_sex_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which module is being installed)
+4. `va_algorithm_metadata_optionset.json`
+5. `va_dataelements.json`
+6. `va_program.json`
+7. `va_userrole.json`
 8. `va_dashboard.json`
 
 ## Link Program to Organisation Units
