@@ -82,20 +82,20 @@ With a payload:
 
 Let's look at these properties of the event:
 
-|property        |description
-|---             |---
-|program         |The UID of the VA program
-|orgUnit         |The UID of the Organisation Unit where the event should be registered
-|eventDate       |Date of Death in YYYY-MM-DD format
-|status          |The status of the event - in the case of a Single Event w/o Registration it is `COMPLETED`
-|storedBy        |the name of the user doing the import
-|dataElement 1   |VA ID as text
-|dataElement 2   |Sex - must fit to an option in the "Sex" optionSet
-|dataElement 3   |Date of Birth in YYYY-MM-DD format
-|dataElement 4   |Age in years
-|dataElement 5   |Coded Cause of Death - must fit to an option in the "CoD codes" optionSet
-|dataElement 6   |The ID received from posting the blob file
-|dataElement 7   |How the CoD was obtained - must fit to an option inthe "Algorithm Metadata" optionSet
+|property               |description                                                                                 |compulsory?
+|---                    |---                                                                                         |---
+|program                |The UID of the VA program                                                                   |yes
+|orgUnit                |The UID of the Organisation Unit where the event should be registered                       |yes
+|eventDate              |Date of Death in YYYY-MM-DD format                                                          |yes
+|status                 |The status of the event - should be always `COMPLETED`                                      |yes
+|storedBy               |the name of the user doing the import                                                       |yes
+|dataElement "VA-01"    |VA ID as text                                                                               |yes
+|dataElement "VA-02"    |Sex - must fit to an option in the "Sex" optionSet                                          |yes
+|dataElement "VA-03"    |Date of Birth in YYYY-MM-DD format                                                          |no
+|dataElement "VA-04"    |Age in years                                                                                |no
+|dataElement "VA-05"    |Coded Cause of Death - must fit to an option in the "CoD codes" optionSet                   |yes
+|dataElement "VA-06"    |The ID received from posting the blob file (containing the VA questionnaire raw data)       |no
+|dataElement "VA-07"    |How the CoD was obtained - must fit to an option in the "Algorithm Metadata" optionSet      |no
 
 
 In general, any client posting VA events (such as the openVA pipeline) needs to know...
