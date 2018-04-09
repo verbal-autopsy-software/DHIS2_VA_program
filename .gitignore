@@ -2,5 +2,6 @@
 log.json
 events.json
 demo_setup/blobs/
+demo_setup/data/*.json
 resources/dataelements/*.json
 resources/icd10/*.json
