@@ -55,51 +55,51 @@ The Organisation Units (e.g. districts) to which verbal autopsies are associated
 
 ### User Groups
 
-#### User Group 1 - _openVA Admin_
+#### User Group 1 - _VA Admin_
 
-This User Group should only contain one user (see below). It is to enforce Edit rights to only the `openva-pipeline` user as well as DHIS2 Superusers.
+This User Group should only contain one user (see below). It is to enforce Edit rights to only the `va-interface` user as well as DHIS2 Superusers.
 
 ### User Roles
 
-#### User Role 1 - _openVA Pipeline_
-The User Role **openVA Pipeline** is crucial, because the Interface sending Verbal Autopsy events needs to be able to do so, as well as _Edit and View_ rights for Public Option Sets related to Verbal Autopsy - i.e. it **must** be able to edit CoD codes and the Algorithm metadata on how the Cause of Death was obtained.
+#### User Role 1 - _VA Interface_
+The User Role **VA Interface** is crucial, because the Interface sending Verbal Autopsy events needs to be able to do so, as well as _Edit and View_ rights for Public Option Sets related to Verbal Autopsy - i.e. it **must** be able to edit CoD codes and the Algorithm metadata on how the Cause of Death was obtained.
 
 ### User Creation
 
-Create a User for the openVA Pipeline Interface:
+Create a User for the VA Interface:
 
-1. Give the user the name `openva-pipeline`
-2. Assign the User Role **openVA Pipeline**
+1. Give the user the name `va-interface`
+2. Assign the User Role **VA Interface**
 3. Assign the **Root Organisation Unit** in _Data capture and maintenance organisation units_ to the user
-4. Assign the User Group **openVA Admin**
+4. Assign the User Group **VA Admin**
 
 ### Sharing
 
 Certain imported metadata has explicitly defined sharing settings (that concern availability of the objects for reading or modification), more concretely:
 
-#### _openVA Pipeline_ User Role
+#### _VA Interface_ User Role
   - Public Access: _None_
   - User Group with Read/Write Access: _None_
   - User Group with Read-Only Access: _None_
   
-#### _openVA Admin_ User Group
+#### _VA Admin_ User Group
   - Public Access: _None_
   - User Group with Read/Write Access: _None_
   - User Group with Read-Only Access: _None_
 
 #### _Verbal Autopsy CoD codes_ Option Set (for "VA-05-Most probable Cause of Death" data element)
  - Public Access: **View**
- - User Group with Read/Write Access: **openVA Admin**
+ - User Group with Read/Write Access: **VA Admin**
  - User Group with Read-Only Access: _None_
 
 #### _Verbal Autopsy Sex_ Option Set (for "VA-02-Sex" data element)
   - Public Access: **View**
-  - User Group with Read/Write Access: **openVA Admin**
+  - User Group with Read/Write Access: **VA Admin**
   - User Group with Read-Only Access: _None_
 
 #### _Verbal Autopsy Algorithm Metadata_ Option Set (for "VA-07-Algorithm metadata on how CoD was obtained" data element)
   - Public Access: **View**
-  - User Group with Read/Write Access: **openVA Admin**
+  - User Group with Read/Write Access: **VA Admin**
   - User Group with Read-Only Access: _None_
 
-In case there is a need for more restrictive access, it would be possible to set all "Public Access" to None while giving Read-Only Access to another User Group called e.g. `openVA User`.
+In case there is a need for more restrictive access, it would be possible to set all "Public Access" to None while giving Read-Only Access to another User Group called e.g. `VA User`.

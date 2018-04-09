@@ -98,7 +98,7 @@ Let's look at these properties of the event:
 |dataElement "VA-07"    |How the CoD was obtained - must fit to an option in the "Algorithm Metadata" optionSet      |no
 
 
-In general, any client posting VA events (such as the openVA pipeline) needs to know...
+In general, any client posting VA events needs to know...
 
 - the Organisation Unit UID (can be fetched via API as well if an identifier is known)
 - CoD codes used in DHIS2 (static) - see `\resources\cod_codes\cod_codes_options.csv` for valid codes to send
