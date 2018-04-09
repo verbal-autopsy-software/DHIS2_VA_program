@@ -90,7 +90,7 @@
       {
           "id": "jKAT5dSN6T8",
           "displayInReports": false,
-          "compulsory": false,
+          "compulsory": true,
           "allowProvidedElsewhere": false,
           "sortOrder": 6,
           "allowFutureDate": false,
