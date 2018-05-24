@@ -78,6 +78,7 @@ class Dhis(object):
         """ Post file to DHIS2 and return created UID for that file
         :rtype: str
         """
+        f = f.replace('\\', '/') # in case it is a MS Windows path we need to change from back- to fwd-slash
         url = '{}/fileResources'.format(self.url)
         files = {'file': (f, open(f, 'rb'), 'application/x-sqlite3', {'Expires': '0'})}
         try:
@@ -276,7 +277,7 @@ if __name__ == '__main__':
     export = {}
     for i in range(args.events):
         va_id = str(uuid.uuid4())
-        blob_file = "{}.db".format(os.path.join(root, 'blobs', va_id))
+        blob_file = r"{}.db".format(os.path.join(root, 'blobs', va_id))
         create_db(blob_file)
         file_id = api.post_blob(blob_file)
         e = VerbalAutopsyEvent(va_id, va_program_uid, args.orgunit, icd10_options, algorithm_metadata_options, file_id)
