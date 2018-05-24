@@ -78,7 +78,7 @@ class Dhis(object):
         """ Post file to DHIS2 and return created UID for that file
         :rtype: str
         """
-        f = f.replace('\\', '/') # in case it is a MS Windows path we need to change from back- to fwd-slash
+        f = f.replace('\\', '/') # in case it is a MS Windows path we need to change from back- to forward-slash
         url = '{}/fileResources'.format(self.url)
         files = {'file': (f, open(f, 'rb'), 'application/x-sqlite3', {'Expires': '0'})}
         try:
