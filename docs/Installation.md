@@ -34,7 +34,7 @@ On every file, a _Dry run_ should be done to validate the import first.
 
 1. `va_usergroups.json` 
 2. `va_cod_codes_optionset.json` 
-3. `va_sex_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which module is being installed)
+3. `va_sex_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which the program is being installed)
 4. `va_algorithm_metadata_optionset.json`
 5. `va_dataelements.json`
 6. `va_program.json`

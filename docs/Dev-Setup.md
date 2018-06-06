@@ -10,7 +10,7 @@ Or download a complete DHIS2 VirtualBox Image here (File > Import appliance...):
 - Start Tomcat: `/home/dhis/tomcat-dhis/bin/startup.sh`
 - Shut down Tomcat: `/home/dhis/tomcat-dhis/bin/shutdown.sh`
 
-### Restore a complete database (locally) that includes the VA module
+### Restore a complete database (locally) that includes the VA program
 
 - Download the `update-db.sh` script from Github in the `db` folder (it's already present in the VirtualBox Image)
 - `bash /home/dhis/update-db.sh` to fetch a fully configured DHIS2 database where VA is installed. *Warning*: This overwrites the existing database!
