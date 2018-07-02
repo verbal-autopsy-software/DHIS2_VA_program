@@ -1,271 +1,351 @@
 code,name,id
-InsilicoVA|1.1.4|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),ct5YeLy4IxM
-InsilicoVA|1.1.4|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),Xloo17roytM
-InsilicoVA|1.1.4|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),xEeIkPt9iws
-InsilicoVA|1.1.4|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),DuLszR0puxK
-InsilicoVA|1.1.4|InterVA|4|PHMRCFull|1,InsilicoVA (1.1.4) - InterVA (4) - PHMRCFull (1),cuKRPq01OV9
-InsilicoVA|1.1.4|InterVA|4|PHMRCShort|1,InsilicoVA (1.1.4) - InterVA (4) - PHMRCShort (1),NIEcp7NXj4y
-InsilicoVA|1.1.4|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),IfLbdgBhAj6
-InsilicoVA|1.1.4|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),OTr2a31X7F2
-InsilicoVA|1.1.4|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),LRvACqWJerI
-InsilicoVA|1.1.4|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),jdMNv5UQp0f
-InsilicoVA|1.1.4|InterVA|5|PHMRCFull|1,InsilicoVA (1.1.4) - InterVA (5) - PHMRCFull (1),QOQRwwNkLk9
-InsilicoVA|1.1.4|InterVA|5|PHMRCShort|1,InsilicoVA (1.1.4) - InterVA (5) - PHMRCShort (1),qLfZ8SyqfYm
-InsilicoVA|1.1.4|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),HmShW38knYE
-InsilicoVA|1.1.4|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),oAiHmlLlT4j
-InsilicoVA|1.1.4|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),kKOVFsMYmqI
-InsilicoVA|1.1.4|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),s0yMw8NB16k
-InsilicoVA|1.1.4|PHMRCFull|1|PHMRCFull|1,InsilicoVA (1.1.4) - PHMRCFull (1) - PHMRCFull (1),EEelwG07BYG
-InsilicoVA|1.1.4|PHMRCFull|1|PHMRCShort|1,InsilicoVA (1.1.4) - PHMRCFull (1) - PHMRCShort (1),odzkQ8Nw6fA
-InsilicoVA|1.1.4|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),mXK0T3LnJjX
-InsilicoVA|1.1.4|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),MVWYkWXz0Um
-InsilicoVA|1.1.4|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),h3YJVxhRHq5
-InsilicoVA|1.1.4|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),NnJS05KBhtU
-InsilicoVA|1.1.4|PHMRCShort|1|PHMRCFull|1,InsilicoVA (1.1.4) - PHMRCShort (1) - PHMRCFull (1),qGXecFbLOGn
-InsilicoVA|1.1.4|PHMRCShort|1|PHMRCShort|1,InsilicoVA (1.1.4) - PHMRCShort (1) - PHMRCShort (1),kqeXT5CFh9s
-InsilicoVA|1.1.4|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),jFK6K9Kp30y
-InsilicoVA|1.1.4|Custom|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),NQeLZSIcPx1
-InsilicoVA|1.1.4|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),T7H1Hr2PdjC
-InsilicoVA|1.1.4|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),uRxIFR2gjf9
-InsilicoVA|1.1.4|Custom|1|PHMRCFull|1,InsilicoVA (1.1.4) - Custom (1) - PHMRCFull (1),n361zl2atu9
-InsilicoVA|1.1.4|Custom|1|PHMRCShort|1,InsilicoVA (1.1.4) - Custom (1) - PHMRCShort (1),ATGvQOQKjb1
-InsilicoVA|1.1.5|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),miDfAz2bDJF
-InsilicoVA|1.1.5|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),RMkH1Y8EJIH
-InsilicoVA|1.1.5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),nhfKKW75co6
-InsilicoVA|1.1.5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),lXA13D3BNp9
-InsilicoVA|1.1.5|InterVA|4|PHMRCFull|1,InsilicoVA (1.1.5) - InterVA (4) - PHMRCFull (1),u2e11CpQgk5
-InsilicoVA|1.1.5|InterVA|4|PHMRCShort|1,InsilicoVA (1.1.5) - InterVA (4) - PHMRCShort (1),sLzRmmi9jhh
-InsilicoVA|1.1.5|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),KcxU4zsk6uj
-InsilicoVA|1.1.5|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),G05FkFtWPSK
-InsilicoVA|1.1.5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),pn2QR09iX3T
-InsilicoVA|1.1.5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),kRjYQDnjt6W
-InsilicoVA|1.1.5|InterVA|5|PHMRCFull|1,InsilicoVA (1.1.5) - InterVA (5) - PHMRCFull (1),sKYbvdujxKX
-InsilicoVA|1.1.5|InterVA|5|PHMRCShort|1,InsilicoVA (1.1.5) - InterVA (5) - PHMRCShort (1),rALiwkBGGcq
-InsilicoVA|1.1.5|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),hXAMFFX14b9
-InsilicoVA|1.1.5|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),PUXSsaMPfHx
-InsilicoVA|1.1.5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),iVF3CyyEwqO
-InsilicoVA|1.1.5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),Sm9HArp8TAV
-InsilicoVA|1.1.5|PHMRCFull|1|PHMRCFull|1,InsilicoVA (1.1.5) - PHMRCFull (1) - PHMRCFull (1),FJfVzZCRWDW
-InsilicoVA|1.1.5|PHMRCFull|1|PHMRCShort|1,InsilicoVA (1.1.5) - PHMRCFull (1) - PHMRCShort (1),Wh212PdKYoo
-InsilicoVA|1.1.5|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),zz321HjPWM0
-InsilicoVA|1.1.5|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),tf6w1UyWmGO
-InsilicoVA|1.1.5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),OMFIELIohvg
-InsilicoVA|1.1.5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),j7ADUEe2JuK
-InsilicoVA|1.1.5|PHMRCShort|1|PHMRCFull|1,InsilicoVA (1.1.5) - PHMRCShort (1) - PHMRCFull (1),IVhb4UckQ9T
-InsilicoVA|1.1.5|PHMRCShort|1|PHMRCShort|1,InsilicoVA (1.1.5) - PHMRCShort (1) - PHMRCShort (1),FurNmQ9cy99
-InsilicoVA|1.1.5|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),Wz1kcqPm9Ts
-InsilicoVA|1.1.5|Custom|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),xwNpQ1vNWPu
-InsilicoVA|1.1.5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),XSjkLMArsVM
-InsilicoVA|1.1.5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),VAlErf6thIS
-InsilicoVA|1.1.5|Custom|1|PHMRCFull|1,InsilicoVA (1.1.5) - Custom (1) - PHMRCFull (1),fosmlLO9TGC
-InsilicoVA|1.1.5|Custom|1|PHMRCShort|1,InsilicoVA (1.1.5) - Custom (1) - PHMRCShort (1),YEvFeF1H7lx
-InsilicoVA-2016|1.0.0|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),XX7kmStqxjs
-InsilicoVA-2016|1.0.0|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),KO3qrJQKZCq
-InsilicoVA-2016|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),Vg8Tjhor3vA
-InsilicoVA-2016|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),UdB1LH9xeJa
-InsilicoVA-2016|1.0.0|InterVA|4|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - InterVA (4) - PHMRCFull (1),V1Ud1W6OhN2
-InsilicoVA-2016|1.0.0|InterVA|4|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - InterVA (4) - PHMRCShort (1),p6KxrwyCBI0
-InsilicoVA-2016|1.0.0|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),PdCa3J59x3s
-InsilicoVA-2016|1.0.0|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),FwIhbsOYjOA
-InsilicoVA-2016|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),Rdk7OVmre7H
-InsilicoVA-2016|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),PHW9xiL0Uhz
-InsilicoVA-2016|1.0.0|InterVA|5|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - InterVA (5) - PHMRCFull (1),viFaalAdvTs
-InsilicoVA-2016|1.0.0|InterVA|5|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - InterVA (5) - PHMRCShort (1),CW6hWJwSRPp
-InsilicoVA-2016|1.0.0|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),DTtQ9zlSUzN
-InsilicoVA-2016|1.0.0|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),PGFAVOQzbC4
-InsilicoVA-2016|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),gZqjoINqcfV
-InsilicoVA-2016|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),gCzK4KnhpWr
-InsilicoVA-2016|1.0.0|PHMRCFull|1|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - PHMRCFull (1),TUvY3UwdQ4F
-InsilicoVA-2016|1.0.0|PHMRCFull|1|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - PHMRCShort (1),BQdLH5DNMz3
-InsilicoVA-2016|1.0.0|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),yeRdLrDEvK4
-InsilicoVA-2016|1.0.0|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),I7y8X0i64Zb
-InsilicoVA-2016|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),ZF8T821meVf
-InsilicoVA-2016|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),OV95gDIyTIn
-InsilicoVA-2016|1.0.0|PHMRCShort|1|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - PHMRCFull (1),uL3HG2wrUS2
-InsilicoVA-2016|1.0.0|PHMRCShort|1|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - PHMRCShort (1),n1bCSdsGmY4
-InsilicoVA-2016|1.0.0|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),Wha1eK4X7Vc
-InsilicoVA-2016|1.0.0|Custom|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),TQIaqs6fz66
-InsilicoVA-2016|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),iS5OdPAQgEf
-InsilicoVA-2016|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),YareLxRX0TJ
-InsilicoVA-2016|1.0.0|Custom|1|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - Custom (1) - PHMRCFull (1),beOxuvIbQQM
-InsilicoVA-2016|1.0.0|Custom|1|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - Custom (1) - PHMRCShort (1),yol0w5fNfAm
-InterVA4|4.02|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),vENU7QJY0Mc
-InterVA4|4.02|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),DuM2AWnGPBt
-InterVA4|4.02|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),qvGel0eMHnj
-InterVA4|4.02|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),FYheBzF9gPF
-InterVA4|4.02|InterVA|4|PHMRCFull|1,InterVA4 (4.02) - InterVA (4) - PHMRCFull (1),iGPWsjV754p
-InterVA4|4.02|InterVA|4|PHMRCShort|1,InterVA4 (4.02) - InterVA (4) - PHMRCShort (1),CrwqcCUKQKh
-InterVA4|4.02|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),Z9LZafwGLGB
-InterVA4|4.02|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),khFrbbQxpt6
-InterVA4|4.02|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),ZTx8MV1myJw
-InterVA4|4.02|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),HeAmebnbjoy
-InterVA4|4.02|InterVA|5|PHMRCFull|1,InterVA4 (4.02) - InterVA (5) - PHMRCFull (1),qGg6Jvxl5cg
-InterVA4|4.02|InterVA|5|PHMRCShort|1,InterVA4 (4.02) - InterVA (5) - PHMRCShort (1),M9YJ5aNI7Wl
-InterVA4|4.02|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),yJuhHRxIXy6
-InterVA4|4.02|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),vBe6RtlSCKl
-InterVA4|4.02|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),FNiiy3cjWoq
-InterVA4|4.02|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),yuOudZhQatB
-InterVA4|4.02|PHMRCFull|1|PHMRCFull|1,InterVA4 (4.02) - PHMRCFull (1) - PHMRCFull (1),svOpn66s8VZ
-InterVA4|4.02|PHMRCFull|1|PHMRCShort|1,InterVA4 (4.02) - PHMRCFull (1) - PHMRCShort (1),t7p2lElOTCt
-InterVA4|4.02|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),txLZzqeEdjC
-InterVA4|4.02|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),ZqKGE9cwG4L
-InterVA4|4.02|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),lxVSNiCXgIm
-InterVA4|4.02|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),QBXBMhCsQz7
-InterVA4|4.02|PHMRCShort|1|PHMRCFull|1,InterVA4 (4.02) - PHMRCShort (1) - PHMRCFull (1),rOXg3r1afFw
-InterVA4|4.02|PHMRCShort|1|PHMRCShort|1,InterVA4 (4.02) - PHMRCShort (1) - PHMRCShort (1),aQ5d1HZzTRC
-InterVA4|4.02|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),kd1yla5JC1D
-InterVA4|4.02|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),oLsWhgq5jUV
-InterVA4|4.02|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),JJVWunnTl7Z
-InterVA4|4.02|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),xuBkmrC3w6I
-InterVA4|4.02|Custom|1|PHMRCFull|1,InterVA4 (4.02) - Custom (1) - PHMRCFull (1),BzPtBXExeJm
-InterVA4|4.02|Custom|1|PHMRCShort|1,InterVA4 (4.02) - Custom (1) - PHMRCShort (1),uM7gkjCHlB9
-InterVA4|4.03|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),RoEGkkHfSVY
-InterVA4|4.03|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),s6K78XEeWwJ
-InterVA4|4.03|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),Nnxh1JyK0xf
-InterVA4|4.03|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),FUR1lDyaCL2
-InterVA4|4.03|InterVA|4|PHMRCFull|1,InterVA4 (4.03) - InterVA (4) - PHMRCFull (1),SJuCDmwPJoT
-InterVA4|4.03|InterVA|4|PHMRCShort|1,InterVA4 (4.03) - InterVA (4) - PHMRCShort (1),xJ70TkBVMZA
-InterVA4|4.03|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),Qm7zPGvzgCK
-InterVA4|4.03|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),aFrR3xY1B8I
-InterVA4|4.03|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),evROGfMrOTm
-InterVA4|4.03|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),JjXdziGI1es
-InterVA4|4.03|InterVA|5|PHMRCFull|1,InterVA4 (4.03) - InterVA (5) - PHMRCFull (1),TLfMmFzYzD4
-InterVA4|4.03|InterVA|5|PHMRCShort|1,InterVA4 (4.03) - InterVA (5) - PHMRCShort (1),pj8B8mdBMGY
-InterVA4|4.03|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),XbxF1RwRxgm
-InterVA4|4.03|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),GRqSrbz2PkA
-InterVA4|4.03|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),bo296HYq08Q
-InterVA4|4.03|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),XmMkDO1wxd2
-InterVA4|4.03|PHMRCFull|1|PHMRCFull|1,InterVA4 (4.03) - PHMRCFull (1) - PHMRCFull (1),njDsI09WytQ
-InterVA4|4.03|PHMRCFull|1|PHMRCShort|1,InterVA4 (4.03) - PHMRCFull (1) - PHMRCShort (1),R8bAIYlnLi2
-InterVA4|4.03|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),zUilUgnE6AL
-InterVA4|4.03|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),pPiaZgA56nx
-InterVA4|4.03|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),oljlNZjqr0k
-InterVA4|4.03|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),Cb7xdAJPdKZ
-InterVA4|4.03|PHMRCShort|1|PHMRCFull|1,InterVA4 (4.03) - PHMRCShort (1) - PHMRCFull (1),M4hvhCdvKQJ
-InterVA4|4.03|PHMRCShort|1|PHMRCShort|1,InterVA4 (4.03) - PHMRCShort (1) - PHMRCShort (1),ECeTbdheOev
-InterVA4|4.03|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),v3bIe3ujyU7
-InterVA4|4.03|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),ZRfJWDjZu3O
-InterVA4|4.03|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),s9qMuu2r0w0
-InterVA4|4.03|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),nrCVBaomOlf
-InterVA4|4.03|Custom|1|PHMRCFull|1,InterVA4 (4.03) - Custom (1) - PHMRCFull (1),AJa6vlvXdRr
-InterVA4|4.03|Custom|1|PHMRCShort|1,InterVA4 (4.03) - Custom (1) - PHMRCShort (1),H6H4InU551N
-InterVA4|4.04|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),zf2b18THW8j
-InterVA4|4.04|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),yJn6jN4UogH
-InterVA4|4.04|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),kd2G4SYUC1G
-InterVA4|4.04|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),NBlV6SELK5i
-InterVA4|4.04|InterVA|4|PHMRCFull|1,InterVA4 (4.04) - InterVA (4) - PHMRCFull (1),fCLLiWqAyMo
-InterVA4|4.04|InterVA|4|PHMRCShort|1,InterVA4 (4.04) - InterVA (4) - PHMRCShort (1),jVgHLUUkpJ9
-InterVA4|4.04|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),DqSEI079CHT
-InterVA4|4.04|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),XktNkbGOm0d
-InterVA4|4.04|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),Q04nPLG6lRF
-InterVA4|4.04|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),hdJYH2evwzr
-InterVA4|4.04|InterVA|5|PHMRCFull|1,InterVA4 (4.04) - InterVA (5) - PHMRCFull (1),raIEHjgcBbl
-InterVA4|4.04|InterVA|5|PHMRCShort|1,InterVA4 (4.04) - InterVA (5) - PHMRCShort (1),HSU2lUbqhiS
-InterVA4|4.04|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),kl6RR67cecx
-InterVA4|4.04|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),E7Hqe3iRvfg
-InterVA4|4.04|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),SfafTnGXdwo
-InterVA4|4.04|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),HNHlYPb6KDC
-InterVA4|4.04|PHMRCFull|1|PHMRCFull|1,InterVA4 (4.04) - PHMRCFull (1) - PHMRCFull (1),gU2E6nO1KAm
-InterVA4|4.04|PHMRCFull|1|PHMRCShort|1,InterVA4 (4.04) - PHMRCFull (1) - PHMRCShort (1),h7NVfCRsLuH
-InterVA4|4.04|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),CXSw5lwbmgA
-InterVA4|4.04|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),kbjqirUNOgw
-InterVA4|4.04|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),gtbJINWwysw
-InterVA4|4.04|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),sH5DtjCYxwN
-InterVA4|4.04|PHMRCShort|1|PHMRCFull|1,InterVA4 (4.04) - PHMRCShort (1) - PHMRCFull (1),bJae9rdoRWz
-InterVA4|4.04|PHMRCShort|1|PHMRCShort|1,InterVA4 (4.04) - PHMRCShort (1) - PHMRCShort (1),UgY1X3Vtvfe
-InterVA4|4.04|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),fCsbpMgTbRQ
-InterVA4|4.04|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),CLaWgCzQHho
-InterVA4|4.04|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),m8D1Ww863Ef
-InterVA4|4.04|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),KwAN1frSxKw
-InterVA4|4.04|Custom|1|PHMRCFull|1,InterVA4 (4.04) - Custom (1) - PHMRCFull (1),hzC1tEF3zLf
-InterVA4|4.04|Custom|1|PHMRCShort|1,InterVA4 (4.04) - Custom (1) - PHMRCShort (1),LZ5zhVYxO38
-InterVA5|5|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),yOljHKd8w2q
-InterVA5|5|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),XRKO5PeUaUR
-InterVA5|5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),bpX51nG3koT
-InterVA5|5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),RRtITqOioEt
-InterVA5|5|InterVA|4|PHMRCFull|1,InterVA5 (5) - InterVA (4) - PHMRCFull (1),Ce7VpbgVGSQ
-InterVA5|5|InterVA|4|PHMRCShort|1,InterVA5 (5) - InterVA (4) - PHMRCShort (1),xylJzcHsfwk
-InterVA5|5|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),gKh9q1rAy9Z
-InterVA5|5|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),NQTia9Ai67z
-InterVA5|5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),FX8iqw4vrZo
-InterVA5|5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),CHiz7Bm79mR
-InterVA5|5|InterVA|5|PHMRCFull|1,InterVA5 (5) - InterVA (5) - PHMRCFull (1),YnZ7hh6gSUz
-InterVA5|5|InterVA|5|PHMRCShort|1,InterVA5 (5) - InterVA (5) - PHMRCShort (1),TGkGW8Ww3a5
-InterVA5|5|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),RMJiugBGJte
-InterVA5|5|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),ZN6dLVbCCt5
-InterVA5|5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),NbDj73ZQyLE
-InterVA5|5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),LYyqlrcSUoF
-InterVA5|5|PHMRCFull|1|PHMRCFull|1,InterVA5 (5) - PHMRCFull (1) - PHMRCFull (1),a08s0MKOkfv
-InterVA5|5|PHMRCFull|1|PHMRCShort|1,InterVA5 (5) - PHMRCFull (1) - PHMRCShort (1),afPZjb4Zk07
-InterVA5|5|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),i7dT5okqi2j
-InterVA5|5|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),wWzsfxbE7hT
-InterVA5|5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),eJLF4fo2ecW
-InterVA5|5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),lwXvFFAfWnC
-InterVA5|5|PHMRCShort|1|PHMRCFull|1,InterVA5 (5) - PHMRCShort (1) - PHMRCFull (1),ZWWIFSWKhoc
-InterVA5|5|PHMRCShort|1|PHMRCShort|1,InterVA5 (5) - PHMRCShort (1) - PHMRCShort (1),KQXbI8fI4WO
-InterVA5|5|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),OHO3AWBuIho
-InterVA5|5|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),FykOTytzpZD
-InterVA5|5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),FBmVfLyaKZA
-InterVA5|5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),Qb6jRvMjjHZ
-InterVA5|5|Custom|1|PHMRCFull|1,InterVA5 (5) - Custom (1) - PHMRCFull (1),N7TTw2cnZxk
-InterVA5|5|Custom|1|PHMRCShort|1,InterVA5 (5) - Custom (1) - PHMRCShort (1),EaOFrKEC2nm
-NBC|1.0.0|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),apBOG79xlY4
-NBC|1.0.0|InterVA|4|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),qmV1NYmnpdj
-NBC|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),Mz7mK2o2VeX
-NBC|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),LtMBxWPdHfm
-NBC|1.0.0|InterVA|4|PHMRCFull|1,NBC (1.0.0) - InterVA (4) - PHMRCFull (1),FqsaWLaciTa
-NBC|1.0.0|InterVA|4|PHMRCShort|1,NBC (1.0.0) - InterVA (4) - PHMRCShort (1),XlOQLKHxYHq
-NBC|1.0.0|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),ilxd3iLSNLz
-NBC|1.0.0|InterVA|5|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),HCLwQLmmXLg
-NBC|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),am9hBEerWVm
-NBC|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),KA9neJv2n6J
-NBC|1.0.0|InterVA|5|PHMRCFull|1,NBC (1.0.0) - InterVA (5) - PHMRCFull (1),eQaoedDceUf
-NBC|1.0.0|InterVA|5|PHMRCShort|1,NBC (1.0.0) - InterVA (5) - PHMRCShort (1),cjFxDOZP6Wz
-NBC|1.0.0|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),OkwSJxDGg5p
-NBC|1.0.0|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),UpAVi2kBGhl
-NBC|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),CmTzq2q4l3z
-NBC|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),UTGztptKtLq
-NBC|1.0.0|PHMRCFull|1|PHMRCFull|1,NBC (1.0.0) - PHMRCFull (1) - PHMRCFull (1),hVXnBBuO70F
-NBC|1.0.0|PHMRCFull|1|PHMRCShort|1,NBC (1.0.0) - PHMRCFull (1) - PHMRCShort (1),kXNBMJQC2MS
-NBC|1.0.0|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),KT1N8ylzNw4
-NBC|1.0.0|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),NJerXIncSmf
-NBC|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),BjN9EsEwZar
-NBC|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),hAoenpzZNh1
-NBC|1.0.0|PHMRCShort|1|PHMRCFull|1,NBC (1.0.0) - PHMRCShort (1) - PHMRCFull (1),zQiu7dW5iYG
-NBC|1.0.0|PHMRCShort|1|PHMRCShort|1,NBC (1.0.0) - PHMRCShort (1) - PHMRCShort (1),D504RpyFLqu
-NBC|1.0.0|Custom|1|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),XZpEBZPbb9p
-NBC|1.0.0|Custom|1|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),WCe2qVtd0tP
-NBC|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),X50UHCSMkGG
-NBC|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),sDHyvpPOz8w
-NBC|1.0.0|Custom|1|PHMRCFull|1,NBC (1.0.0) - Custom (1) - PHMRCFull (1),VEeAzgxynWw
-NBC|1.0.0|Custom|1|PHMRCShort|1,NBC (1.0.0) - Custom (1) - PHMRCShort (1),Q6eISxzd9ED
-Tariff|1.0.2|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),BhviNB5Wg6h
-Tariff|1.0.2|InterVA|4|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),XUzhKrqa95T
-Tariff|1.0.2|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),Vmoq6o11y2H
-Tariff|1.0.2|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),aojNFkpblIY
-Tariff|1.0.2|InterVA|4|PHMRCFull|1,Tariff (1.0.2) - InterVA (4) - PHMRCFull (1),R22jge0FoDv
-Tariff|1.0.2|InterVA|4|PHMRCShort|1,Tariff (1.0.2) - InterVA (4) - PHMRCShort (1),uYTPO1gjnAr
-Tariff|1.0.2|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),yOgvapWtwuU
-Tariff|1.0.2|InterVA|5|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),BJkPnXYhkwJ
-Tariff|1.0.2|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),yfDwQBpwfms
-Tariff|1.0.2|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),cWq36TPu088
-Tariff|1.0.2|InterVA|5|PHMRCFull|1,Tariff (1.0.2) - InterVA (5) - PHMRCFull (1),GZMHDeELrSD
-Tariff|1.0.2|InterVA|5|PHMRCShort|1,Tariff (1.0.2) - InterVA (5) - PHMRCShort (1),gDLuk49Ntnq
-Tariff|1.0.2|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),fmuxZcyq6NG
-Tariff|1.0.2|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),wo8ITnDH7ug
-Tariff|1.0.2|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),bjuyA299v7b
-Tariff|1.0.2|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),cF8vqmezuEb
-Tariff|1.0.2|PHMRCFull|1|PHMRCFull|1,Tariff (1.0.2) - PHMRCFull (1) - PHMRCFull (1),LBSyVlqtba2
-Tariff|1.0.2|PHMRCFull|1|PHMRCShort|1,Tariff (1.0.2) - PHMRCFull (1) - PHMRCShort (1),gHtmqFWSmpq
-Tariff|1.0.2|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),RhulBihimQu
-Tariff|1.0.2|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),f9lmbod4FgO
-Tariff|1.0.2|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),FxLmyzniUxo
-Tariff|1.0.2|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),N571S4voFDZ
-Tariff|1.0.2|PHMRCShort|1|PHMRCFull|1,Tariff (1.0.2) - PHMRCShort (1) - PHMRCFull (1),nBBCf1b81qJ
-Tariff|1.0.2|PHMRCShort|1|PHMRCShort|1,Tariff (1.0.2) - PHMRCShort (1) - PHMRCShort (1),Hr0y24QMQ89
-Tariff|1.0.2|Custom|1|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),sim1gB1NoPv
-Tariff|1.0.2|Custom|1|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),INtlNRmlQdk
-Tariff|1.0.2|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),ykap6ZCRq7f
-Tariff|1.0.2|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),UnIAkRGDi1T
-Tariff|1.0.2|Custom|1|PHMRCFull|1,Tariff (1.0.2) - Custom (1) - PHMRCFull (1),PqDnW4zoPdI
-Tariff|1.0.2|Custom|1|PHMRCShort|1,Tariff (1.0.2) - Custom (1) - PHMRCShort (1),uZ5HEvBLiSR
+InsilicoVA|1.1.4|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),qdnneOG6as0
+InsilicoVA|1.1.4|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),T5oijQGRZSu
+InsilicoVA|1.1.4|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),GhHC7PG7aWX
+InsilicoVA|1.1.4|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),bbpXVRPrEXd
+InsilicoVA|1.1.4|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.4) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),MGG52afFcOA
+InsilicoVA|1.1.4|InterVA|4|PHMRCFull|1,InsilicoVA (1.1.4) - InterVA (4) - PHMRCFull (1),qg33zxkULC9
+InsilicoVA|1.1.4|InterVA|4|PHMRCShort|1,InsilicoVA (1.1.4) - InterVA (4) - PHMRCShort (1),wD9hs0XWayS
+InsilicoVA|1.1.4|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),JZ2Lz0fm2AD
+InsilicoVA|1.1.4|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),bIQVrPj06rJ
+InsilicoVA|1.1.4|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),SEqGeA5qzYv
+InsilicoVA|1.1.4|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),KVae29yoBoM
+InsilicoVA|1.1.4|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.4) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),sFLnRyRuuR2
+InsilicoVA|1.1.4|InterVA|5|PHMRCFull|1,InsilicoVA (1.1.4) - InterVA (5) - PHMRCFull (1),KJxOx2XxLHS
+InsilicoVA|1.1.4|InterVA|5|PHMRCShort|1,InsilicoVA (1.1.4) - InterVA (5) - PHMRCShort (1),Yes58SrB7TI
+InsilicoVA|1.1.4|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),BA960l31e2F
+InsilicoVA|1.1.4|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),NuSYWVPnJT1
+InsilicoVA|1.1.4|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),pSYsJxCBpKO
+InsilicoVA|1.1.4|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),jjjM0kA9yvQ
+InsilicoVA|1.1.4|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.4) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),pRxrUuBW29S
+InsilicoVA|1.1.4|PHMRCFull|1|PHMRCFull|1,InsilicoVA (1.1.4) - PHMRCFull (1) - PHMRCFull (1),opb8yGGV7GC
+InsilicoVA|1.1.4|PHMRCFull|1|PHMRCShort|1,InsilicoVA (1.1.4) - PHMRCFull (1) - PHMRCShort (1),oIg8Auqx0Qv
+InsilicoVA|1.1.4|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),mOaWvWDnuDf
+InsilicoVA|1.1.4|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),zFmF2lfxE7U
+InsilicoVA|1.1.4|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),clXmJfNFcqo
+InsilicoVA|1.1.4|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),heQnBVmFVNG
+InsilicoVA|1.1.4|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.4) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),mJG3GzLgnzC
+InsilicoVA|1.1.4|PHMRCShort|1|PHMRCFull|1,InsilicoVA (1.1.4) - PHMRCShort (1) - PHMRCFull (1),hE9ARigkkTv
+InsilicoVA|1.1.4|PHMRCShort|1|PHMRCShort|1,InsilicoVA (1.1.4) - PHMRCShort (1) - PHMRCShort (1),BGev4e1jZWH
+InsilicoVA|1.1.4|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.4) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),dKkZ0Bq5nnf
+InsilicoVA|1.1.4|Custom|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.4) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),x1LAgXjZmsI
+InsilicoVA|1.1.4|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.4) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),MWJ0buIi33j
+InsilicoVA|1.1.4|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.4) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),KKLjkfGmOst
+InsilicoVA|1.1.4|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.4) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),zBS02jD5rO1
+InsilicoVA|1.1.4|Custom|1|PHMRCFull|1,InsilicoVA (1.1.4) - Custom (1) - PHMRCFull (1),GRc31ABSCVH
+InsilicoVA|1.1.4|Custom|1|PHMRCShort|1,InsilicoVA (1.1.4) - Custom (1) - PHMRCShort (1),IIq1aj5JXr9
+InsilicoVA|1.1.5|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),EdDBwkMokVV
+InsilicoVA|1.1.5|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),RWfjFsgvvWN
+InsilicoVA|1.1.5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),hRu6vuSQMO5
+InsilicoVA|1.1.5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),bBUiXTvb6yI
+InsilicoVA|1.1.5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),O4hn77q8789
+InsilicoVA|1.1.5|InterVA|4|PHMRCFull|1,InsilicoVA (1.1.5) - InterVA (4) - PHMRCFull (1),MFKPc3SGe4T
+InsilicoVA|1.1.5|InterVA|4|PHMRCShort|1,InsilicoVA (1.1.5) - InterVA (4) - PHMRCShort (1),jKgJHuq2KZr
+InsilicoVA|1.1.5|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),H5j4PzMNorb
+InsilicoVA|1.1.5|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),eQZIIFsg6as
+InsilicoVA|1.1.5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),MLgufxoIfsh
+InsilicoVA|1.1.5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),W5LnruPkPyl
+InsilicoVA|1.1.5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),bOO5Kz53yyz
+InsilicoVA|1.1.5|InterVA|5|PHMRCFull|1,InsilicoVA (1.1.5) - InterVA (5) - PHMRCFull (1),KyX4KmHn5l9
+InsilicoVA|1.1.5|InterVA|5|PHMRCShort|1,InsilicoVA (1.1.5) - InterVA (5) - PHMRCShort (1),TtomPAPrrDL
+InsilicoVA|1.1.5|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),Gbv4OlAgcJo
+InsilicoVA|1.1.5|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),ssToYZCC2yI
+InsilicoVA|1.1.5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),YBm1l99vBa9
+InsilicoVA|1.1.5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),uCOtj6W9anY
+InsilicoVA|1.1.5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),AKk61j9Es8P
+InsilicoVA|1.1.5|PHMRCFull|1|PHMRCFull|1,InsilicoVA (1.1.5) - PHMRCFull (1) - PHMRCFull (1),cL18QlOXO6u
+InsilicoVA|1.1.5|PHMRCFull|1|PHMRCShort|1,InsilicoVA (1.1.5) - PHMRCFull (1) - PHMRCShort (1),TNqg1hpunZp
+InsilicoVA|1.1.5|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),sqDJAEelrs6
+InsilicoVA|1.1.5|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),SToJgIrfytR
+InsilicoVA|1.1.5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),LotXkTcLkr0
+InsilicoVA|1.1.5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),k4tZ6MFyzwO
+InsilicoVA|1.1.5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),qgE9x5wEenp
+InsilicoVA|1.1.5|PHMRCShort|1|PHMRCFull|1,InsilicoVA (1.1.5) - PHMRCShort (1) - PHMRCFull (1),Nm951ALGN07
+InsilicoVA|1.1.5|PHMRCShort|1|PHMRCShort|1,InsilicoVA (1.1.5) - PHMRCShort (1) - PHMRCShort (1),e1dcvXO2afS
+InsilicoVA|1.1.5|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA (1.1.5) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),ePFfZw4Nazu
+InsilicoVA|1.1.5|Custom|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA (1.1.5) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),cGa2YIiNkb6
+InsilicoVA|1.1.5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA (1.1.5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),VeqltVGU9zy
+InsilicoVA|1.1.5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA (1.1.5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),DSW1XwdVklU
+InsilicoVA|1.1.5|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA (1.1.5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),ZoZxwLpoVV8
+InsilicoVA|1.1.5|Custom|1|PHMRCFull|1,InsilicoVA (1.1.5) - Custom (1) - PHMRCFull (1),TclHXz03uCR
+InsilicoVA|1.1.5|Custom|1|PHMRCShort|1,InsilicoVA (1.1.5) - Custom (1) - PHMRCShort (1),uskkleCHEry
+InsilicoVA-2016|1.0.0|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),pzSgTwp8CXb
+InsilicoVA-2016|1.0.0|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),cJtFfpp7R2M
+InsilicoVA-2016|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),NUY38Y99MiQ
+InsilicoVA-2016|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),twFwU8aRunu
+InsilicoVA-2016|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA-2016 (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),xfSWdG721hG
+InsilicoVA-2016|1.0.0|InterVA|4|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - InterVA (4) - PHMRCFull (1),AVLm1A1gjEK
+InsilicoVA-2016|1.0.0|InterVA|4|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - InterVA (4) - PHMRCShort (1),es4u7O2ulM0
+InsilicoVA-2016|1.0.0|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),GQdjm5jDLZ4
+InsilicoVA-2016|1.0.0|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),DxwwBIC7BsI
+InsilicoVA-2016|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),y3euuq3jKa5
+InsilicoVA-2016|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),oAPxWFcPUIv
+InsilicoVA-2016|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA-2016 (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),Rr5pN8uGRf8
+InsilicoVA-2016|1.0.0|InterVA|5|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - InterVA (5) - PHMRCFull (1),uuz7lkCazhE
+InsilicoVA-2016|1.0.0|InterVA|5|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - InterVA (5) - PHMRCShort (1),VGWjKBRgQjy
+InsilicoVA-2016|1.0.0|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),BSYgboRPzup
+InsilicoVA-2016|1.0.0|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),XNUNVpDJjCw
+InsilicoVA-2016|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),tACbXhepdPb
+InsilicoVA-2016|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),eQ37ybNTIq1
+InsilicoVA-2016|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),VrBjC8FaS1i
+InsilicoVA-2016|1.0.0|PHMRCFull|1|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - PHMRCFull (1),CNVtqBjPJ1Q
+InsilicoVA-2016|1.0.0|PHMRCFull|1|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - PHMRCFull (1) - PHMRCShort (1),j5uoBLudJeZ
+InsilicoVA-2016|1.0.0|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),D1MhxUm2S92
+InsilicoVA-2016|1.0.0|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),IbIRFLPiRLt
+InsilicoVA-2016|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),ozGYSndHi5P
+InsilicoVA-2016|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),uMNbF1N73Hb
+InsilicoVA-2016|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),UcTbetE4zU0
+InsilicoVA-2016|1.0.0|PHMRCShort|1|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - PHMRCFull (1),IJg4Sy5xSPi
+InsilicoVA-2016|1.0.0|PHMRCShort|1|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - PHMRCShort (1) - PHMRCShort (1),OqYLgQWQpLd
+InsilicoVA-2016|1.0.0|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InsilicoVA-2016 (1.0.0) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),vPnorMpjMQw
+InsilicoVA-2016|1.0.0|Custom|1|2014 WHO Verbal Autopsy Form|final10,InsilicoVA-2016 (1.0.0) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),d12wzNQhMV6
+InsilicoVA-2016|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InsilicoVA-2016 (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),YzozTEfuz1x
+InsilicoVA-2016|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InsilicoVA-2016 (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),QRMc4PMYJ1d
+InsilicoVA-2016|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InsilicoVA-2016 (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),sLQycv6ZA5W
+InsilicoVA-2016|1.0.0|Custom|1|PHMRCFull|1,InsilicoVA-2016 (1.0.0) - Custom (1) - PHMRCFull (1),UPDILv1oqi4
+InsilicoVA-2016|1.0.0|Custom|1|PHMRCShort|1,InsilicoVA-2016 (1.0.0) - Custom (1) - PHMRCShort (1),CfwOJNPExCW
+InterVA4|4.02|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),X0ulYGjEUBh
+InterVA4|4.02|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),hycFSmijatN
+InterVA4|4.02|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),RKpeBqPQrYA
+InterVA4|4.02|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),PkslKCm06rg
+InterVA4|4.02|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.02) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),BAFNUhX7JlA
+InterVA4|4.02|InterVA|4|PHMRCFull|1,InterVA4 (4.02) - InterVA (4) - PHMRCFull (1),zbYBdvhyvyS
+InterVA4|4.02|InterVA|4|PHMRCShort|1,InterVA4 (4.02) - InterVA (4) - PHMRCShort (1),GuKFYHMOwFZ
+InterVA4|4.02|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),iLdblUWBz1U
+InterVA4|4.02|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),QsRvhq72jgN
+InterVA4|4.02|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),IznyahEcmkE
+InterVA4|4.02|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),DDTbnDFiyKk
+InterVA4|4.02|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.02) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),NNouevmCdHn
+InterVA4|4.02|InterVA|5|PHMRCFull|1,InterVA4 (4.02) - InterVA (5) - PHMRCFull (1),Rx2LW2e7xG1
+InterVA4|4.02|InterVA|5|PHMRCShort|1,InterVA4 (4.02) - InterVA (5) - PHMRCShort (1),l6s6czMbM2t
+InterVA4|4.02|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),VZ1ql918DAi
+InterVA4|4.02|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),S2YWKdceMop
+InterVA4|4.02|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),A7uv12CwlFx
+InterVA4|4.02|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),wI8Yu0hjl0n
+InterVA4|4.02|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.02) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),kgvhdicY57R
+InterVA4|4.02|PHMRCFull|1|PHMRCFull|1,InterVA4 (4.02) - PHMRCFull (1) - PHMRCFull (1),ad8vtKrnAqh
+InterVA4|4.02|PHMRCFull|1|PHMRCShort|1,InterVA4 (4.02) - PHMRCFull (1) - PHMRCShort (1),UZ3BB62am8w
+InterVA4|4.02|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),VGI9jV69uDq
+InterVA4|4.02|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),hDQG4yJSzfQ
+InterVA4|4.02|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),asbbmBsZt3f
+InterVA4|4.02|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),ADd73zAoB1p
+InterVA4|4.02|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.02) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),VgD1TbzViYz
+InterVA4|4.02|PHMRCShort|1|PHMRCFull|1,InterVA4 (4.02) - PHMRCShort (1) - PHMRCFull (1),juwCOFx7l54
+InterVA4|4.02|PHMRCShort|1|PHMRCShort|1,InterVA4 (4.02) - PHMRCShort (1) - PHMRCShort (1),BQWV89xdRyE
+InterVA4|4.02|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.02) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),A0RmncEo26g
+InterVA4|4.02|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.02) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),Yx10qScLIWx
+InterVA4|4.02|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.02) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),tvZbEE76rQA
+InterVA4|4.02|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.02) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),EplT1SE3t4D
+InterVA4|4.02|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.02) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),plXy9EGqK2c
+InterVA4|4.02|Custom|1|PHMRCFull|1,InterVA4 (4.02) - Custom (1) - PHMRCFull (1),FsA19SrWji5
+InterVA4|4.02|Custom|1|PHMRCShort|1,InterVA4 (4.02) - Custom (1) - PHMRCShort (1),Y5OWdP1d7oB
+InterVA4|4.03|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),Jlbc1C5UWGu
+InterVA4|4.03|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),Zgh4kln6YGM
+InterVA4|4.03|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),zCkojclMLOv
+InterVA4|4.03|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),PnYGxUmUp4l
+InterVA4|4.03|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.03) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),RBS925t18cB
+InterVA4|4.03|InterVA|4|PHMRCFull|1,InterVA4 (4.03) - InterVA (4) - PHMRCFull (1),o7fBSwFHyoo
+InterVA4|4.03|InterVA|4|PHMRCShort|1,InterVA4 (4.03) - InterVA (4) - PHMRCShort (1),UFjHJrlpBtr
+InterVA4|4.03|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),fqRGMpimok3
+InterVA4|4.03|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),ZwVh3bhIdtx
+InterVA4|4.03|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),C0uPjuB3cH1
+InterVA4|4.03|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),uKMYl0gb971
+InterVA4|4.03|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.03) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),ESpfT3bjoI1
+InterVA4|4.03|InterVA|5|PHMRCFull|1,InterVA4 (4.03) - InterVA (5) - PHMRCFull (1),MahN9hwnhsM
+InterVA4|4.03|InterVA|5|PHMRCShort|1,InterVA4 (4.03) - InterVA (5) - PHMRCShort (1),eZGGM3NvnCT
+InterVA4|4.03|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),ah4rwbaWFIH
+InterVA4|4.03|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),U1QxyHlqltj
+InterVA4|4.03|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),ArhijrfHFXU
+InterVA4|4.03|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),QVjXTRpC001
+InterVA4|4.03|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.03) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),s5AxEOQjszL
+InterVA4|4.03|PHMRCFull|1|PHMRCFull|1,InterVA4 (4.03) - PHMRCFull (1) - PHMRCFull (1),MQDkpk3d1kY
+InterVA4|4.03|PHMRCFull|1|PHMRCShort|1,InterVA4 (4.03) - PHMRCFull (1) - PHMRCShort (1),bubhC87qI0e
+InterVA4|4.03|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),CSCIhb3a3ST
+InterVA4|4.03|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),djdzQBW8VNO
+InterVA4|4.03|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),yuvRsxwZkoU
+InterVA4|4.03|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),NCobrAnOgSu
+InterVA4|4.03|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.03) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),ZYNbETliKVW
+InterVA4|4.03|PHMRCShort|1|PHMRCFull|1,InterVA4 (4.03) - PHMRCShort (1) - PHMRCFull (1),rIiyUPVUrwR
+InterVA4|4.03|PHMRCShort|1|PHMRCShort|1,InterVA4 (4.03) - PHMRCShort (1) - PHMRCShort (1),kwzWeAzH1P1
+InterVA4|4.03|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.03) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),XEnb418Nvpx
+InterVA4|4.03|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.03) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),nharfRjWN17
+InterVA4|4.03|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.03) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),SoJba4tuBXt
+InterVA4|4.03|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.03) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),d6Y2n46UnNq
+InterVA4|4.03|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.03) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),Trfsqlpyey2
+InterVA4|4.03|Custom|1|PHMRCFull|1,InterVA4 (4.03) - Custom (1) - PHMRCFull (1),CHdLyJ8OIAe
+InterVA4|4.03|Custom|1|PHMRCShort|1,InterVA4 (4.03) - Custom (1) - PHMRCShort (1),YHbUZOyGPGJ
+InterVA4|4.04|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),ukyADI5BGVh
+InterVA4|4.04|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),t8bBVFwu088
+InterVA4|4.04|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),KUEuU8Ceyhl
+InterVA4|4.04|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),HTkerV39JCv
+InterVA4|4.04|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.04) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),NzaQGjCfDOo
+InterVA4|4.04|InterVA|4|PHMRCFull|1,InterVA4 (4.04) - InterVA (4) - PHMRCFull (1),KYKSE91W9Eq
+InterVA4|4.04|InterVA|4|PHMRCShort|1,InterVA4 (4.04) - InterVA (4) - PHMRCShort (1),M1Xa63cgcI2
+InterVA4|4.04|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),uGYBhOsK20G
+InterVA4|4.04|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),jO5Fot2GBvo
+InterVA4|4.04|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),GLDbgPTXqaO
+InterVA4|4.04|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),eFEqfkBkYOD
+InterVA4|4.04|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.04) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),B4kMpbtGENE
+InterVA4|4.04|InterVA|5|PHMRCFull|1,InterVA4 (4.04) - InterVA (5) - PHMRCFull (1),IPRM39wuQ5X
+InterVA4|4.04|InterVA|5|PHMRCShort|1,InterVA4 (4.04) - InterVA (5) - PHMRCShort (1),ucDr3kOC577
+InterVA4|4.04|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),cIgKBohp0rl
+InterVA4|4.04|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),RAbTnwv5Sg9
+InterVA4|4.04|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),uUDiYxvKNqt
+InterVA4|4.04|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),fGD69OtUsiU
+InterVA4|4.04|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.04) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),Nz9K3msDSVv
+InterVA4|4.04|PHMRCFull|1|PHMRCFull|1,InterVA4 (4.04) - PHMRCFull (1) - PHMRCFull (1),wjiSxpcekj3
+InterVA4|4.04|PHMRCFull|1|PHMRCShort|1,InterVA4 (4.04) - PHMRCFull (1) - PHMRCShort (1),XbO1lfThvWN
+InterVA4|4.04|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),M60MYwKt3Oy
+InterVA4|4.04|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),Rp6LjaldQri
+InterVA4|4.04|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),jC2d4QCtC0e
+InterVA4|4.04|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),yO4dAdY7mYH
+InterVA4|4.04|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.04) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),vsR7qkHXLR6
+InterVA4|4.04|PHMRCShort|1|PHMRCFull|1,InterVA4 (4.04) - PHMRCShort (1) - PHMRCFull (1),QFoaDr7yx5P
+InterVA4|4.04|PHMRCShort|1|PHMRCShort|1,InterVA4 (4.04) - PHMRCShort (1) - PHMRCShort (1),lYcpf9E30wh
+InterVA4|4.04|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA4 (4.04) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),eNFvUBYjm4P
+InterVA4|4.04|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA4 (4.04) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),FvZO4x1xSfB
+InterVA4|4.04|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA4 (4.04) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),myIQz5qlce0
+InterVA4|4.04|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA4 (4.04) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),NUk89XrIu4N
+InterVA4|4.04|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA4 (4.04) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),NPlIo9wwRJp
+InterVA4|4.04|Custom|1|PHMRCFull|1,InterVA4 (4.04) - Custom (1) - PHMRCFull (1),tvRxiwxRDNr
+InterVA4|4.04|Custom|1|PHMRCShort|1,InterVA4 (4.04) - Custom (1) - PHMRCShort (1),iDloL7EnWuC
+InterVA5|5|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),jWP0SgGM1YG
+InterVA5|5|InterVA|4|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),a0Agyaq5z5u
+InterVA5|5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),nh3kMmddRy4
+InterVA5|5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),jAEcbbhgICd
+InterVA5|5|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA5 (5) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),SRMzRoS4V6k
+InterVA5|5|InterVA|4|PHMRCFull|1,InterVA5 (5) - InterVA (4) - PHMRCFull (1),dCoWqj1GDZ2
+InterVA5|5|InterVA|4|PHMRCShort|1,InterVA5 (5) - InterVA (4) - PHMRCShort (1),L7DUpqyz0TO
+InterVA5|5|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),zhdjdGhVdNF
+InterVA5|5|InterVA|5|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),FHmYzDkoT9o
+InterVA5|5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),wXB3dWbvvux
+InterVA5|5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),sOakWZjazuJ
+InterVA5|5|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA5 (5) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),WHUpIFcm3xl
+InterVA5|5|InterVA|5|PHMRCFull|1,InterVA5 (5) - InterVA (5) - PHMRCFull (1),s0ScMl958xP
+InterVA5|5|InterVA|5|PHMRCShort|1,InterVA5 (5) - InterVA (5) - PHMRCShort (1),aVmSsi5xNfm
+InterVA5|5|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),fQPCQ19ho1H
+InterVA5|5|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),QHII1ZrKSPf
+InterVA5|5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),uumgFxCLi4w
+InterVA5|5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),XYT6SvMyFkh
+InterVA5|5|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA5 (5) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),kxc8ci8fMDR
+InterVA5|5|PHMRCFull|1|PHMRCFull|1,InterVA5 (5) - PHMRCFull (1) - PHMRCFull (1),AXkeZydGMLv
+InterVA5|5|PHMRCFull|1|PHMRCShort|1,InterVA5 (5) - PHMRCFull (1) - PHMRCShort (1),aLdoJ4dUrWf
+InterVA5|5|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),Z2Z74hqENMx
+InterVA5|5|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),n86hcCZJ6yZ
+InterVA5|5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),DYxvamKCAZj
+InterVA5|5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),vU9F9UKXfRW
+InterVA5|5|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA5 (5) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),oFaarzj4qm9
+InterVA5|5|PHMRCShort|1|PHMRCFull|1,InterVA5 (5) - PHMRCShort (1) - PHMRCFull (1),iVCxsM6OHdw
+InterVA5|5|PHMRCShort|1|PHMRCShort|1,InterVA5 (5) - PHMRCShort (1) - PHMRCShort (1),H7ItEj2jO4N
+InterVA5|5|Custom|1|2012 WHO Verbal Autopsy Form|RC1,InterVA5 (5) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),Ih9UBuxu8pQ
+InterVA5|5|Custom|1|2014 WHO Verbal Autopsy Form|final10,InterVA5 (5) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),mGT1Zfr7yET
+InterVA5|5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,InterVA5 (5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),O5XgAtaYyQU
+InterVA5|5|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,InterVA5 (5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),wJ7fxnVG278
+InterVA5|5|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,InterVA5 (5) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),rqlRrXcPyqA
+InterVA5|5|Custom|1|PHMRCFull|1,InterVA5 (5) - Custom (1) - PHMRCFull (1),xbXkQKDZN5S
+InterVA5|5|Custom|1|PHMRCShort|1,InterVA5 (5) - Custom (1) - PHMRCShort (1),nyt6LTqabMF
+NBC|1.0.0|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),g5TWTHHTlyR
+NBC|1.0.0|InterVA|4|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),wDqW9ATJiS6
+NBC|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),CCb0Ai439rf
+NBC|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),Vy9AnLdke3S
+NBC|1.0.0|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,NBC (1.0.0) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),MNxBCgs5R6l
+NBC|1.0.0|InterVA|4|PHMRCFull|1,NBC (1.0.0) - InterVA (4) - PHMRCFull (1),v80sMFoeUlw
+NBC|1.0.0|InterVA|4|PHMRCShort|1,NBC (1.0.0) - InterVA (4) - PHMRCShort (1),ftdrdicKwbp
+NBC|1.0.0|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),X1o4YGDtj5I
+NBC|1.0.0|InterVA|5|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),QYmBRKqkOoc
+NBC|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),e1IZG6tLwtK
+NBC|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),yOdH0qN0FML
+NBC|1.0.0|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,NBC (1.0.0) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),Wq5t4Vr5oZO
+NBC|1.0.0|InterVA|5|PHMRCFull|1,NBC (1.0.0) - InterVA (5) - PHMRCFull (1),KxINvTO1fX5
+NBC|1.0.0|InterVA|5|PHMRCShort|1,NBC (1.0.0) - InterVA (5) - PHMRCShort (1),yc9YrFa8Vd4
+NBC|1.0.0|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),s2si8pz6Gin
+NBC|1.0.0|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),FifDDXMbmJU
+NBC|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),Z54wydvkIEv
+NBC|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),wJsGFAMyJkN
+NBC|1.0.0|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,NBC (1.0.0) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),FwYeH1eo83k
+NBC|1.0.0|PHMRCFull|1|PHMRCFull|1,NBC (1.0.0) - PHMRCFull (1) - PHMRCFull (1),dru4DeUueAR
+NBC|1.0.0|PHMRCFull|1|PHMRCShort|1,NBC (1.0.0) - PHMRCFull (1) - PHMRCShort (1),iXRzlOQ8dEm
+NBC|1.0.0|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),sfu0XBk7yJW
+NBC|1.0.0|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),AZ2Xjto8f3g
+NBC|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),kngyhKAbeQX
+NBC|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),IOImnJC69wY
+NBC|1.0.0|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,NBC (1.0.0) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),Cf6IWFQWOvV
+NBC|1.0.0|PHMRCShort|1|PHMRCFull|1,NBC (1.0.0) - PHMRCShort (1) - PHMRCFull (1),yrALA3WiEGd
+NBC|1.0.0|PHMRCShort|1|PHMRCShort|1,NBC (1.0.0) - PHMRCShort (1) - PHMRCShort (1),NztrdxFmRS4
+NBC|1.0.0|Custom|1|2012 WHO Verbal Autopsy Form|RC1,NBC (1.0.0) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),F3vcvWs5EvZ
+NBC|1.0.0|Custom|1|2014 WHO Verbal Autopsy Form|final10,NBC (1.0.0) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),np7mx9WK1dX
+NBC|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,NBC (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),o5RX4HRsJY7
+NBC|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,NBC (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),xVbwcuy4X9B
+NBC|1.0.0|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,NBC (1.0.0) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),iUIbeMEryPs
+NBC|1.0.0|Custom|1|PHMRCFull|1,NBC (1.0.0) - Custom (1) - PHMRCFull (1),hemwaQPefXu
+NBC|1.0.0|Custom|1|PHMRCShort|1,NBC (1.0.0) - Custom (1) - PHMRCShort (1),SJh6aRRC7bg
+Tariff|1.0.2|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),exOM4D4D9Ft
+Tariff|1.0.2|InterVA|4|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - InterVA (4) - 2014 WHO Verbal Autopsy Form (final10),y2bvrwQ5sLu
+Tariff|1.0.2|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_1),pcRPFxzc0ne
+Tariff|1.0.2|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_4_2),FFTxh85zBbo
+Tariff|1.0.2|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,Tariff (1.0.2) - InterVA (4) - 2016 WHO Verbal Autopsy Form (v1_5_1),wX2lu3gZNzB
+Tariff|1.0.2|InterVA|4|PHMRCFull|1,Tariff (1.0.2) - InterVA (4) - PHMRCFull (1),XzGC2RwRACN
+Tariff|1.0.2|InterVA|4|PHMRCShort|1,Tariff (1.0.2) - InterVA (4) - PHMRCShort (1),dOlfnPB1aHF
+Tariff|1.0.2|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),of0JbVhjpmm
+Tariff|1.0.2|InterVA|5|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - InterVA (5) - 2014 WHO Verbal Autopsy Form (final10),alMMwc6zI81
+Tariff|1.0.2|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_1),MIUIoc7tRWm
+Tariff|1.0.2|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_4_2),F208WA0PvAw
+Tariff|1.0.2|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,Tariff (1.0.2) - InterVA (5) - 2016 WHO Verbal Autopsy Form (v1_5_1),idUFx5yJVHo
+Tariff|1.0.2|InterVA|5|PHMRCFull|1,Tariff (1.0.2) - InterVA (5) - PHMRCFull (1),BVQNxPSiyWb
+Tariff|1.0.2|InterVA|5|PHMRCShort|1,Tariff (1.0.2) - InterVA (5) - PHMRCShort (1),jLUBLfvqZaS
+Tariff|1.0.2|PHMRCFull|1|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - PHMRCFull (1) - 2012 WHO Verbal Autopsy Form (RC1),mvd5nwzJsKP
+Tariff|1.0.2|PHMRCFull|1|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - PHMRCFull (1) - 2014 WHO Verbal Autopsy Form (final10),vkK0oDr5cuO
+Tariff|1.0.2|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),SPMzKwKm60V
+Tariff|1.0.2|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),X3LlkgJpr3Y
+Tariff|1.0.2|PHMRCFull|1|2016 WHO Verbal Autopsy Form|v1_5_1,Tariff (1.0.2) - PHMRCFull (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),wGf1QwGCo0Q
+Tariff|1.0.2|PHMRCFull|1|PHMRCFull|1,Tariff (1.0.2) - PHMRCFull (1) - PHMRCFull (1),JrULnZov2sP
+Tariff|1.0.2|PHMRCFull|1|PHMRCShort|1,Tariff (1.0.2) - PHMRCFull (1) - PHMRCShort (1),rVDiIaaIiax
+Tariff|1.0.2|PHMRCShort|1|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - PHMRCShort (1) - 2012 WHO Verbal Autopsy Form (RC1),mDNMfwFSpAK
+Tariff|1.0.2|PHMRCShort|1|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - PHMRCShort (1) - 2014 WHO Verbal Autopsy Form (final10),RY3iQYOWlLP
+Tariff|1.0.2|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),PdfnNGBBXYw
+Tariff|1.0.2|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),pRWOf2Naz1M
+Tariff|1.0.2|PHMRCShort|1|2016 WHO Verbal Autopsy Form|v1_5_1,Tariff (1.0.2) - PHMRCShort (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),bzsR4C4lDVX
+Tariff|1.0.2|PHMRCShort|1|PHMRCFull|1,Tariff (1.0.2) - PHMRCShort (1) - PHMRCFull (1),YbBLWIW8BiL
+Tariff|1.0.2|PHMRCShort|1|PHMRCShort|1,Tariff (1.0.2) - PHMRCShort (1) - PHMRCShort (1),ihhM9DHhEA5
+Tariff|1.0.2|Custom|1|2012 WHO Verbal Autopsy Form|RC1,Tariff (1.0.2) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),cKCVKnMaqJQ
+Tariff|1.0.2|Custom|1|2014 WHO Verbal Autopsy Form|final10,Tariff (1.0.2) - Custom (1) - 2014 WHO Verbal Autopsy Form (final10),WBLkxXtS2I6
+Tariff|1.0.2|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,Tariff (1.0.2) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_1),BfrcyNsCSWd
+Tariff|1.0.2|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,Tariff (1.0.2) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_4_2),FilEXCuzjLQ
+Tariff|1.0.2|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,Tariff (1.0.2) - Custom (1) - 2016 WHO Verbal Autopsy Form (v1_5_1),lUBVMdjJMEM
+Tariff|1.0.2|Custom|1|PHMRCFull|1,Tariff (1.0.2) - Custom (1) - PHMRCFull (1),AxGWzYxLAfF
+Tariff|1.0.2|Custom|1|PHMRCShort|1,Tariff (1.0.2) - Custom (1) - PHMRCShort (1),WC20qRU2jNu
+SmartVA|2.0.0_a8|Custom|1|2012 WHO Verbal Autopsy Form|RC1,SmartVA (2.0.0-a8) - Custom (1) - 2012 WHO Verbal Autopsy Form (RC1),l5uxNPsl8Ik
+SmartVA|2.0.0_a8|Custom|1|2014 WHO Verbal Autopsy Form|final10,SmartVA (2.0.0-a8) - Custom (1) - 2013 WHO Verbal Autopsy Form (final10),u39KvigHrfh
+SmartVA|2.0.0_a8|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_1,SmartVA (2.0.0-a8) - Custom (1) - 2014 WHO Verbal Autopsy Form (v1_4_1),HTVeMXfzso8
+SmartVA|2.0.0_a8|Custom|1|2016 WHO Verbal Autopsy Form|v1_4_2,SmartVA (2.0.0-a8) - Custom (1) - 2015 WHO Verbal Autopsy Form (v1_4_2),uL3RdXHZK3I
+SmartVA|2.0.0_a8|Custom|1|2016 WHO Verbal Autopsy Form|v1_5_1,SmartVA (2.0.0-a8) - Custom (1) - 2015 WHO Verbal Autopsy Form (v1_5_1),Zz0Ve7587Rd
+SmartVA|2.0.0_a8|Custom|1|PHMRCFull|1,SmartVA (2.0.0-a8) - Custom (1) - PHMRCFull (1),QORwcNeYEzL
+SmartVA|2.0.0_a8|Custom|1|PHMRCShort|1,SmartVA (2.0.0-a8) - Custom (1) - PHMRCShort (1),AdpecCDFpCO
+SmartVA|2.0.0_a8|InterVA|4|2012 WHO Verbal Autopsy Form|RC1,SmartVA (2.0.0-a8) - InterVA (4) - 2012 WHO Verbal Autopsy Form (RC1),HWaN87WO0L9
+SmartVA|2.0.0_a8|InterVA|4|2014 WHO Verbal Autopsy Form|final10,SmartVA (2.0.0-a8) - InterVA (4) - 2013 WHO Verbal Autopsy Form (final10),wieHXJRWHtA
+SmartVA|2.0.0_a8|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_1,SmartVA (2.0.0-a8) - InterVA (4) - 2014 WHO Verbal Autopsy Form (v1_4_1),tx1BkKzJXpf
+SmartVA|2.0.0_a8|InterVA|4|2016 WHO Verbal Autopsy Form|v1_4_2,SmartVA (2.0.0-a8) - InterVA (4) - 2015 WHO Verbal Autopsy Form (v1_4_2),VYNQQw08Ptu
+SmartVA|2.0.0_a8|InterVA|4|2016 WHO Verbal Autopsy Form|v1_5_1,SmartVA (2.0.0-a8) - InterVA (4) - 2015 WHO Verbal Autopsy Form (v1_5_1),iv3iafG55hj
+SmartVA|2.0.0_a8|InterVA|4|PHMRCFull|1,SmartVA (2.0.0-a8) - InterVA (4) - PHMRCFull (1),ZHaIg96jcf1
+SmartVA|2.0.0_a8|InterVA|4|PHMRCShort|1,SmartVA (2.0.0-a8) - InterVA (4) - PHMRCShort (1),bej5XrfNorm
+SmartVA|2.0.0_a8|InterVA|5|2012 WHO Verbal Autopsy Form|RC1,SmartVA (2.0.0-a8) - InterVA (5) - 2012 WHO Verbal Autopsy Form (RC1),YkUpnB7s4rf
+SmartVA|2.0.0_a8|InterVA|5|2014 WHO Verbal Autopsy Form|final10,SmartVA (2.0.0-a8) - InterVA (5) - 2013 WHO Verbal Autopsy Form (final10),O6DrujShy2Q
+SmartVA|2.0.0_a8|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_1,SmartVA (2.0.0-a8) - InterVA (5) - 2014 WHO Verbal Autopsy Form (v1_4_1),tUSBYYDjmUq
+SmartVA|2.0.0_a8|InterVA|5|2016 WHO Verbal Autopsy Form|v1_4_2,SmartVA (2.0.0-a8) - InterVA (5) - 2015 WHO Verbal Autopsy Form (v1_4_2),AtvfPXsCNEX
+SmartVA|2.0.0_a8|InterVA|5|2016 WHO Verbal Autopsy Form|v1_5_1,SmartVA (2.0.0-a8) - InterVA (5) - 2015 WHO Verbal Autopsy Form (v1_5_1),JROQBJCxCnh
+SmartVA|2.0.0_a8|InterVA|5|PHMRCFull|1,SmartVA (2.0.0-a8) - InterVA (5) - PHMRCFull (1),xotM26jmQhL
+SmartVA|2.0.0_a8|InterVA|5|PHMRCShort|1,SmartVA (2.0.0-a8) - InterVA (5) - PHMRCShort (1),shH7lt3YuHQ
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|2012 WHO Verbal Autopsy Form|RC1,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - 2012 WHO Verbal Autopsy Form (RC1),LZVcPIFv8TJ
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|2014 WHO Verbal Autopsy Form|final10,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - 2013 WHO Verbal Autopsy Form (final10),bCbKdIT6VRd
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|2016 WHO Verbal Autopsy Form|v1_4_1,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - 2014 WHO Verbal Autopsy Form (v1_4_1),YnJTJXLKaL8
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|2016 WHO Verbal Autopsy Form|v1_4_2,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - 2015 WHO Verbal Autopsy Form (v1_4_2),WHm67YnbR2P
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|2016 WHO Verbal Autopsy Form|v1_5_1,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - 2015 WHO Verbal Autopsy Form (v1_5_1),szUXSpa82aE
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|PHMRCFull|1,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - PHMRCFull (1),Qz57CyUZSNT
+SmartVA|2.0.0_a8|PHMRCFull|SmartVA-CLI (2.0.0-a8)|PHMRCShort|1,SmartVA (2.0.0-a8) - PHMRCFull (SmartVA-CLI (2.0.0-a8)) - PHMRCShort (1),SIw0rQ5qsNd
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|2012 WHO Verbal Autopsy Form|RC1,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - 2012 WHO Verbal Autopsy Form (RC1),KbkinyOs5WP
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|2014 WHO Verbal Autopsy Form|final10,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - 2013 WHO Verbal Autopsy Form (final10),O8pxviRKO3V
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|2016 WHO Verbal Autopsy Form|v1_4_1,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - 2014 WHO Verbal Autopsy Form (v1_4_1),kRhFmz4AWb9
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|2016 WHO Verbal Autopsy Form|v1_4_2,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - 2015 WHO Verbal Autopsy Form (v1_4_2),h704y5wnoku
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|2016 WHO Verbal Autopsy Form|v1_5_1,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - 2015 WHO Verbal Autopsy Form (v1_5_1),J4BFNZkDkym
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|PHMRCFull|1,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - PHMRCFull (1),bEbUtkTbNaZ
+SmartVA|2.0.0_a8|PHMRCShort|SmartVA-CLI (2.0.0-a8)|PHMRCShort|1,SmartVA (2.0.0-a8) - PHMRCShort (SmartVA-CLI (2.0.0-a8)) - PHMRCShort (1),ZR8bHMZqHWq
