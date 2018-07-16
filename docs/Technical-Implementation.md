@@ -116,9 +116,3 @@ It's possible to send multiple events at once, just wrap all events into a list 
   ]
 }
 ```
-
-# Querying data
-`TODO`
-
-# Updating Option Sets
-`TODO`

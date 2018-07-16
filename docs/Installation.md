@@ -22,7 +22,7 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 2. Open `va_dataelements.json` with a text editor.
 3. "Find and Replace..." the Category Combo UID `bjDvmb4bfuf` for all 7 data elements with the UID found in step 1 and resave the file.
 4. Do the same in `va_program.json` and find and replace the program's `categoryCombo` by replacing `bjDvmb4bfuf` with the UID found in step 1 and resave the file.
-5. Find out the root (`level 1`) Organisation Unit UID on the target server by using the following API Query: `/api/organisationUnits?level=1`.
+5. Find out the root (`level 1`) Organisation Unit UID on the target server by using the following API Query: `/api/organisationUnits?level=1` (an organisational hierarchy should exist already in the server, otherwise an example hierarchy can be created beforehand by importing the following one: `demo_setup/metadata/example_organisationUnits_hierarchy.json`)
 6. Open `va_dashboard.json` with a text editor.
 7. "Find and Replace..." the Organisation Unit UID `wEVB21sQaHu` of the 2 Event Reports with the UID found in step 5 and resave the file.
 
