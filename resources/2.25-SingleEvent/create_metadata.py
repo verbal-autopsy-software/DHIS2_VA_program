@@ -12,8 +12,8 @@ import argparse
 import os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTPUTFOLDER = os.path.join(ROOT, 'metadata')
-INPUTFOLDER = os.path.join(ROOT, 'resources')
+OUTPUTFOLDER = os.path.join(ROOT, '2.25-SingleEvent', 'metadata')
+INPUTFOLDER = ROOT
 
 
 def process_dataelements():
@@ -21,7 +21,7 @@ def process_dataelements():
 
     dataelements = []
     final = {}
-    input_file = os.path.join(INPUTFOLDER, 'dataelements', 'dataelements.csv')
+    input_file = os.path.join(INPUTFOLDER, '2.25-SingleEvent', 'dataelements', 'dataelements.csv')
     with open(input_file, 'rb') as csv_file:
         reader = csv.DictReader(csv_file, delimiter=',')
         for row in reader:
@@ -40,6 +40,12 @@ def process_dataelements():
             dataelements.append(row)
 
     final['dataElements'] = dataelements
+    if not os.path.exists(OUTPUTFOLDER):
+        try:
+            os.makedirs(OUTPUTFOLDER)
+        except OSError as exc: # Guard against race condition
+            if exc.errno != errno.EEXIST:
+                raise
     with open(os.path.join(OUTPUTFOLDER, 'va_dataelements.json'), 'w') as json_file:
         json.dump(final, codecs.getwriter('utf-8')
                   (json_file), ensure_ascii=False, indent=4)
