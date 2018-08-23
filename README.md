@@ -15,11 +15,7 @@ The folder `docs` contains the following guides:
 
 Currently supported DHIS2 versions:
 
-- 2.25
-- 2.26-2.27 (not tested but will probably work)
-- 2.28 (for sure needs adjustments - e.g. the calls to API version 2.25 will not work as DHIS 2 is backward compatible to the 2 previous API versions, plus other adjustments are required)
-
-Current status: in development
+- 2.25 (respective metadata might also work in 2.26-2.27, this has not been tested but it will probably work)
 
 ## Licence
 GNU General Public License v3.0
