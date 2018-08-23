@@ -1,4 +1,4 @@
-# dhis2_va_draft
+# DHIS2_VA_program
 
 **DHIS2 metadata repository** of the Verbal Autopsy program including a guide to install DHIS2 metadata in production environments (or on a demo server), a Development Manual and and a Technical Implementation Manual for interfacing with the program in the `docs` folder.
 
