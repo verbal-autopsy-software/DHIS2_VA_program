@@ -6,3 +6,5 @@ oPAg4MA0880,VA-04,Age (in years),VA-04-Age (in years),Age of person in years,TRA
 F4XGdOBvWww,VA-05,Most probable Cause of Death,VA-05-Most probable Cause of Death,Most probable Cause of Death determined by Verbal Autopsy,TRACKER,TEXT,NONE,,LAWwdYur1ds,bjDvmb4bfuf
 XLHIBoLtjGt,VA-06,Verbal Autopsy raw data file,VA-06-Verbal Autopsy raw data file,SQLite file holding VA raw data,TRACKER,FILE_RESOURCE,NONE,,,bjDvmb4bfuf
 wiJviUqN1io,VA-07,Algorithm metadata on how CoD was obtained,VA-07-Algorithm metadata on how CoD was obtained,"Algorithm metadata on how CoD was obtained, including Algorithm, SCI and VA Instrument",TRACKER,TEXT,NONE,,Joti2JHU4i6,bjDvmb4bfuf
+LwXZ2dZmJb0,VA-08,ODK_meta:instanceID,VA-08-ODK_meta:instanceID,"The ODK meta:instanceID, which is the unique identification of a completed ODK form",TRACKER,TEXT,NONE,,,bjDvmb4bfuf
+

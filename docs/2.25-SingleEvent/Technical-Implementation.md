@@ -96,6 +96,7 @@ Let's look at these properties of the event:
 |dataElement "VA-05"    |Coded Cause of Death - must fit to an option in the "CoD codes" optionSet                   |yes
 |dataElement "VA-06"    |The ID received from posting the blob file (containing the VA questionnaire raw data)       |no
 |dataElement "VA-07"    |How the CoD was obtained - must fit to an option in the "Algorithm Metadata" optionSet      |yes
+|dataElement "VA-08"    |The ODK meta:instanceID, which is the unique identification of a completed ODK form         |no
 
 
 In general, any client posting VA events needs to know...

@@ -107,6 +107,20 @@
             "id": "wiJviUqN1io", 
             "name": "VA-07-Algorithm metadata on how CoD was obtained",
 			"shortName": "VA-07-Algorithm metadata on how CoD was obtained"
+        },
+        {
+            "code": "VA-08", 
+            "description": "The ODK meta:instanceID, which is the unique identification of a completed ODK form", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            }, 
+            "aggregationType": "NONE", 
+            "formName": "ODK_meta:instanceID", 
+            "id": "LwXZ2dZmJb0", 
+            "name": "VA-08-ODK_meta:instanceID",
+			"shortName": "VA-08-ODK_meta:instanceID"
         }
     ]
 }

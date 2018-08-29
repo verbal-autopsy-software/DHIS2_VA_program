@@ -42,7 +42,10 @@
                 },
                 {
                     "id": "jKAT5dSN6T8"
-                }
+                },
+				{
+                    "id": "bqgLcOTgWax"
+				}
             ],
             "translations": [ ],
             "attributeValues": [ ],
@@ -87,7 +90,21 @@
         }
     ],
     "programStageDataElements": [
-      {
+        {
+            "id": "bqgLcOTgWax",
+            "displayInReports": false,
+            "compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 7,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "LwXZ2dZmJb0"
+            }
+        },
+		{
           "id": "jKAT5dSN6T8",
           "displayInReports": false,
           "compulsory": true,
