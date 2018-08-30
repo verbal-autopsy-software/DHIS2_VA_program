@@ -14,7 +14,7 @@ Or download a complete DHIS2 VirtualBox Image here (File > Import appliance...):
 
 - Download the `update-db.sh` script from Github in the `db` folder (it's already present in the VirtualBox Image)
 - `bash /home/dhis/update-db.sh` to fetch a fully configured DHIS2 database where VA is installed. *Warning*: This overwrites the existing database!
-- Log in with `admin` / `District1` or `va-demo` as indicated in Login screen.
+- Log in with `admin` / `district` or `va-demo` as indicated in Login screen.
 - Inspect logs with `dhis_logs` or `tail -f /home/dhis/tomcat-dhis/logs/catalina.out`
 
 ## Modifying DHIS2 Metadata
