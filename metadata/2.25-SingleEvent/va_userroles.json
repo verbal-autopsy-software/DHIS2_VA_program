@@ -8,7 +8,7 @@
       "F_IMPORT_EVENTS",
       "F_OPTIONSET_PRIVATE_ADD",
       "M_dhis-web-event-capture",
-      "F_TRACKED_ENTITY_DATAVALUE_DELETE"
+      "F_TRACKED_ENTITY_DATAVALUE_DELETE",
 	  "M_dhis-web-event-reports",
 	  "M_dhis-web-dashboard-integration",
       "M_dhis-web-event-visualizer"
