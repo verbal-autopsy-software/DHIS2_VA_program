@@ -24,7 +24,7 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 4. Do the same in `va_program.json` and find and replace the program's `categoryCombo` by replacing `bjDvmb4bfuf` with the UID found in step 1 and resave the file.
 5. Find out the root (`level 1`) Organisation Unit UID on the target server by using the following API Query: `/api/organisationUnits?level=1` (an organisational hierarchy should exist already in the server, otherwise an example hierarchy can be created beforehand by importing the following one: `demo_setup/metadata/example_organisationUnits_hierarchy.json`)
 6. Open `va_dashboard.json` with a text editor.
-7. "Find and Replace..." the Organisation Unit UID `wEVB21sQaHu` of the 2 Event Reports with the UID found in step 5 and resave the file.
+7. "Find and Replace..." the Organisation Unit UID `wEVB21sQaHu` of the 2 Event Reports with the UID found in step 5 and re-save the file.
 
 
 ## Import
@@ -34,7 +34,7 @@ On every file, a _Dry run_ should be done to validate the import first.
 
 1. `va_usergroups.json` 
 2. `va_cod_codes_optionset.json` 
-3. `va_sex_optionset.json` (to be verified if this option set is not existing yet in DHIS 2 instance in which the program is being installed)
+3. `va_sex_optionset.json` 
 4. `va_algorithm_metadata_optionset.json`
 5. `va_dataelements.json`
 6. `va_program.json`
