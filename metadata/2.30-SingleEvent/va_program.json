@@ -1,0 +1,461 @@
+{
+    "programStages": [
+        {
+            "id": "FwAlkJf16OE",
+            "name": "Verbal Autopsy",
+            "allowGenerateNextVisit": false,
+            "validCompleteOnly": false,
+            "preGenerateUID": false,
+            "publicAccess": "r-------",
+			"openAfterEnrollment": false,
+            "repeatable": false,
+            "remindCompleted": false,
+            "displayGenerateEventBox": true,
+            "generatedByEnrollmentDate": false,
+            "autoGenerateEvent": true,
+            "hideDueDate": false,
+            "blockEntryForm": false,
+            "minDaysFromStart": 0,
+            "program": {
+                "id": "sv91bCroFFx"
+            },
+            "notificationTemplates": [],
+           	"programStageDataElements": [
+			{
+                    "id": "tMSRhr0fhFG",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 1,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "htm6PixLJNy"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "onMR39vIfCI",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 2,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "hi7qRC4SMMk"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "iLfIBBH7yUt",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 3,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "mwSaVq64k7j"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "T81RzF8vMoC",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 4,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "oPAg4MA0880"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "rjwy9pvOEhp",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 5,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "F4XGdOBvWww"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "r90EyxX4dM1",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 6,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "XLHIBoLtjGt"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "jKAT5dSN6T8",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 7,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "wiJviUqN1io"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "bqgLcOTgWax",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 8,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "FwAlkJf16OE"
+					},
+					"dataElement": {
+						"id": "LwXZ2dZmJb0"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}
+			],
+ 			"translations": [],
+			"userGroupAccesses": [{
+					"access": "rwr-----",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"attributeValues": [],
+			"userAccesses": [],
+			"programStageSections": []
+        }
+    ],
+    "programs": [
+        {
+            "id": "sv91bCroFFx",
+            "name": "Verbal Autopsy",
+            "shortName": "VA",
+            "publicAccess": "r-------",
+			"completeEventsExpiryDays": 0,
+            "ignoreOverdueEvents": false,
+            "skipOffline": false,
+            "captureCoordinates": false,
+			"minAttributesRequiredToSearch": 1,
+            "displayFrontPageList": false,
+            "onlyEnrollOnce": false,
+            "programType": "WITHOUT_REGISTRATION",
+            "version": 1,
+			"maxTeiCountToReturn": 0,
+			"selectIncidentDatesInFuture": false,
+            "displayIncidentDate": true,
+            "selectEnrollmentDatesInFuture": false,
+            "expiryDays": 0,
+            "useFirstStageDuringRegistration": false,
+            "programTrackedEntityAttributes": [],
+            "notificationTemplates": [],
+            "translations": [],
+            "organisationUnits": [],
+			"userGroupAccesses": [{
+					"access": "rwr-----",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"programSections": [],
+			"attributeValues": [],
+            "programStages": [
+                {
+                    "id": "FwAlkJf16OE"
+                }
+            ],
+			"userAccesses": []
+        }
+    ],
+    "programStageDataElements": [
+        {
+            "id": "tMSRhr0fhFG",
+            "displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": true,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 1,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "htm6PixLJNy"
+            }
+        },
+		{
+            "id": "onMR39vIfCI",
+            "displayInReports": true,
+		    "skipSynchronization": false,
+		    "renderOptionsAsRadio": false,
+            "compulsory": true,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 2,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "hi7qRC4SMMk"
+          }
+        },
+        {
+            "id": "iLfIBBH7yUt",
+            "displayInReports": true,
+            "skipSynchronization": false,
+		    "renderOptionsAsRadio": false,
+            "compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 3,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "mwSaVq64k7j"
+            }
+        },
+        {
+            "id": "T81RzF8vMoC",
+            "displayInReports": true,
+            "skipSynchronization": false,
+		    "renderOptionsAsRadio": false,
+            "compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 4,
+            "allowFutureDate": false,
+		    "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "oPAg4MA0880"
+            }
+        },
+        {
+            "id": "rjwy9pvOEhp",
+            "displayInReports": true,
+            "skipSynchronization": false,
+		    "renderOptionsAsRadio": false,
+            "compulsory": true,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 5,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "F4XGdOBvWww"
+            }
+        },
+        {
+            "id": "r90EyxX4dM1",
+            "displayInReports": true,
+            "skipSynchronization": false,
+		    "renderOptionsAsRadio": false,
+            "compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 6,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "XLHIBoLtjGt"
+            }
+        },
+        {
+            "id": "jKAT5dSN6T8",
+            "displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": true,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 7,
+            "allowFutureDate": false,
+			"programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "wiJviUqN1io"
+            }
+        },
+        {
+            "id": "bqgLcOTgWax",
+            "displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": false,
+            "allowProvidedElsewhere": false,
+            "sortOrder": 8,
+            "allowFutureDate": false,
+            "programStage": {
+                "id": "FwAlkJf16OE"
+            },
+            "dataElement": {
+                "id": "LwXZ2dZmJb0"
+            }
+        }
+    ]
+}
