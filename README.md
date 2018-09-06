@@ -15,7 +15,8 @@ The folder `docs` contains the following guides:
 
 Currently supported DHIS2 versions:
 
-- 2.25 (respective metadata might also work in 2.26-2.27, this has not been tested but it will probably work)
+- 2.25 as a Single Event program (respective metadata might also work in 2.26-2.27, this has not been tested but it will probably work)
+- 2.30 as a Single Event program
 
 ## Licence
 GNU General Public License v3.0
