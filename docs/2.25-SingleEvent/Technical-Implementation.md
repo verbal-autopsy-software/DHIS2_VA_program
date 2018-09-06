@@ -10,7 +10,7 @@
 
 To send a complete Verbal Autopsy event (that includes a BLOB file) to a Single Event Without Registration program, there are two steps needed: First send the file to a certain API endpoint, receive a unique identifier for that file and use that as the data value for the data element that stores the meta data of the VA survey.
 
-DHIS2 can store arbitrary-sized files as data values via the `/api/fileResources` endpoint - see [**DHIS2 docs on sending file resources**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#webapi_file_resources) and [**DHIS2 docs on working with file data values**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#datavalue_file).
+DHIS2 can store arbitrary-sized files as data values via the `/api/25/fileResources` endpoint - see [**DHIS2 docs on sending file resources**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#webapi_file_resources) and [**DHIS2 docs on working with file data values**](https://docs.dhis2.org/2.25/en/developer/html/dhis2_developer_manual_full.html#datavalue_file).
 
 Example request:
 `curl -X POST -v -F "file=@/path/to/verbalautopsy-raw-someid.db;filename=someid.db" https://va25.swisstph-mis.ch/api/25/fileResources -u username:password`
@@ -102,7 +102,7 @@ Let's look at these properties of the event:
 In general, any client posting VA events needs to know...
 
 - the Organisation Unit UID (can be fetched via API as well if an identifier is known)
-- CoD codes used in DHIS2 (static) - see `\resources\cod_codes\cod_codes_options.csv` for valid codes to send
+- CoD codes used in DHIS2 (static) - see `resources/cod_codes/cod_codes_options.csv` for valid codes to send
 - The Verbal Autopsy Program UID (static) - probably it's `sv91bCroFFx`
 - Algorithm metadata codes - - see `resources/algorithm_metadata/algorithm_metadata_options.csv` for valid codes to send
 
