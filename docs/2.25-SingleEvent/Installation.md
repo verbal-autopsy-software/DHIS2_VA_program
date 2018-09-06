@@ -5,7 +5,7 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 - _CoD codes_ **Option Set** (including all options for Cause of Death)
 - _Sex_ **Option set** (including 5 options)
 - _Algorithm metadata_ **Option set** (containing a reference on how the Cause of Death was obtained)
-- 7 **Data Elements**
+- 8 **Data Elements**
 - 1 **Program**
 - 1 **Program Stage**
 - 7 **Program Stage Data Elements**
