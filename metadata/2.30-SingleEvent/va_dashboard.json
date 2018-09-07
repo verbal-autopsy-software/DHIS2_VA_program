@@ -77,7 +77,13 @@
 			"translations": [],
 			"filterDimensions": ["ou"],
 			"itemOrganisationUnitGroups": [],
-			"userGroupAccesses": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}
+			],
 			"programIndicatorDimensions": [],
 			"subscribers": [],
 			"columnDimensions": ["pe"],
@@ -177,7 +183,13 @@
 			"translations": [],
 			"filterDimensions": [],
 			"itemOrganisationUnitGroups": [],
-			"userGroupAccesses": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}
+			],
 			"programIndicatorDimensions": [],
 			"subscribers": [],
 			"columnDimensions": ["pe", "ou", "htm6PixLJNy", "hi7qRC4SMMk", "mwSaVq64k7j", "oPAg4MA0880", "F4XGdOBvWww", "XLHIBoLtjGt", "wiJviUqN1io", "LwXZ2dZmJb0"],
