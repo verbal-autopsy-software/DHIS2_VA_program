@@ -8,7 +8,7 @@ sudo -u postgres dropdb dhis2
 sudo -u postgres createdb -O dhis dhis2
 
 # download full database from github
-wget -O db.sql https://raw.githubusercontent.com/SwissTPH/dhis2_va_draft/master/db/va-dhis2-full-db.sql
+wget -O db.sql https://raw.githubusercontent.com/SwissTPH/dhis2_VA_program/master/db/2.25-SingleEvent/va-dhis2-full-db.sql
 
 # restore db from file, fix permissions
 sudo -u postgres psql dhis2 -f db.sql
