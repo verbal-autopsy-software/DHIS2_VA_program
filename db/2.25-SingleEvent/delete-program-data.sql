@@ -12,3 +12,4 @@ DELETE FROM programstageinstance_messageconversation WHERE programstageinstancei
 DELETE FROM programstageinstancecomments WHERE programstageinstanceid IN (SELECT * FROM va_events_VIEW);
 DELETE FROM programstageinstance WHERE programstageinstanceid IN (SELECT * FROM va_events_VIEW);
 DROP VIEW va_events_VIEW;
+
