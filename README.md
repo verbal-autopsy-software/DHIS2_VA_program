@@ -18,5 +18,7 @@ Currently supported DHIS2 versions:
 - 2.25 as a Single Event program (respective metadata might also work in 2.26-2.27, this has not been tested but it will probably work)
 - 2.30 as a Single Event program
 
+The relevant files for each of these versions are made available in version-specific sub-folders of this repository (e.g. `/metadata/2.30-SingleEvent/`).
+
 ## Licence
 GNU General Public License v3.0
