@@ -8057,8 +8057,8 @@ COPY public.eventchartusergroupaccesses (eventchartid, usergroupaccessid) FROM s
 --
 
 COPY public.eventreport (eventreportid, uid, code, created, lastupdated, lastupdatedby, name, description, relativeperiodsid, userorganisationunit, userorganisationunitchildren, userorganisationunitgrandchildren, programid, programstageid, startdate, enddate, dataelementvaluedimensionid, attributevaluedimensionid, aggregationtype, completedonly, timefield, title, subtitle, hidetitle, hidesubtitle, datatype, rowtotals, coltotals, rowsubtotals, colsubtotals, hideemptyrows, hidenadata, showhierarchy, outputtype, collapsedatadimensions, showdimensionlabels, digitgroupseparator, displaydensity, fontsize, programstatus, eventstatus, sortorder, toplimit, externalaccess, userid, publicaccess, favorites, subscribers) FROM stdin;
-11874	Uajz3kxi4qP	\N	2018-09-06 12:35:39.333	2018-11-28 15:21:20.241	57	Top causes of death this year		11875	f	f	f	11700	11691	\N	\N	\N	\N	\N	f	\N	\N	\N	f	f	AGGREGATED_VALUES	f	t	f	f	t	t	f	EVENT	f	t	SPACE	NORMAL	NORMAL	\N	\N	1	25	f	57	r-------	[]	[]
-11858	vUmcFyaSxbv	\N	2018-09-06 12:22:22.399	2018-11-28 15:21:20.243	57	Verbal Autopsies conducted in the last 12 months	\N	11859	f	f	f	11700	11691	\N	\N	\N	\N	\N	f	\N	\N	\N	f	f	EVENTS	f	t	f	t	f	f	f	EVENT	f	t	SPACE	NORMAL	NORMAL	\N	\N	0	0	f	57	r-------	[]	[]
+11874	Uajz3kxi4qP	\N	2018-09-06 12:35:39.333	2018-11-28 15:29:29.938	57	Top causes of death this year		11875	f	f	f	11700	11691	\N	\N	\N	\N	\N	f	\N	\N	\N	f	f	AGGREGATED_VALUES	f	t	f	f	t	t	f	EVENT	f	t	SPACE	NORMAL	NORMAL	\N	\N	1	25	f	57	r-------	[]	[]
+11858	vUmcFyaSxbv	\N	2018-09-06 12:22:22.399	2018-11-28 15:29:29.947	57	Verbal Autopsies conducted in the last 12 months	\N	11859	f	f	f	11700	11691	\N	\N	\N	\N	\N	f	\N	\N	\N	f	f	EVENTS	f	t	f	t	f	f	f	EVENT	f	t	SPACE	NORMAL	NORMAL	\N	\N	0	0	f	57	r-------	[]	[]
 \.
 
 
@@ -23325,6 +23325,7 @@ COPY public.previouspasswords (userid, list_index, previouspassword) FROM stdin;
 57	1	$2a$10$qclQGLjJFUck3Cxj6Zw/feP1wn7D5dSoeyYHrsIIyIbGo6bX.SDVC
 11767	0	$2a$10$/B605WC.7.RgqMZu61oAgOj6UdT1TFFMJ3RQhad1WOeLFbs2xqfvG
 57	2	$2a$10$kJ5Rc6kx1yrB98aix3Xr7eePafLbvtHPHSHytPMPoMBJ90ncXpdCK
+57	3	$2a$10$G3kv.Mtce74ATtmi2gyhPOyPeSY8gF3LtRtfRLZLBwXHWDyO3m82y
 \.
 
 
@@ -25266,7 +25267,7 @@ COPY public.usergroupusergroupaccesses (usergroupid, usergroupaccessid) FROM std
 
 COPY public.userinfo (userinfoid, uid, code, lastupdated, created, surname, firstname, email, phonenumber, jobtitle, introduction, gender, birthday, nationality, employer, education, interests, languages, lastcheckedinterpretations, welcomemessage) FROM stdin;
 11767	sVa1kkRYz5D	\N	2018-09-05 12:40:46.391	2018-09-05 12:40:46.391	demo	va	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
-57	M5zQapPyTZI	\N	2018-09-07 10:17:31.131	2018-09-07 10:17:31.131	admin	admin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+57	M5zQapPyTZI	\N	2018-11-28 15:30:09.981	2018-09-07 10:17:31.131	admin	admin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
 \.
 
 
@@ -25404,7 +25405,7 @@ COPY public.userroleusergroupaccesses (userroleid, usergroupaccessid) FROM stdin
 --
 
 COPY public.users (userid, uid, code, created, lastupdated, lastupdatedby, creatoruserid, username, password, secret, twofa, externalauth, openid, ldapid, passwordlastupdated, lastlogin, restoretoken, restorecode, restoreexpiry, selfregistered, invitation, disabled) FROM stdin;
-57	KvMx6c1eoYo	\N	2018-09-07 10:17:31.118	2018-09-07 10:17:31.118	\N	\N	admin	$2a$10$BEn5MJ9boSqzOvrGxLYH8OQDKKVT4dVWtv5IbBF4XH3FFz3I0xhPC	VTVTNJEZMWSRBZ7M	f	f	\N	\N	2018-09-07 10:17:31.118	2018-11-28 15:21:18.889	\N	\N	\N	f	f	f
+57	KvMx6c1eoYo	\N	2018-09-07 10:17:31.118	2018-09-07 10:17:31.118	\N	\N	admin	$2a$10$vetrXBtABi.nQYsJQi3hM.cpWZiaR4OZ3m.U7y.stccZireUvPd4e	VTVTNJEZMWSRBZ7M	f	f	\N	\N	2018-11-28 15:30:09.764	2018-11-28 15:29:21.171	\N	\N	\N	f	f	f
 11767	S3SeOI7r5nF	\N	2018-09-05 12:40:46.38	2018-09-05 12:40:46.38	\N	\N	va-demo	$2a$10$aM9GpIoBI86PP4cZG/kRUu5N3jkm5xVfUHeAuQ6535dk/EoigaLMu	32WV5LOXF6CWJYUC	f	f	\N	\N	2018-09-05 12:40:46.38	2018-11-28 14:35:06.663	\N	\N	\N	f	f	f
 \.
 
