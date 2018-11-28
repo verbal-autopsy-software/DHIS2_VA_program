@@ -40,7 +40,7 @@
             "code": "VA-04", 
             "description": "Age of person in years", 
             "domainType": "TRACKER", 
-            "valueType": "NUMBER", 
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true, 
             "aggregationType": "AVERAGE", 
             "formName": "Age (in years)", 
