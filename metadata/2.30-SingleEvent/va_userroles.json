@@ -8,12 +8,11 @@
 		    "F_EXPORT_EVENTS", 
 		    "M_dhis-web-cache-cleaner", 
 		    "M_dhis-web-event-visualizer", 
-		    "F_IMPORT_DATA", 
-		    "M_dhis-web-event-reports", 
-		    "F_IMPORT_EVENTS",
+		    "F_VIEW_EVENT_ANALYTICS",  
+		    "M_dhis-web-event-reports",
+			"F_IMPORT_EVENTS", 
 			"M_dhis-web-dashboard",			
-		    "M_dhis-web-event-capture", 
-		    "F_EXPORT_DATA"
+		    "M_dhis-web-event-capture"
 	    ],
     "translations": [],
    	"userAccesses": [],
