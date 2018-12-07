@@ -8,13 +8,13 @@ This guide shows how to install Verbal Autopsy metadata on an existing DHIS2 ins
 - 8 **Data Elements**
 - 1 **Program**
 - 1 **Program Stage**
-- 7 **Program Stage Data Elements**
+- 8 **Program Stage Data Elements**
 - 1 **User Role**
 - 1 **User Group**
 - 2 **Event Reports**: 
 	- "Top causes of death this year" (aggregate report) 
 	- "Verbal Autopsies conducted in the last 12 months" (individual events overview)
-- 1 **Dashboard** displaying the 2 mentioned Event Reports
+- 1 **Dashboard** with 2 **Dashboard Items** displaying the 2 mentioned Event Reports
 
 ## Preparation
 
