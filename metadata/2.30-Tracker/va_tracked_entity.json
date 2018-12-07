@@ -1,0 +1,102 @@
+{
+	"trackedEntityAttributes": [{
+			"code": "VA-02",
+			"id": "XSFOyybvYJ9",
+			"name": "VA-02-Sex",
+			"shortName": "VA-02-Sex",
+			"aggregationType": "NONE",
+			"programScope": false,
+			"displayInListNoProgram": false,
+			"publicAccess": "r-------",
+			"pattern": "",
+			"description": "Sex of the patient (male or female)",
+			"skipSynchronization": false,
+			"generated": false,
+			"displayOnVisitSchedule": false,
+			"valueType": "TEXT",
+			"orgunitScope": false,
+			"confidential": false,
+			"unique": false,
+			"inherit": false,
+			"optionSet": {
+				"id": "JFWEdW5OBJp"
+			},
+			"translations": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"attributeValues": [],
+			"userAccesses": [],
+			"legendSets": []
+		}, {
+			"code": "VA-03",
+			"id": "P1xsdeFzhCb",
+			"name": "VA-03-Date of Birth",
+			"shortName": "VA-03-Date of Birth",
+			"aggregationType": "NONE",
+			"programScope": false,
+			"displayInListNoProgram": false,
+			"publicAccess": "r-------",
+			"pattern": "",
+			"description": "Date of birth (if known)",
+			"skipSynchronization": false,
+			"generated": false,
+			"displayOnVisitSchedule": false,
+			"valueType": "DATE",
+			"orgunitScope": false,
+			"confidential": false,
+			"unique": false,
+			"inherit": false,
+			"translations": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"attributeValues": [],
+			"userAccesses": [],
+			"legendSets": []
+		}
+	],
+	"trackedEntityTypes": [{
+			"name": "Person",
+			"id": "j7AIUZGpUxF",
+			"publicAccess": "r-------",
+			"maxTeiCountToReturn": 0,
+			"allowAuditLog": false,
+			"minAttributesRequiredToSearch": 1,
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"attributeValues": [],
+			"trackedEntityTypeAttributes": [],
+			"translations": [],
+			"userAccesses": []
+		}
+	]
+}

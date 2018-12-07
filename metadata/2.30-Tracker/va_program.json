@@ -1,0 +1,467 @@
+{
+	"programStageDataElements": [{
+			"id": "HMMC1BNsTtZ",
+			"displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": false,
+			"allowProvidedElsewhere": false,
+			"sortOrder": 4,
+			"allowFutureDate": false,
+			"programStage": {
+				"id": "OiZFUyH5KnN"
+			},
+			"dataElement": {
+				"id": "XLHIBoLtjGt"
+			}
+		}, {
+			"id": "xSkYSzJEo7n",
+			"displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": false,
+			"allowProvidedElsewhere": false,
+			"sortOrder": 6,
+			"allowFutureDate": false,
+			"programStage": {
+				"id": "OiZFUyH5KnN"
+			},
+			"dataElement": {
+				"id": "LwXZ2dZmJb0"
+			}
+		}, {
+			"id": "XvrO69vunUv",
+			"displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": true,
+			"allowProvidedElsewhere": false,
+			"sortOrder": 5,
+			"allowFutureDate": false,
+			"programStage": {
+				"id": "OiZFUyH5KnN"
+			},
+			"dataElement": {
+				"id": "wiJviUqN1io"
+			}
+		}, {
+			"id": "EsUq4Rpvwjq",
+			"displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": false,
+			"allowProvidedElsewhere": false,
+			"sortOrder": 6,
+			"allowFutureDate": false,
+			"programStage": {
+				"id": "OiZFUyH5KnN"
+			},
+			"dataElement": {
+				"id": "oPAg4MA0880"
+			}
+		}, {
+			"id": "DMhzYnmahE6",
+			"displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": true,
+			"allowProvidedElsewhere": false,
+			"sortOrder": 5,
+			"allowFutureDate": false,
+			"programStage": {
+				"id": "OiZFUyH5KnN"
+			},
+			"dataElement": {
+				"id": "F4XGdOBvWww"
+			}
+		}, {
+			"id": "ZSLZvJFWy5c",
+			"displayInReports": true,
+			"skipSynchronization": false,
+			"renderOptionsAsRadio": false,
+			"compulsory": true,
+			"allowProvidedElsewhere": false,
+			"sortOrder": 1,
+			"allowFutureDate": false,
+			"programStage": {
+				"id": "OiZFUyH5KnN"
+			},
+			"dataElement": {
+				"id": "htm6PixLJNy"
+			}
+		}
+	],
+	"programTrackedEntityAttributes": [{
+			"id": "AW2MJtZmNxn",
+			"mandatory": true,
+			"searchable": true,
+			"renderOptionsAsRadio": false,
+			"displayInList": true,
+			"sortOrder": 1,
+			"allowFutureDate": false,
+			"program": {
+				"id": "nrEVPTOQoze"
+			},
+			"trackedEntityAttribute": {
+				"id": "XSFOyybvYJ9"
+			},
+			"programTrackedEntityAttributeGroups": []
+		}, {
+			"id": "aBGN9d9KMsb",
+			"mandatory": false,
+			"searchable": true,
+			"renderOptionsAsRadio": false,
+			"displayInList": true,
+			"sortOrder": 2,
+			"allowFutureDate": false,
+			"program": {
+				"id": "nrEVPTOQoze"
+			},
+			"trackedEntityAttribute": {
+				"id": "P1xsdeFzhCb"
+			},
+			"programTrackedEntityAttributeGroups": []
+		}
+	],
+	"programStages": [{
+			"id": "OiZFUyH5KnN",
+			"name": "Verbal Autopsy",
+			"allowGenerateNextVisit": false,
+			"validCompleteOnly": false,
+			"executionDateLabel": "Date of Death",
+			"preGenerateUID": false,
+			"publicAccess": "r-------",
+			"openAfterEnrollment": false,
+			"repeatable": false,
+			"remindCompleted": false,
+			"displayGenerateEventBox": false,
+			"generatedByEnrollmentDate": false,
+			"autoGenerateEvent": true,
+			"sortOrder": 1,
+			"hideDueDate": true,
+			"blockEntryForm": false,
+			"minDaysFromStart": 0,
+			"program": {
+				"id": "nrEVPTOQoze"
+			},
+			"notificationTemplates": [],
+			"programStageDataElements": [{
+					"id": "ZSLZvJFWy5c",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 1,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "OiZFUyH5KnN"
+					},
+					"dataElement": {
+						"id": "htm6PixLJNy"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "HMMC1BNsTtZ",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 4,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "OiZFUyH5KnN"
+					},
+					"dataElement": {
+						"id": "XLHIBoLtjGt"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "XvrO69vunUv",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 5,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "OiZFUyH5KnN"
+					},
+					"dataElement": {
+						"id": "wiJviUqN1io"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "DMhzYnmahE6",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": true,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 5,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "OiZFUyH5KnN"
+					},
+					"dataElement": {
+						"id": "F4XGdOBvWww"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "xSkYSzJEo7n",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 6,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "OiZFUyH5KnN"
+					},
+					"dataElement": {
+						"id": "LwXZ2dZmJb0"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "EsUq4Rpvwjq",
+					"displayInReports": true,
+					"skipSynchronization": false,
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"allowFutureDate": false,
+					"compulsory": false,
+					"allowProvidedElsewhere": false,
+					"sortOrder": 6,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"programStage": {
+						"id": "OiZFUyH5KnN"
+					},
+					"dataElement": {
+						"id": "oPAg4MA0880"
+					},
+					"favorites": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}
+			],
+			"translations": [],
+			"userGroupAccesses": [{
+					"access": "rwr-----",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"attributeValues": [],
+			"userAccesses": [],
+			"programStageSections": []
+		}
+	],
+	"programs": [{
+			"id": "nrEVPTOQoze",
+			"name": "Verbal Autopsy",
+			"shortName": "VA",
+			"publicAccess": "r-------",
+			"completeEventsExpiryDays": 0,
+			"ignoreOverdueEvents": false,
+			"skipOffline": false,
+			"captureCoordinates": false,
+			"minAttributesRequiredToSearch": 1,
+			"displayFrontPageList": true,
+			"enrollmentDateLabel": "Enrollment date",
+			"onlyEnrollOnce": true,
+			"programType": "WITH_REGISTRATION",
+			"accessLevel": "OPEN",
+			"version": 14,
+			"maxTeiCountToReturn": 0,
+			"selectIncidentDatesInFuture": false,
+			"displayIncidentDate": false,
+			"selectEnrollmentDatesInFuture": false,
+			"expiryDays": 0,
+			"useFirstStageDuringRegistration": true,
+			"trackedEntityType": {
+				"id": "j7AIUZGpUxF"
+			},
+			"programTrackedEntityAttributes": [{
+					"id": "AW2MJtZmNxn",
+					"name": "Verbal Autopsy VA-02-Sex",
+					"displayName": "Verbal Autopsy VA-02-Sex",
+					"mandatory": true,
+					"displayShortName": "VA VA-02-Sex",
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"valueType": "TEXT",
+					"allowFutureDate": false,
+					"searchable": true,
+					"displayInList": true,
+					"sortOrder": 1,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"program": {
+						"id": "nrEVPTOQoze"
+					},
+					"trackedEntityAttribute": {
+						"id": "XSFOyybvYJ9"
+					},
+					"favorites": [],
+					"programTrackedEntityAttributeGroups": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}, {
+					"id": "aBGN9d9KMsb",
+					"name": "Verbal Autopsy VA-03-Date of Birth",
+					"displayName": "Verbal Autopsy VA-03-Date of Birth",
+					"mandatory": false,
+					"displayShortName": "VA VA-03-Date of Birth",
+					"externalAccess": false,
+					"renderOptionsAsRadio": false,
+					"valueType": "DATE",
+					"allowFutureDate": false,
+					"searchable": true,
+					"displayInList": true,
+					"sortOrder": 2,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"program": {
+						"id": "nrEVPTOQoze"
+					},
+					"trackedEntityAttribute": {
+						"id": "P1xsdeFzhCb"
+					},
+					"favorites": [],
+					"programTrackedEntityAttributeGroups": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"userAccesses": []
+				}
+			],
+			"notificationTemplates": [],
+			"translations": [],
+			"organisationUnits": [],
+			"userGroupAccesses": [{
+					"access": "rwr-----",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-rw----",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"programSections": [],
+			"attributeValues": [],
+			"programStages": [{
+					"id": "OiZFUyH5KnN"
+				}
+			],
+			"userAccesses": []
+		}
+	]
+}
