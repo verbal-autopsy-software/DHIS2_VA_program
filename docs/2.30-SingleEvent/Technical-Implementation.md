@@ -102,7 +102,7 @@ Let's look at these properties of the event:
 In general, any client posting VA events needs to know...
 
 - the Organisation Unit UID (can be fetched via API as well if an identifier is known)
-- CoD codes used in DHIS2 (static) - see `\resources\cod_codes\cod_codes_options.csv` for valid codes to send
+- CoD codes used in DHIS2 (static) - see `/resources/cod_codes/cod_codes_options.csv` for valid codes to send
 - The Verbal Autopsy Program UID (static) - probably it's `sv91bCroFFx`
 - Algorithm metadata codes - - see `resources/algorithm_metadata/algorithm_metadata_options.csv` for valid codes to send
 
