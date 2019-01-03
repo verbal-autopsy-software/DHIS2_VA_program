@@ -59,7 +59,7 @@ When the file (SQLite database) was successfully posted, its generated `id` (as 
 
 Example request (payload below):
 
-`curl -X POST "https://va30tr.swisstph-mis.ch/api/30/events" -H "Content-Type: application/json" -u username:password -d @event.json`
+`curl -X POST "https://va30tr.swisstph-mis.ch/api/30/trackedEntityInstances" -H "Content-Type: application/json" -u username:password -d @event.json`
 
 With a payload:
 
