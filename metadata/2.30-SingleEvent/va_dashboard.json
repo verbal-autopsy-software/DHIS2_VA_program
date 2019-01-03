@@ -107,7 +107,7 @@
 			"rowDimensions": ["F4XGdOBvWww"]
 		}, {
 			"id": "vUmcFyaSxbv",
-			"name": "Verbal Autopsies conducted in the last 12 months",
+			"name": "Verbal Autopsies conducted for deaths in the last 12 months",
 			"publicAccess": "r-------",
 			"userOrganisationUnitChildren": false,
 			"hideEmptyRows": false,
