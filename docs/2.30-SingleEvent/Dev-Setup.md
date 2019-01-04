@@ -8,7 +8,7 @@ To install DHIS2, follow the official Installation manual: https://docs.dhis2.or
 
 - Download the `db/2.30-SingleEvent/update-db.sh` script from Github
 - `bash update-db.sh` to fetch a fully configured DHIS2 database where VA is installed. *Warning*: This overwrites the existing database!
-- Log in with `admin` / `District99!` or `va-demo` as indicated in Login screen.
+- Log in with `admin` / `District99!!` or `va-demo` as indicated in Login screen.
 - Inspect logs with `dhis_logs` or `tail -f /home/dhis/tomcat-dhis/logs/catalina.out`
 
 ## Deleting Verbal Autopsy data
