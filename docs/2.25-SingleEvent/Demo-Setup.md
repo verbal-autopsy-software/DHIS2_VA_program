@@ -6,7 +6,7 @@ To do this, follow the installation steps described in the [Installation Guide](
 
 Create **Verbal Autopsy dummy data**:
 
-The actual dummy data can be generated and pushed into DHIS2 by using the script `demo_setup/2.30-SingleEvent/data/post_demo_events.py` as follows:
+The actual dummy data can be generated and pushed into DHIS2 by using the script `demo_setup/2.25-SingleEvent/data/post_demo_events.py` as follows:
 
 ```
 usage: python post_demo_events.py --server --username --password --orgunit [--events]
@@ -28,4 +28,4 @@ Example to create 500 events:
 python post_demo_events.py --server=play.dhis2.org/demo --username=admin --password=district --orgunit=SCVeBskgiK6 --events=500
 ```
 
-To remove data again, run the SQL query `db/delete-program-data.sql`.
+To remove data again, run the SQL query `db/2.25-SingleEvent/delete-program-data.sql`.

@@ -28,4 +28,4 @@ Example to create 500 events:
 python post_demo_events.py --server=play.dhis2.org/demo --username=admin --password=district --orgunit=SCVeBskgiK6 --events=500
 ```
 
-To remove data again, run the SQL query `db/delete-program-data.sql`.
+To remove data again, run the SQL query `db/2.30-SingleEvent/delete-program-data.sql`.
