@@ -139,3 +139,15 @@ In general, any client posting VA events needs to know...
 - CoD codes used in DHIS2 (static) - see `/resources/cod_codes/cod_codes_options.csv` for valid codes to send
 - The Verbal Autopsy Program UID (static) - probably it's `nrEVPTOQoze`
 - Algorithm metadata codes - see `resources/algorithm_metadata/algorithm_metadata_options.csv` for valid codes to send
+
+It's possible to send multiple events at once, just wrap all events into a list and use the same endpoint:
+
+```
+{
+  "trackedEntityInstances": [
+    { <trackedEntity 1>},
+    { <trackedEntity 2>},
+    ...
+  ]
+}
+```
