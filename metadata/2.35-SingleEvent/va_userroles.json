@@ -1,0 +1,21 @@
+{
+  "userRoles": [{
+    "name": "VA Interface",
+    "id": "b4Wpw1VDIPl",
+	"publicAccess": "--------",
+	"authorities": 
+	    [
+		    "F_EXPORT_EVENTS", 
+		    "M_dhis-web-cache-cleaner", 
+		    "M_dhis-web-event-visualizer", 
+		    "F_VIEW_EVENT_ANALYTICS",  
+		    "M_dhis-web-event-reports",
+			"F_IMPORT_EVENTS", 
+			"M_dhis-web-dashboard",			
+		    "M_dhis-web-capture"
+	    ],
+    "translations": [],
+   	"userAccesses": [],
+	"userGroupAccesses": []	
+  }]
+}

@@ -1,0 +1,88 @@
+{
+  "optionSets": [
+    {
+      "name": "Sex (VA)",
+      "id": "JFWEdW5OBJp",
+      "publicAccess": "r-------",
+      "version": 0,
+      "valueType": "TEXT",
+	  "userGroupAccesses": [
+		{
+			"access": "rw------",
+			"id": "gzRTEAchNHi"
+		}
+	  ],
+      "attributeValues": [],
+      "translations": [],
+      "options": [
+        {
+          "id": "xL2Ie1WLGLf"
+        },
+        {
+          "id": "PQZm3JB8rlX"
+        },
+        {
+          "id": "BVVazQh8xEV"
+        },
+        {
+          "id": "gpAfW9h7DD4"
+        },
+        {
+          "id": "Vw5XhyBWXAz"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "code": "female",
+      "name": "female",
+      "id": "PQZm3JB8rlX",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      },
+      "translations": [],
+      "attributeValues": []
+    },
+    {
+      "code": "intermediate",
+      "name": "intermediate",
+      "id": "gpAfW9h7DD4",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      },
+      "translations": [],
+      "attributeValues": []
+    },
+    {
+      "code": "male",
+      "name": "male",
+      "id": "xL2Ie1WLGLf",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      },
+      "translations": [],
+      "attributeValues": []
+    },
+    {
+      "code": "missing",
+      "name": "missing",
+      "id": "Vw5XhyBWXAz",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      },
+      "translations": [],
+      "attributeValues": []
+    },
+    {
+      "code": "unknown",
+      "name": "unknown",
+      "id": "BVVazQh8xEV",
+      "optionSet": {
+        "id": "JFWEdW5OBJp"
+      },
+      "translations": [],
+      "attributeValues": []
+    }
+  ]
+}

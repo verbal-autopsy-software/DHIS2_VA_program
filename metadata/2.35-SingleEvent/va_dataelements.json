@@ -1,0 +1,102 @@
+{
+    "dataElements": [
+        {
+            "code": "VA-01", 
+            "description": "The ID from the Verbal Autopsy conducted", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "aggregationType": "NONE", 
+            "formName": "Verbal Autopsy ID", 
+            "id": "htm6PixLJNy", 
+            "name": "VA-01-Verbal Autopsy ID",
+			"shortName": "VA-01-Verbal Autopsy ID"
+        }, 
+        {
+            "code": "VA-02", 
+            "description": "Sex of the patient (male or female)", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "aggregationType": "NONE", 
+            "formName": "Sex", 
+            "optionSet": {
+                "id": "JFWEdW5OBJp"
+            }, 
+            "id": "hi7qRC4SMMk", 
+            "name": "VA-02-Sex",
+			"shortName": "VA-02-Sex"
+        }, 
+        {
+            "code": "VA-03", 
+            "description": "Date of birth (if known)", 
+            "domainType": "TRACKER", 
+            "valueType": "DATE", 
+            "aggregationType": "AVERAGE", 
+            "formName": "Date of Birth", 
+            "id": "mwSaVq64k7j", 
+            "name": "VA-03-Date of Birth",
+			"shortName": "VA-03-Date of Birth"
+        }, 
+        {
+            "code": "VA-04", 
+            "description": "Age of person in years", 
+            "domainType": "TRACKER", 
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true, 
+            "aggregationType": "AVERAGE", 
+            "formName": "Age (in years)", 
+            "id": "oPAg4MA0880", 
+            "name": "VA-04-Age (in years)",
+			"shortName": "VA-04-Age (in years)"
+        }, 
+        {
+            "code": "VA-05", 
+            "description": "Most probable Cause of Death determined by Verbal Autopsy", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "aggregationType": "NONE", 
+            "formName": "Most probable Cause of Death", 
+            "optionSet": {
+                "id": "LAWwdYur1ds"
+            }, 
+            "id": "F4XGdOBvWww", 
+            "name": "VA-05-Most probable Cause of Death",
+			"shortName": "VA-05-Most probable Cause of Death"
+        }, 
+        {
+            "code": "VA-06", 
+            "description": "SQLite file holding VA raw data", 
+            "domainType": "TRACKER", 
+            "valueType": "FILE_RESOURCE", 
+            "aggregationType": "NONE", 
+            "formName": "Verbal Autopsy raw data file", 
+            "id": "XLHIBoLtjGt", 
+            "name": "VA-06-Verbal Autopsy raw data file",
+			"shortName": "VA-06-Verbal Autopsy raw data file"
+        }, 
+        {
+            "code": "VA-07", 
+            "description": "Algorithm metadata on how CoD was obtained, including Algorithm, SCI and VA Instrument", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "aggregationType": "NONE", 
+            "formName": "Algorithm metadata on how CoD was obtained", 
+            "optionSet": {
+                "id": "Joti2JHU4i6"
+            }, 
+            "id": "wiJviUqN1io", 
+            "name": "VA-07-Algorithm metadata on how CoD was obtained",
+			"shortName": "VA-07-Algorithm metadata on how CoD was obtained"
+        },
+        {
+            "code": "VA-08", 
+            "description": "The ODK meta:instanceID, which is the unique identification of a completed ODK form", 
+            "domainType": "TRACKER", 
+            "valueType": "TEXT", 
+            "aggregationType": "NONE", 
+            "formName": "ODK_meta:instanceID", 
+            "id": "LwXZ2dZmJb0", 
+            "name": "VA-08-ODK_meta:instanceID",
+			"shortName": "VA-08-ODK_meta:instanceID"
+        }
+    ]
+}

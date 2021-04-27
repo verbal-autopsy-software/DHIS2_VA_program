@@ -1,0 +1,27 @@
+{
+  "userGroups": 
+  [
+    {
+      "name": "VA Admin",
+      "id": "gzRTEAchNHi",
+      "publicAccess": "--------",
+      "managedGroups": [],
+	  "translations": [],
+      "users": [],
+	  "userGroupAccesses": [],
+	  "userAccesses": [],
+	  "attributeValues": []
+    }, 
+    {
+	  "name": "VA Interface",
+      "id": "ety7QWaDBVS",
+      "publicAccess": "--------",
+      "managedGroups": [],
+	  "translations": [],
+      "users": [],
+	  "userGroupAccesses": [],
+	  "userAccesses": [],
+	  "attributeValues": []
+    }	
+  ]
+}

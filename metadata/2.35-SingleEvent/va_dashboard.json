@@ -1,0 +1,358 @@
+{
+	"eventReports": [{
+			"id": "Uajz3kxi4qP",
+			"name": "Top causes of death this year",
+			"publicAccess": "r-------",
+			"userOrganisationUnitChildren": false,
+			"hideEmptyRows": true,
+			"userOrganisationUnit": false,
+			"rowSubTotals": false,
+			"hideNaData": true,
+			"displayDensity": "NORMAL",
+			"dataType": "AGGREGATED_VALUES",
+			"completedOnly": false,
+			"colTotals": true,
+			"showDimensionLabels": true,
+			"sortOrder": 1,
+			"fontSize": "NORMAL",
+			"topLimit": 25,
+			"collapseDataDimensions": false,
+			"userOrganisationUnitGrandChildren": false,
+			"hideSubtitle": false,
+			"outputType": "EVENT",
+			"externalAccess": false,
+			"colSubTotals": false,
+			"showHierarchy": false,
+			"rowTotals": false,
+			"digitGroupSeparator": "SPACE",
+			"hideTitle": false,
+			"program": {
+				"id": "sv91bCroFFx"
+			},
+			"relativePeriods": {
+				"thisYear": true,
+				"quartersLastYear": false,
+				"last52Weeks": false,
+				"thisWeek": false,
+				"lastMonth": false,
+				"last14Days": false,
+				"biMonthsThisYear": false,
+				"monthsThisYear": false,
+				"last2SixMonths": false,
+				"yesterday": false,
+				"thisQuarter": false,
+				"last12Months": false,
+				"last5FinancialYears": false,
+				"thisSixMonth": false,
+				"lastQuarter": false,
+				"thisFinancialYear": false,
+				"last4Weeks": false,
+				"last3Months": false,
+				"thisDay": false,
+				"thisMonth": false,
+				"last5Years": false,
+				"last6BiMonths": false,
+				"last4BiWeeks": false,
+				"lastFinancialYear": false,
+				"lastBiWeek": false,
+				"weeksThisYear": false,
+				"last6Months": false,
+				"last3Days": false,
+				"quartersThisYear": false,
+				"monthsLastYear": false,
+				"lastWeek": false,
+				"last7Days": false,
+				"thisBimonth": false,
+				"lastBimonth": false,
+				"lastSixMonth": false,
+				"thisBiWeek": false,
+				"lastYear": false,
+				"last12Weeks": false,
+				"last4Quarters": false
+			},
+			"programStage": {
+				"id": "FwAlkJf16OE"
+			},
+			"attributeDimensions": [],
+			"translations": [],
+			"filterDimensions": ["ou"],
+			"itemOrganisationUnitGroups": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}
+			],
+			"programIndicatorDimensions": [],
+			"subscribers": [],
+			"columnDimensions": ["pe"],
+			"userAccesses": [],
+			"favorites": [],
+			"categoryOptionGroupSetDimensions": [],
+			"organisationUnitGroupSetDimensions": [],
+			"organisationUnitLevels": [],
+			"dataElementDimensions": [{
+					"dataElement": {
+						"id": "F4XGdOBvWww"
+					}
+				}
+			],
+			"periods": [],
+			"organisationUnits": [{
+					"id": "wEVB21sQaHu"
+				}
+			],
+			"categoryDimensions": [],
+			"rowDimensions": ["F4XGdOBvWww"]
+		}, {
+			"id": "vUmcFyaSxbv",
+			"name": "Verbal Autopsies conducted for deaths in the last 12 months",
+			"publicAccess": "r-------",
+			"userOrganisationUnitChildren": false,
+			"hideEmptyRows": false,
+			"userOrganisationUnit": false,
+			"rowSubTotals": false,
+			"hideNaData": false,
+			"displayDensity": "NORMAL",
+			"dataType": "EVENTS",
+			"completedOnly": false,
+			"colTotals": true,
+			"showDimensionLabels": true,
+			"sortOrder": 0,
+			"fontSize": "NORMAL",
+			"topLimit": 0,
+			"collapseDataDimensions": false,
+			"userOrganisationUnitGrandChildren": false,
+			"hideSubtitle": false,
+			"outputType": "EVENT",
+			"externalAccess": false,
+			"colSubTotals": true,
+			"showHierarchy": false,
+			"rowTotals": false,
+			"digitGroupSeparator": "SPACE",
+			"hideTitle": false,
+			"program": {
+				"id": "sv91bCroFFx"
+			},
+			"relativePeriods": {
+				"thisYear": false,
+				"quartersLastYear": false,
+				"last52Weeks": false,
+				"thisWeek": false,
+				"lastMonth": false,
+				"last14Days": false,
+				"biMonthsThisYear": false,
+				"monthsThisYear": false,
+				"last2SixMonths": false,
+				"yesterday": false,
+				"thisQuarter": false,
+				"last12Months": true,
+				"last5FinancialYears": false,
+				"thisSixMonth": false,
+				"lastQuarter": false,
+				"thisFinancialYear": false,
+				"last4Weeks": false,
+				"last3Months": false,
+				"thisDay": false,
+				"thisMonth": false,
+				"last5Years": false,
+				"last6BiMonths": false,
+				"last4BiWeeks": false,
+				"lastFinancialYear": false,
+				"lastBiWeek": false,
+				"weeksThisYear": false,
+				"last6Months": false,
+				"last3Days": false,
+				"quartersThisYear": false,
+				"monthsLastYear": false,
+				"lastWeek": false,
+				"last7Days": false,
+				"thisBimonth": false,
+				"lastBimonth": false,
+				"lastSixMonth": false,
+				"thisBiWeek": false,
+				"lastYear": false,
+				"last12Weeks": false,
+				"last4Quarters": false
+			},
+			"programStage": {
+				"id": "FwAlkJf16OE"
+			},
+			"attributeDimensions": [],
+			"translations": [],
+			"filterDimensions": [],
+			"itemOrganisationUnitGroups": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}
+			],
+			"programIndicatorDimensions": [],
+			"subscribers": [],
+			"columnDimensions": ["pe", "ou", "htm6PixLJNy", "hi7qRC4SMMk", "mwSaVq64k7j", "oPAg4MA0880", "F4XGdOBvWww", "XLHIBoLtjGt", "wiJviUqN1io", "LwXZ2dZmJb0"],
+			"userAccesses": [],
+			"favorites": [],
+			"categoryOptionGroupSetDimensions": [],
+			"organisationUnitGroupSetDimensions": [],
+			"organisationUnitLevels": [],
+			"dataElementDimensions": [{
+					"dataElement": {
+						"id": "htm6PixLJNy"
+					}
+				}, {
+					"dataElement": {
+						"id": "hi7qRC4SMMk"
+					}
+				}, {
+					"dataElement": {
+						"id": "mwSaVq64k7j"
+					}
+				}, {
+					"dataElement": {
+						"id": "oPAg4MA0880"
+					}
+				}, {
+					"dataElement": {
+						"id": "F4XGdOBvWww"
+					}
+				}, {
+					"dataElement": {
+						"id": "XLHIBoLtjGt"
+					}
+				}, {
+					"dataElement": {
+						"id": "wiJviUqN1io"
+					}
+				}, {
+					"dataElement": {
+						"id": "LwXZ2dZmJb0"
+					}
+				}
+			],
+			"periods": [],
+			"organisationUnits": [{
+					"id": "wEVB21sQaHu"
+				}
+			],
+			"categoryDimensions": [],
+			"rowDimensions": []
+		}
+	],
+	"dashboardItems": [{
+			"id": "ZQ8IISDmKSx",
+			"width": 41,
+			"x": 0,
+			"y": 0,
+			"height": 19,
+			"eventReport": {
+				"id": "vUmcFyaSxbv"
+			},
+			"reports": [],
+			"resources": [],
+			"users": [],
+			"translations": []
+		}, {
+			"id": "JxDZktVIhKD",
+			"width": 17,
+			"x": 41,
+			"y": 0,
+			"height": 19,
+			"eventReport": {
+				"id": "Uajz3kxi4qP"
+			},
+			"reports": [],
+			"resources": [],
+			"users": [],
+			"translations": []
+		}
+	],
+	"dashboards": [{
+			"name": "Verbal Autopsy",
+			"id": "rSterBftQAh",
+			"publicAccess": "--------",
+			"externalAccess": false,
+			"favorites": [],
+			"userGroupAccesses": [{
+					"access": "rw------",
+					"userGroupUid": "gzRTEAchNHi",
+					"displayName": "VA Admin",
+					"id": "gzRTEAchNHi"
+				}, {
+					"access": "r-------",
+					"userGroupUid": "ety7QWaDBVS",
+					"displayName": "VA Interface",
+					"id": "ety7QWaDBVS"
+				}
+			],
+			"dashboardItems": [{
+					"id": "ZQ8IISDmKSx",
+					"type": "EVENT_REPORT",
+					"externalAccess": false,
+					"contentCount": 1,
+					"height": 19,
+					"interpretationCount": 0,
+					"width": 41,
+					"x": 0,
+					"y": 0,
+					"interpretationLikeCount": 0,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"eventReport": {
+						"id": "vUmcFyaSxbv"
+					},
+					"favorites": [],
+					"reports": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"resources": [],
+					"users": [],
+					"userAccesses": []
+				}, {
+					"id": "JxDZktVIhKD",
+					"type": "EVENT_REPORT",
+					"externalAccess": false,
+					"contentCount": 1,
+					"height": 19,
+					"interpretationCount": 0,
+					"width": 17,
+					"x": 41,
+					"y": 0,
+					"interpretationLikeCount": 0,
+					"favorite": false,
+					"access": {
+						"read": true,
+						"update": true,
+						"externalize": true,
+						"delete": true,
+						"write": true,
+						"manage": true
+					},
+					"eventReport": {
+						"id": "Uajz3kxi4qP"
+					},
+					"favorites": [],
+					"reports": [],
+					"translations": [],
+					"userGroupAccesses": [],
+					"attributeValues": [],
+					"resources": [],
+					"users": [],
+					"userAccesses": []
+				}
+			],
+			"translations": [],
+			"userAccesses": []
+		}
+	]
+}
