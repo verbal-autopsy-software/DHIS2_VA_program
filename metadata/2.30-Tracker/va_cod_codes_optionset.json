@@ -34330,7 +34330,7 @@
             }
         }, 
         {
-            "code": "01.08 10.05", 
+            "code": "1.08 10.05", 
             "id": "lgGwjvB6ml4", 
             "name": "01.08 10.05 Tetanus", 
             "optionSet": {
@@ -34346,7 +34346,7 @@
             }
         }, 
         {
-            "code": "1.1", 
+            "code": "1.10", 
             "id": "V5QYzX7vCdG", 
             "name": "01.10 Pertussis", 
             "optionSet": {
@@ -34410,9 +34410,9 @@
             }
         }, 
         {
-            "code": "02.05 02.06 ", 
+            "code": "2.05 2.06", 
             "id": "yB0qmB07G1A", 
-            "name": "02.05 02.06  Reproductive neoplasms M, F", 
+            "name": "02.05 02.06 Reproductive neoplasms M, F", 
             "optionSet": {
                 "id": "LAWwdYur1ds"
             }
@@ -34612,7 +34612,7 @@
         {
             "code": "10.01", 
             "id": "mxTwzZhOmxx", 
-            "name": "10.01 Prematurity ", 
+            "name": "10.01 Prematurity", 
             "optionSet": {
                 "id": "LAWwdYur1ds"
             }
@@ -34668,7 +34668,7 @@
         {
             "code": "11.02", 
             "id": "sMHbDYh3dy7", 
-            "name": "11.02 Macerated stillbirth ", 
+            "name": "11.02 Macerated stillbirth", 
             "optionSet": {
                 "id": "LAWwdYur1ds"
             }
@@ -34676,7 +34676,7 @@
         {
             "code": "12.01", 
             "id": "hwf6p0Z4I8z", 
-            "name": "12.01 Road traffic accident ", 
+            "name": "12.01 Road traffic accident", 
             "optionSet": {
                 "id": "LAWwdYur1ds"
             }
@@ -34724,7 +34724,7 @@
         {
             "code": "12.07", 
             "id": "BzyH4mbU1No", 
-            "name": "12.07Accidental poisoning and exposure to noxious substance", 
+            "name": "12.07 Accidental poisoning and exposure to noxious substance", 
             "optionSet": {
                 "id": "LAWwdYur1ds"
             }
@@ -123834,4 +123834,4 @@
             }
         }
     ]
-}
+}      
